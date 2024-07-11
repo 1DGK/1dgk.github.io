@@ -4,18 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-last updated 07 JUL 2024
+last updated 11 JUL 2024
 
 ## 2024 - Doing
-- Self-host setup / homelab
-
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA Linux+
-
+- [ISC2 Certified in Cybersecurity](https://www.isc2.org/landing/1mcc) - Free training and exam, though you need to pay a $50 USD yearly membership fee afterwards. My plan is to carry on and get the CSSP and CISSP, so this is a good first step. 
+- [TryHackMe](https://tryhackme.com/) - I won a six-month voucher during the winter CTF contest last year. My plan is to go through every learning path.
 - [Cisco Networking Academy (Skills for All) Network Technician](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
-- [Cisco Networking Academy (Skills for All) Junior Cybersecurity Analyst](https://skillsforall.com/career-path/cybersecurity?courseLang=en-US)
+
+- I like [this reddit post](https://www.reddit.com/r/CyberSecurityJobs/comments/1asog50/roadmap_to_careers_in_cybersecurity_and_cloud/) as it lays out a game plan from scratch. 
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
