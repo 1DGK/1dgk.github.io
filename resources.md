@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Last updated 09 JUN 2024.
+Last updated 11 JUL 2024.
 
 ### Foundations
 
@@ -23,7 +23,6 @@ Last updated 09 JUN 2024.
 - 🏫 [Linux Journey](https://linuxjourney.com/)
 - 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
 - 📖 [Linux Command Library](https://linuxcommandlibrary.com/) - cheat sheet
-
 
 ***Python***
 - 📖 [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
@@ -53,16 +52,13 @@ Last updated 09 JUN 2024.
 
 ### Free courses
 - 🏫 [Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
-    - Introduction to Cyber Security
-    - Securing Software
-    - Advanced Topics
 - 🏫 [Roppers](https://www.roppers.org/)
 - 🏫 [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - 🏫 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - 🏫 [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
 - 🏫 [Immersive Labs - Cyber Million](https://community.immersivelabs.online/register) - Use promo code CYBER-MILLION or GIMMEFREELABS at sign-up.
 - 🏫 [Trailhead - Cybersecurity Career Path - Fortinet / Salesforce / WEF / World Cyber Alliance](https://trailhead.salesforce.com/en/career-path/cybersecurity/)
--   [ISC2 - Certified in Cybersecurity](https://www.isc2.org/landing/1mcc)
+- 🏫 [ISC2 - Certified in Cybersecurity](https://www.isc2.org/landing/1mcc)
 
 ### Other resources:
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
