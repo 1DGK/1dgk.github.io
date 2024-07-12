@@ -30,7 +30,7 @@ Clients are computer hosts that have software installed that enables the hosts t
 
 **Home Networking Basics**: Ethernet ports (usually labelled "Ethernet" or "LAN"), and internet port (which connects the router to a different network than the Ethernet ports, like the Internet).
 
-**Network Technologies in the Home**: 2.4- 2.48GHz and 5.725-5.85Ghz. Bluetooth and Wi-Fi. POWERLINE.
+**Network Technologies in the Home**: 2.4- 2.48GHz and 5.725-5.85Ghz. Bluetooth and Wi-Fi. Powerline.
 
 **Wireless Standards**:
 
