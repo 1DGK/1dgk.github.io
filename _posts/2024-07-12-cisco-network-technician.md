@@ -3,7 +3,7 @@ layout: post
 title: Cisco Networking Academy - Skills for All - Network Technician Path
 ---
 # Cisco Networking Academy - Network Technician Path
-This is a free resource that currently has two paths, one for cybersecurity and one for networking. 
+This is a free resource that currently has two free career paths: Junior Cybersecurity Analyst and Network Technician. Following are my notes for the latter.
 
 ## Networking Basics
 **Types of networks**: small home / office, medium to large networks, the internet - network of networks. 
@@ -20,8 +20,9 @@ Servers are hosts that have software installed which enable them to provide info
 
 Clients are computer hosts that have software installed that enables the hosts to request and display the information from the server.
 
-**Network Components**: end devices (computers, phones, etc.), intermediate devices, network media
+**Network Components**: end devices (computers, phones, etc.), intermediate devices, network media.
 
 **ISP Connectivity Options**
 
 ### Resources
+- [Cisco Networking Academy - Network Technician](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
