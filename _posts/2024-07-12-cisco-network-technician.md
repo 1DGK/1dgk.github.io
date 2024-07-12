@@ -24,9 +24,18 @@ Clients are computer hosts that have software installed that enables the hosts t
 
 **ISP Connectivity Options**: the average user is unaware of the backbone of the internet, e.g. the fiber-optic cables that cross the globe. Fiber typically doesn't go into the home. It's cable or DSL. There's also cellular, satellite, and dial-up telephone.
 
-**Wireless Networks**: 
+**Wireless Networks**: GSM, 4G / 5G, GPS, Wi-Fi, Bluetooth, NFC
 
-**Wireless Device Connectivity**
+**Wireless Device Connectivity**: Wi-Fi radios use less power than cellular radios, so Wi-Fi networks conserve battery power.
+
+**Home Networking Basics**: Ethernet ports (usually labelled "Ethernet" or "LAN"), and internet port (which connects the router to a different network than the Ethernet ports, like the Internet).
+
+**Network Technologies in the Home**: 2.4- 2.48GHz and 5.725-5.85Ghz. Bluetooth and Wi-Fi. POWERLINE.
+
+**Wireless Standards**:
+
+**Set Up a Home Router**:
+
 
 ### Resources
 - [Cisco Networking Academy - Network Technician](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
