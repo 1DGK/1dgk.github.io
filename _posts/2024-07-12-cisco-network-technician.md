@@ -22,7 +22,11 @@ Clients are computer hosts that have software installed that enables the hosts t
 
 **Network Components**: end devices (computers, phones, etc.), intermediate devices, network media.
 
-**ISP Connectivity Options**
+**ISP Connectivity Options**: the average user is unaware of the backbone of the internet, e.g. the fiber-optic cables that cross the globe. Fiber typically doesn't go into the home. It's cable or DSL. There's also cellular, satellite, and dial-up telephone.
+
+**Wireless Networks**: 
+
+**Wireless Device Connectivity**
 
 ### Resources
 - [Cisco Networking Academy - Network Technician](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
