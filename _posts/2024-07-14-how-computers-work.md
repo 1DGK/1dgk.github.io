@@ -4,9 +4,9 @@ title: CNTP - How Computers Work
 ---
 In this section of the Cyber Ninja Training Plan, it's a few short YouTube videos that explain how computers work. 
 
-Here is a link to the [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq). 
+Link to the [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq). 
 
-Here is a link to the video playlist, [How Computers Work](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&feature=shared).
+Link to the video playlist, [How Computers Work](https://youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&feature=shared).
 
 ---
 ### My Notes
