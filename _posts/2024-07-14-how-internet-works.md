@@ -31,3 +31,14 @@ The Internet is really a design philosophy that uses protocols.
 IP's and DNS.
 
 TCP: Transmission Control Protocol. Like a guaranteed mail service.
+
+SSL and TLS. Like a layer of security. 
+
+256-bit encryption is really good for the time being. 
+
+Public key cryptography.
+
+Cyber crime is bad.
+
+Search engines. Spider bots. Google created Page Rank. 
+
