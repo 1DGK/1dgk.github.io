@@ -37,3 +37,9 @@ Flags go after the last forward slash. E.g. `/cat/g`
 /(t|T)he/g
 
 /^The/g
+
+To be honest, just use the explainer website regexr, linked above.
+
+Positive look-behind.
+
+Look-ahead.
