@@ -49,16 +49,18 @@ Here is a link to the (free) Udemy course, [Linux Command Line for Beginners](ht
 /var/ is where log files typically exist
 
 ---
-Play around with the following commands: `pwd` `cd` `ls`
+Play around with the following commands: `pwd` `cd` `ls` `file`
 
 Use a wildcard at the end of a command to list everything, e.g.
 ```sh
 $ ls /etc/cron*
 ```
 
-File permissions
+**File Permissions**
+
 d means it's a directory
-- means it's a file
+
+`-` means it's a file
 
 rwx: read, write, execute.
 
