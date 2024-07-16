@@ -202,4 +202,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 07/08 BOARDWALK EMPIRE\
 07/09 BOARDWALK EMPIRE\
 07/10 BOARDWALK EMPIRE\
-07/11 BOARDWALK EMPIRE
+07/11 BOARDWALK EMPIRE\
+07/12 BOARDWALK EMPIRE\
+07/13 [blank]\
+07/14 [blank]\
+07/15 [blank]
