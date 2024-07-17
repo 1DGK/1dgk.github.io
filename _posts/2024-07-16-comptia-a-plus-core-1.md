@@ -12,6 +12,8 @@ Here is a link to [Professor Messer's CompTIA A+ 220-1101 A+ Training Course](ht
 
 Here is a link to the [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq). 
 
+Here is a link to my [Cyber Ninja Training Plan (CNTP) Jumpoff Post](https://1dgk.github.io/2024/07/14/cyber-ninja-jumpoff.html)
+    
 ---
 # My Notes
 ## Section 0: How to Pass the A+ Exams
