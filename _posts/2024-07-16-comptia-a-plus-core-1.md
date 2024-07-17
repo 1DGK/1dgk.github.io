@@ -41,3 +41,65 @@ Here is a link to my main [Cyber Ninja Training Plan (CNTP) Jumpoff](https://1dg
 
 ## Section 1: Mobile Devices
 ### 1.1 - Laptop Hardware
+- Keycaps and the mechanics underneath are very delicate. 
+- SO-DIMM - Small Outline Dual In-line Memory Module
+    - Often used for laptops and mobile devices
+- Others are soldered to the system board
+- Laptop storage
+    - 2.5 form factor
+    - Magnetic disk, SSD, or M.2
+- HDD to SSD is an impressive upgrade, like a getting a new laptop
+- Can also clone to HDD (i.e., make an image)
+    - Need software like CloneZilla
+- 802.11 wireless and Bluetooth
+    - Mini PCI and Mini PCI Express
+- Biometrics
+    - Fingerprint or face recognition
+        - Something you are
+    - Requires hardware and software
+        - See Sign-in options in Windows
+    - Relatively secure
+- Near-field communication (NFC)
+    - 4cm or less
+    - Data transfers or authentication
+    - Don't need a password
+### 1.2 - Laptop Displays
+- Liquid crystal display (LCD)
+    - Lightweight
+    - Low power
+    - Inexpensive
+    - Black levels are a challenge
+    - Requires separate backlight
+- TN (Twisted Nematic) LCD
+    - Fast response times
+    - Poor viewing angles - color shifts
+- IPS (In Plane Switching) LCD
+    - Excellent color
+    - More expensive than TN
+- VA (vertical Alignment) LCD
+    - Good compromise between
+- Organic Light Emitting Diode (OLED)
+    - Very thin, no glass needed
+    - No backlight
+    - Higher cost than LCD
+- Wi-Fi antennas
+    - WiFi main and aux
+    - Bluetooth
+    - Antenna wires wrap around the laptop screen
+- Webcam
+    - Video capture
+    - Both video and audio
+    - Not good for casual use
+- CCFL - Cold Cathode Fluorescent Lamp
+    - Higher voltage
+    - Added thickness
+    - No longer common, used on older laptops
+- The latest laptops use LED-backlit LCD displays
+- Digitizer
+    - Use a pen-like device as input
+        - Stylus
+- Touchscreen
+    - Merge laptop and tablet input
+    - Digitizer responds to touch
+
+### 1.3 - Connecting Mobile Devices
