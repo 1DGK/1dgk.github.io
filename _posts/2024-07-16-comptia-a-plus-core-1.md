@@ -10,10 +10,34 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 
 Here is a link to [Professor Messer's CompTIA A+ 220-1101 A+ Training Course](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/).
 
-Here is a link to the [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq). 
+Here is a link to the original [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq) spreadsheet. 
 
-Here is a link to my [Cyber Ninja Training Plan (CNTP) Jumpoff Post](https://1dgk.github.io/2024/07/14/cyber-ninja-jumpoff.html)
+Here is a link to my main [Cyber Ninja Training Plan (CNTP) Jumpoff](https://1dgk.github.io/2024/07/14/cyber-ninja-jumpoff.html) post.
     
 ---
 # My Notes
 ## Section 0: How to Pass the A+ Exams
+- Computer Technology Industry Association (CompTIA)
+- Vendor-neutral
+- Core 1
+    - Mobile Devices
+    - Networking
+    - Hardware
+    - Virtualization and Cloud Computing
+    - Hardware and Network Troubleshooting
+- Core 2
+    - OS
+    - Security
+    - Software Troubleshooting
+    - Operating Procedures
+- 3.5 years, roughly, so check the CompTIA website
+- Multiple choice and performance-based
+- Follow the exam objectives
+- Watch the videos
+- Get a good book
+- Get as much hands-on as possible
+- Test yourself often
+- Exam objectives. Seriously
+
+## Section 1: Mobile Devices
+### 1.1 - Laptop Hardware
