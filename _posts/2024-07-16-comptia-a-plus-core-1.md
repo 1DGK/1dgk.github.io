@@ -104,3 +104,72 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Digitizer responds to touch
 
 ### 1.3 - Connecting Mobile Devices
+- Universal Serial Bus
+    - Micro B
+    - Mini B
+    - Type A
+- USB-C 
+    - 24-pin double-sided
+    - Can transmit other signals
+        - DP
+        - HDMI
+        - Thunderbolt
+- Lightning
+    - Apple 8-pin
+    - High power output
+- Serial interfaces
+    - DB-9
+        - Aka DE-9
+        - For RS-232 signals
+        - Use a USB to DB-9 converter
+- NFC
+    - Send small amounts of data
+    - Built into your phone
+    - Access token, identification 'card'
+- Bluetooth
+    - High speed comms over short distances
+- Hotspot
+    - Turn your phone into a WiFi hotspot
+    - Extend your cell data network to all your devices
+    - Dependent on phone type
+
+### 1.3 - Mobile Device Accessories
+- Touch pens
+    - Stylus / touchscreen pen
+    - Handwriting
+    - Precise selection
+- Active stylus
+    - Digital stylus
+    - More advanced
+    - Communicates directly to the device
+    - Programmable buttons
+    - Must be compatible with the tablet
+- Drawing pad
+    - Use an active stylus with an external digitizer
+    - Very precise input
+    - Third-party device
+- Trackpad
+    - Replace the mouse
+        - Useful in tight working areas
+    - External options
+    - Drag and tap, or multiple finger input options
+    - Enable and disable
+- Headsets
+    - Earphones and microphone
+    - Wired or Bluetooth
+- Speakers
+    - Mobile audio 
+- Camera / webcam
+    - Internal or external
+    - Accessible from many apps
+- Docking station
+    - Use external keyboard and mouse
+    - Extend interfaces
+    - Add functionality
+    - Avoid cable issues
+- Port replicator
+    - Similar to docking station
+    - Connects through USB
+
+---
+### 1.4 - Cellular Standards
