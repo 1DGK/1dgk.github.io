@@ -208,3 +208,31 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Your own personal wireless router
 
 ### 1.4 - Mobile Device Connectivity
+- Bluetooth pairing
+    - Use or verify a PIN
+    - Pair the devices one time
+    - Check with the manufacturer
+    - Enable Bluetooth on both devices
+    - Set to discoverable mode
+    - Select discovered device
+    - Enter or confirm PIN
+    - Test connectivity
+- GPS
+    - Created by US DoD
+    - Over 30 sat's in orbit
+    - Precise navigation
+    - Need at least 4 satellites
+    - Determines location based on timing differences
+    - Phones can also use WiFi and cell towers
+- MDM (Mobile Device Management)
+    - Manage company-owned or BYODs
+    - Centralized management of the mobile devices
+    - Set policies on apps, data, camera, etc. 
+    - Manage access control
+        - Force screen locks and PINs
+    - Corporate email configuration
+        - User doesn't need to configure anything
+    - Two-factor authentication
+        - Biometrics, auth app, etc. 
+    - Control apps
+        - Allow or restrict
