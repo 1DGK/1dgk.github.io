@@ -236,3 +236,96 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Biometrics, auth app, etc. 
     - Control apps
         - Allow or restrict
+
+### 1.4 - Mobile Device Configuration 
+- Configuring a mobile device
+    - Preconfigured
+        - Telephone and text
+    - Email
+        - Configurations vary
+    - Data synchronization
+- Microsoft 365
+    - Outlook, Exchange
+    - Authenticate to 365
+        - Username, password
+    - Same process for Google Workspace
+- iCloud
+    - iOS and iPadOS
+    - Select sync options
+    - Sync to macOS
+- Syncing data
+    - Mail
+    - Pictures, etc.
+    - Data caps and transfer costs
+        - Cell or 802.11 networks
+
+### 2.1 - Introduction to IP 
+- A series of moving vans
+    - Efficiently move large amounts of data
+        - Use a shipping truck
+    - The network topology is the road
+        - Ethernet, DSL, cable system
+    - The truck is the IP Internet Protocol
+    - The boxes hold your data
+    - Inside the boxes are more things
+        - Application information
+- TCP and UDP
+    - Transported inside the IP
+        - Encapsulated by the IP
+    - Two wayts to move data
+    - OSI Layer 4
+        - Transport layer
+    - Multiplexing
+        - Use many different applications at the same time
+        - TCP and UDP
+- TCP
+    - Connection-oriented
+        - A formal connection setup and close
+    - Reliable delivery
+        - Recovery from errors
+        - Can manage out-of-order messages or retransmissions
+    - Flow control
+        - The receiver can manage how much data is sent
+- UDP - User Datagram Protocol
+    - No formal open or close the connection
+    - Simple transaction
+    - Unreliable
+        - No error recovery
+        - No reordering of data
+    - No flow control 
+- Why would you ever use UDP?
+    - Real-time communication
+        - Quick, doesn't stop for your network
+    - Connectionless protocols
+        - DHCP Dynamic Host Config
+        - TFTP Trivial File Transfer Protocol
+    - It's up to the application to track and decide what to do
+- Communication with TCP
+    - Return receipt
+        - HTTPS
+        - SSH
+    - The application doesn't worry about out of order frames or missing data
+- Speedy delivery
+    - The IP delivery truck delivers from one IP address to another IP address
+    - Boxes arrive at the house / IP address
+        - Where do the boxes go?
+        - Each box has a room name
+    - Port is written on the outside of the box
+        - Drop the box into the right room
+- Lots of ports
+    - IPv4 sockets
+        - Server IP address, protocol, server app port number
+        - Client IP address, protocol, client port number
+    - Non-ephemeral ports - permanent port numbers
+        - Ports 0 through 1,023
+        - Usually on a server or service
+    - Ephemeral ports - temporary port numbers
+        - Ports 1,023 through 65,535
+        - Determined in real-time by the client
+- Port numbers 
+    - TCP and UDP ports can be any number between 0 and 65,535
+    - Most servers use non-ephemeral
+        - Not always. It's just a number
+    - Port numbers are for communication, not security
+    - Service port numbers need to be 'well known'
+    - TCP port numbers aren't the same as UDP port numbers
