@@ -173,3 +173,38 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 
 ---
 ### 1.4 - Cellular Standards
+- 2G
+    - GSM
+    - CDMA
+    - Poor data support
+- GSM
+    - Global System for Mobile Communications
+    - 90% of the market
+    - Used multiplexing
+- CDMA
+    - Code Division Multiple Access
+        - Each call uses a different code
+    - Not much adoption elsewhere
+- 3G technology
+    - Introduced in 1988
+    - Several megabits per second
+    - Bandwidth improvement
+        - GPS
+- 4G and LTE
+    - Long Term Evolution
+    - Converged standard (GSM and CDMA providers)
+    - Based on GSM and EDGE (Enhanced Data Rates for GSM Evolution)
+    - 150 Mbit/s
+- 5G
+    - 2020
+    - Higher freqs
+    - 10 Gbit/s
+    - Significant IoT impact
+- Updates
+    - PRL updates
+        - Preferred Roaming List
+    - Allows your phone to connect to the right tower
+- Hotspot
+    - Your own personal wireless router
+
+### 1.4 - Mobile Device Connectivity
