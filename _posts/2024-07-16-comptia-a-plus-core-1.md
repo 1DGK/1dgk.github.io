@@ -329,3 +329,12 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Port numbers are for communication, not security
     - Service port numbers need to be 'well known'
     - TCP port numbers aren't the same as UDP port numbers
+- Ports on the network
+    - Web server - tcp/80
+    - VoIP server - udp/5004
+    - Email server - tcp/143
+
+### 2.1 - Common Network Ports
+- Port numbers
+    - Well-known port number
+        - Client and server need to match
