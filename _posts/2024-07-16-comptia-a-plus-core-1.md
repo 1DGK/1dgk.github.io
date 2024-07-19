@@ -338,3 +338,61 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 - Port numbers
     - Well-known port number
         - Client and server need to match
+    - Important for firewall rules
+        - Port-based security
+    - A bit of rote memorization
+    - Make sure you know port number, protocol, and how the protocol is used
+- FTP - File Transfer Protocol  
+    - tcp/20 (active mode data)
+    - tcp/21 (control)
+    - Authenticates with a username/password
+    - Full-featured functionality
+- SSH - Secure Shell
+    - Encrypted comm link - tcp/22
+    - Looks and acts as Telnet
+- Telnet - Telcom Network
+    - tcp/23
+    - login to devices remotely
+    - In-the-clear communication (not encrypted)
+- SMTP - Simple Mail Transfer Protocol
+    - tcp/25
+    - Also used to send from a device to a mail server
+    - Other protocols are used for clients to receive email
+        - IMAP, POP3
+- DNS - Domain Name System
+    - udp/53
+    - Converts names to IP addresses
+- DHCP - Dynamic Host Config Protocol
+    - Auto config of IP addresses, subnet mask, etc
+        - udp/67, udp/68
+    - Dynamic / pooled
+    - DHCP reservation
+- HTTP and HTTPS
+    - tcp/80 HTTP
+    - tcp/443 HTTPS
+- POP / IMAP
+    - Receive emails from an email server
+    - tcp/110 POP3
+    - tcp/143 IMAP4 Internet Message Access Protocol v4
+- SMB - Server Message Block
+    - Protocol used by Windows
+        - File sharing, printer sharing
+        - Aka CIFS
+    - Uses NetBIOS over TCP/IP
+        - udp/137 name services
+        - tcp/139 session service
+    - tcp/445 direct 
+- SNMP - Simple Network Management Protocol
+    - Gather stats from network devices
+        - Queries udp/161
+        - Traps udp/162
+    - v1 - original
+        - In-the-clear
+    - v2 - A good step ahead
+    - v3 - A secure standard
+- LDAP - Lightweight Directory Access Protocol
+    - tcp/389
+    - Store and retrieve info in a network directory
+        - Commonly used in Microsoft Active Directory
+- RDP - Remote Desktop Protocol
+    - tcp/3389
