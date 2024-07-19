@@ -40,7 +40,7 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 - Test yourself often
 - Exam objectives. Seriously
 
-## Section 1: Mobile Devices
+## Section 1.0: Mobile Devices
 ### 1.1 - Laptop Hardware
 - Keycaps and the mechanics underneath are very delicate. 
 - SO-DIMM - Small Outline Dual In-line Memory Module
@@ -259,6 +259,7 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Data caps and transfer costs
         - Cell or 802.11 networks
 
+## Section 2.0: Networking
 ### 2.1 - Introduction to IP 
 - A series of moving vans
     - Efficiently move large amounts of data
@@ -462,3 +463,39 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - PoE++
         - 51W (Type 3)
         - 71.3W (Type 4)
+- Hub
+    - 'Multi-port repeater'
+    - Everything is half-duplex
+    - Becomes less efficient the busier the network gets
+    - 10Mbit / 100Mbit
+- Cable modem  
+    - Broadband
+        - Transmission across multiple freq's
+        - Diff traffic types
+    - DOCSIS
+        - Data Over Cable
+    - High-speed networking
+    - Multiple services
+- DSL modem
+    - ADSL
+        - Uses phone lines
+    - Download is faster than upload
+- ONT
+    - Optical network terminal
+        - Fiber to the premises
+    - Connect the ISP fiber network to the copper network
+    - Line of responsibility
+        - One side is yours
+        - The other is the ISPs
+- Network Interface Card (NIC)
+    - The fundamental network device
+        - Every device on the network has a NIC
+    - Specific to the network type
+        - Ethernet, WAN, etc
+    - Often built into the motherboard
+    - Many options
+
+### 2.2 - Software Defined Networking
+- SDN
+    - Diff functional planes of operation
+    - 
