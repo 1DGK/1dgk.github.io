@@ -498,4 +498,194 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 ### 2.2 - Software Defined Networking
 - SDN
     - Diff functional planes of operation
-    - 
+    - Separate into logical units
+    - Infrastructure layer / Data plane
+        - Forwarding, trunking, encrypting, NAT
+    - Control layer / Control plane
+        - Manages the actions of the data plane
+        - Routing tables, session tables, NAT tables
+    - Application layer / Management plane
+        - Configure and manage the device
+            - SSH, browser
+
+### 2.3 - Wireless Network Standards
+- Wireless standards
+    - 802.11
+        Managed by IEEE LAN/MAN
+    - Many updates over time 
+    - The Wi-Fi trademark (Wi-Fi Alliance)
+- 802.11a
+    - Original standards - 1999
+    - 5GHz range
+    - 54 Mbit/s
+    - Smaller range than 802.11b
+- 802.11b
+    - Also an original standard
+    - Not an upgrade, it's different frequencies
+    - 2.4GHz
+    - Better range, less absorption problems
+    - Baby monitors, Bluetooth, microwave ovens operate on the same freq range
+- 802.11g
+    - 2003
+    - 2.4GHz range
+    - 54 Mbit/s
+    - Backwards-compatible
+    - Same freq problems as the 'b'
+- 802.11n (Wi-Fi 4)
+    - 2009
+    - 5GHz and/or 2.4GHz
+    - 40MHz channels
+    - 600 Mbit/s
+    - Uses MIMO
+- 802.11ac (Wi-Fi 5)
+    - 5GHz band
+    - Less crowded
+    - Denser signal modulation
+    - Eight MU-MIMO streams
+    - Nearly 7 Gbits/s
+- 802.11ax (Wi-Fi 6)
+    - 2021
+    - 5GHz or 2.4GHz
+    - 1,201 megabits per second per channel
+    - Eight bi-directional MU-MIMO 
+    - OFDMA
+        - Orthogonal freq-div mult access
+        - Improves high-density installations
+        - Works like cell comms
+- Long-range fixed wireless
+    - Wireless access point in a house with stock antennas
+        - 40-50 meters
+    - Wireless regulations are complex
+    - Signal strength is usually regulated
+- RFID
+    - It's everywhere
+        - Access badges
+        - Inventory 
+        - Pet / animal ID
+        - Anything that needs to be tracked
+    - Radar technology
+        - Radio energy transmitted to the tag
+        - RF powers the tag, ID is transmitted back
+        - Bidirectional comms
+        - Some can be powered
+- NFC
+    - Two-way wireless
+        - Builds on RFID
+    - Payment systems
+        - Major credit cards
+    - Bootstrap for other wireless
+    - Access token, ID card
+
+### 2.3 - Wireless Network Technologies
+- 802.11 technologies
+    - Frequency
+        - 2.4 GHz or 5 GHz
+        - Sometimes both
+    -Channnels
+        - Groups of freq's, numbered by the IEEE
+        - Non-overlapping is ideal
+    - Regulations
+        - Most countries have them
+        - Spectrum use, power output, etc.
+- Band selection and bandwidth
+    - Check IEEE
+    - Compare 2.4 GHz with 5 GHz
+        - Plenty more 5 GHz channels available
+- Bluetooth
+    - Remove the wires
+        - Headsets, speakers, keyboards, etc
+    - Uses the 2.4 GHz band
+    - Unlicensed ISM band
+    - Same as 802.11
+    - Short-range
+        - Roughly 10 meters
+
+### 2.4 - Network Services
+- DNS server - Domain Name System
+        - Converts names to IP addresses
+        - Vice versa
+        - Distributed naming system
+    - Balanced across many servers
+    - Critical resource
+- DHCP 
+    - Auto IP config
+    - Very common service
+        - Most home routers
+    - Enterprise DHCP will be redundant
+- File server
+    - Centralized storage
+        - A fileshare
+    - Standard system of file mgmt
+        - SMB, SFP, etc.
+    - Front-end hides the protocol
+- Print server
+    - Connect a printer to the network
+    - May be software in a computer
+    - May be built-in to the printer
+        - Network adapter and software
+    - Uses standard printing protocols
+        - SMB, IPP, LPD
+- Mail server
+    - Store your incoming mail
+        - Send your outgoing mail
+    - Usually managed by the ISP or IT department
+    - 24/7 support
+- Syslog
+    - Standard for message logging
+        - Diverse systems, consolidated log
+    - Usually a central logging receiver
+        - Integrated in the SIEM
+        - Need a lot of space
+- Web server
+    - Respond to browser requests
+        - HTTP/HTTPS
+        - HTML or HTML5
+    - Web pages are stored on the server
+- Authentication server
+    - Login auth to resources
+        - Centralized management
+    - Almost always an enterprise service
+    - Usually a set of redundant servers
+        - Always available
+        - Extremely important
+- Spam 
+    - Unsolicited messages
+        - Email, forums, etc
+    - Various content
+        - Commercial
+        - Phishing
+        - Selling
+    - Significant technology issue
+        - Security concerns, storage costs, managing the spam
+- All-in-one security appliance
+    - Next-gen firewall
+        - Unified Threat Management (UTM)
+    - URL filter / Content inspection
+    - Malware inspection
+    - Spam filter
+    - CSU / DSU
+    - Router / Switch
+    - Firewall
+    - IDS / IPS
+    - Bandwidth shaper
+    - VPN endpoint
+- Load balancers
+    - Distribute the load
+        - Multiple servers
+    - Large-scale implementations
+        - Web server farms
+    - Fault tolerance
+        - Server outages have no effect
+    - Manage load across servers
+- Proxy server
+    - An intermediate server
+        - Client makes the request
+        - Proxy makes the request
+        - Provides results back to the client
+    - Useful features
+        - Access control, caching, URL filtering
+- SCADA / ICS
+    - Supervisory Control and Data Acquisition System
+    - PC manages equipment
+        - Power generation, energy, logistics
+    - Dis
