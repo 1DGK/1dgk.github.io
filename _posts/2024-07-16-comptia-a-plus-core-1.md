@@ -688,4 +688,29 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Supervisory Control and Data Acquisition System
     - PC manages equipment
         - Power generation, energy, logistics
-    - Dis
+    - Distributed control systems
+        - Real-time information
+    - Requires extensive segmentation
+- Legacy and embedded systems
+    - Legacy   
+        - Really old
+        - May also be very important
+        - Learning old things can be just as important as learning the new things
+    - Embedded
+        - Purpose-built
+        - Not usual to have direct access to the operating system
+        - Alarm system, door security, time card system
+
+- IoT (Internet of Things)
+    - Appliances
+        - Fridges
+    - Smart devices
+        - Speakers
+    - Air control
+        - Thermostats, etc
+    - Access
+        - Smart doorbells
+    - May require a segmented network
+        - Limit any security breaches
+
+### 2.5 - IPv4 and IPv6
