@@ -396,3 +396,69 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Commonly used in Microsoft Active Directory
 - RDP - Remote Desktop Protocol
     - tcp/3389
+
+### 2.2 - Network Devices
+- Network devices
+    - All have different roles
+    - Some are combined
+- Routers
+    - Routes traffic between IP subnets
+        - Makes forwarding decisions based on IP address
+        - Routers inside of switches sometimes called 'layer 3 switches'
+    - Often connects diverse network types
+        - LAN, WAN, copper, fiber
+- Switches
+    - Bridging done in hardware
+        - App-specific integrated circuit (ASIC)
+        - Forwards traffic based on data link address
+    - Many ports and features
+        - The core of an enterprise network
+        - May provide Power over Ethernet (PoE)
+    - Multilayer switch
+- Unmanaged switch
+    - Very few config options
+        - Plug and play
+    - Fixed configs
+        - No VLANs
+    - Very little integration with other devices
+    - Low price point
+        - Simple is less expensive
+- Managed switch
+    - VLAN support
+        - Interconnect with other switches via 802.1Q
+    - Traffic prioritization
+    - Redundancy support   
+        - Spanning Tree Protocol (STP)
+    - Port mirroring
+        - Capture packets
+    - External management (SNMP)
+- Access point
+    - Not a wireless router
+        - A wireless router is a router and an access point in a single device
+    - It's a bridge which extends
+- Cable infrastructure
+- Patch panels
+    - Combination of punch-down blocks and RJ-45 connectors
+    - Runs from desks are made once
+    - Patch panel to switch can be easily changed
+- Firewalls
+    - Filters traffic by port number
+        - OSI layer 4
+    - Can encrypt traffic into/out of the network
+    - Can proxy traffic
+        - A common security technique
+    - Most firewalls can be layer 3 devices (routers)
+- Power over Ethernet (PoE)
+    - One wire for both network and electricity
+    - Phones, cameras, wireless access points
+    - Power provided at the switch
+- PoE switch
+    - Commonly marked on the switch or interfaces
+- PoE, PoE+, PoE++
+    - Now part of the 802.3 standard
+    - 15.4W DC power
+    - PoE+
+        - 25.5W
+    - PoE++
+        - 51W (Type 3)
+        - 71.3W (Type 4)
