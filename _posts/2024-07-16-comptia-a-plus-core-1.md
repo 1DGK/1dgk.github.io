@@ -780,3 +780,51 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Automatically assigned
 
 ### 2.6 - DNS Configuration
+- Domain Name System    
+    - Translates human-readable names into IP
+    - Hierarchical
+        - Follow the path
+    - Distributed database
+        - 13 root server cluster (Over 1,000 actual servers)
+        - Over 275 country codes
+- DNS hierarchy
+- DNS lookup
+    - use the `dig` command, or `nslookup`
+- DNS records
+    - Resource Records (RR)
+        - The database records of domain name services
+    - Over 30 record types
+        - IP addresses, certs, etc
+    - These are important and critical configurations
+        - Backup, test, check your settings
+- DNS config   
+    - Written in text, simple
+    - Could also be a web-based GUI
+- Address records (A) (AAAA)
+    - Defines the IP of a host
+    - A records are for IPv4
+    - AAAA records are for IPv6
+- Mail exchange record (MX)
+    - Determines the host name for the mail server
+        - Not an IP; it's a name
+- Text records (TXT)
+    - Human-readable text info
+        - Useful public info
+    - Can be used for verification purposes
+    - Commonly used for email security
+- Viewing TXT records with dig
+    - dig professormesser.com txt
+- Sender Policy Framework (SPF)
+    - A list of all servers authorized to send email for this domain
+    - Prevent mail spoofing
+- Adding an SPF TXT record
+- Domain Keys Identified Mail (DKIM)
+    - Digitally sign a domain's outgoing mail
+- DMARC
+    - Domain-based Message Authentication, Reporting, and Conformance 
+    - Prevent unauthorized email use
+    - An extension of SPF and DKIM
+    - Extra step of telling it what to do with the emails that don't validate through SPF or DKIM
+
+### 2.6 - DHCP Configuration
+- 
