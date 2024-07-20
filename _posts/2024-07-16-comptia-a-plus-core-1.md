@@ -714,3 +714,69 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Limit any security breaches
 
 ### 2.5 - IPv4 and IPv6
+- IP addressing
+    - IPv4 is the primary protocol for almost everything we do
+    - IPv6 is now part of all major operating systems
+        - And the backbone of our internet infrastructure
+- IPv4 addresses
+    - OSI Layer 3 address
+    - 32 bits - 4 bytes
+    - Max decimal value for each byte is 255
+- IPv6 addresses
+    - 128-bit address
+    - Crazy amount of options
+    - Uses hex numbers
+    - DNS is very important
+- Networking with IPv4
+    - IP Address
+        - Every device needs a unique IP address
+    - Subnet mask
+        - Used by the local device to determine what subnet it's on
+            - You'll ask for the subnet mask all the time
+    - Default gateway
+        - The router that allows you to communicate outside of your local subnet
+- DNS servers
+    - We remember names
+    - Internet routers don't know names
+        - Routers only know IP addresses
+    - Something has to translate between names and IP addresses
+        - DNS does it
+    - You configure **two** DNS servers
+        - That's how important it is
+
+### 2.5 - Assigning IP Addresses
+- DHCP
+    - IPv4 addess config used to be manual
+    - 1993 - bootstrap protocol BOOTP
+        - Didn't auto assign everything
+    - DCHP does it automatically
+- DHCP process
+    - DORA
+        - A four-step process
+            - Discover
+                - Find a DHCP server
+            - Offer
+                - Get an offer
+            - Request
+                - Lock in the offer
+            - Acknowledge
+                - DHCP server confirmation
+- Turning dynamic into static
+    - DHCP assigns an IP from the first available 
+        - Your IP will occasionally change
+    - You may not want your IP to change
+    - Disable DHCP on the device
+        - Configure the IP info manually
+        - Requires additional admin
+    - Better Configure an IP reservation on the DHCP server
+        - Associate a specific MAC address with an IP address
+- Avoid manual configs
+    - No DHCP server reservation
+    - Difficult to change later
+    - A DHCP reservation is preferable
+- Automatic Private IP Addressing (APIPA)
+    - A link-local address
+    - IETF has reserved 169.254.0.0 through 169.254.255.255
+    - Automatically assigned
+
+### 2.6 - DNS Configuration
