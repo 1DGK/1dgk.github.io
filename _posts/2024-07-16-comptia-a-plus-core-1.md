@@ -1052,4 +1052,26 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Port re-direction, SPAN
         - Software-based tap
         - Can work well in a pinch, but has limited functionality
+### Network Cables
+- The importance of cable
+    - Fundamental
+- Usually only get one good shot
+- Has to plug in somewhere
+- Balanced pair operation
+    - Two wires with equal and opposite signals
+    - Transmit+, Transmit- / Receive+, Receive-
+    - The twist is the secret!
+        - Keeps a single wire constantly moving away from the interference
+    - Pairs in the same cable have a different twist rates
+- Copper cable categories
+    - Cat 5 - 100 meters
+    - Cat 5e (enhanced) - 100 meters
+    - Cat 6 - Unshielded: 55 meters; Shielded: 100 meters
+    - Cat 6A (augmented) - 100 meters
+- Coaxial cables
+    - Two or more forms share a common axis
+    - RG-6 used in television/digital cable
+- Direct burial STP
+
+### Optical Fiber
 - 
