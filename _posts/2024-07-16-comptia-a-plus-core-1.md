@@ -827,4 +827,229 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Extra step of telling it what to do with the emails that don't validate through SPF or DKIM
 
 ### 2.6 - DHCP Configuration
+- Scope properties
+    - IP address range
+        - And excluded addresses
+    - Subnet mask
+    - Lease durations
+    - Other scope options
+        - DNS server
+        - Default gateway
+        - VOIP servers
+- DHCP pools
+    - Grouping of IPs
+        - Each subnet has its own scope
+        - 192.168.1.9/24
+    - A scope is generally a single contiguous pool of IPs
+- SOHO DHCP server
+- DHCP address assignment
+    - Dynamic assignment
+        - Has a big pool of addresses to give out
+    - Automatic assignment
+        - DHCP keeps a list of past assignments
+        - You'll always get the same IP address
+- DHCP address allocation
+    - Address reservation
+    - Table of MAC address
+        - Each MAC address has a matching IP address
+    - Other names
+- DHCP leases
+    - Leasing your address
+        - It's only temporary
+        - But can seem permanent
+    - Allocation
+        - Assigned a lease time by the DHCP server
+    - Reallocation
+        - Reboot your computer
+        - Confirms the lease
+    - Workstation can also manually release the IP address
+- DHCP renewal
+    - T1 timer
+        - 50% of the lease time by default
+    - T2 timer
+        - 87.5% of the lease time
+        - If the original DHCP server is down, try rebinding with any DHCP server
+- The DHCP lease process
+
+### 2.6 - VLANs and VPNs
+- LANs
+    - Local Area Networks
+        - Same broadcast domain
+- Virtual LANs
+    - A group of devices in the same broadcast domain
+    - Separated logically instead of physically
+- Configuring VLANs
+- VPNs
+    - Encrypted (private) data traversing a public network
+    - Concentrator
+        - Encryption / decryption access device
+        - Often integrated into a firewall
+    - Many deployment options
+        - Specialized hardware
+        - Software options available
+    - Used with client software
+- Client-to-site VPN
+    - On-demand access from a remote device
+        - Software connects to a VPN concentrator
+    - Some software can be configured as always-on
+
+### 2.7 - Internet Connection Types
+- Satellite networking
+    - Comms to a sat
+        - Non-terrestrial comms
+    - High cost relative to terrestrial networking
+        - 50 Mbit/s down
+        - Remote sites, difficult-to-network sites
+    - High latency
+        - 250 ms up, 250 ms down
+        - Starlink advertises 40 ms and it working on 20 ms 
+    - High frequencies - 2 GHz
+        - Line of sight, rain fade
+- Fiber
+    - High speed data comms
+        - Freq's of light
+    - Higher install costs than copper
+        - Equip is more costly
+        - Long distance
+    - Large installation in the WAN core
+        - Supports very high data rates
+    - Slowly approaching the premises
+- Cable broadband
+    - Broadband
+        - Transmission across multiple freqs
+        - Different traffic types
+    - Data on the 'cable' network
+        - DOCSIS
+    - High-speed
+        - Up to 1 GBit/s
+- DSL
+    - ADSL
+        - Uses telephone lines
+    - 200 MBit/s down / 20 MBit/s up
+    - Depends how far you are from the central office
+- Cellular networks
+    - Mobile devices
+        - Cell phones
+    - Separate land into cells
+    - Tethering
+        - Turn your phone into a wireless router
+    - Mobile hotspot
+        - Standalone devices
+        - Use your phone for other things
+- Wireless Internet Service Provider (WISP)
+    - Connect rural or remote locations
+        - Internet access for everyone
+    - Many diff deployment techs
+    - Need an outdoor antenna
+        - 10 - 1,000 MBit/s
+
+### 2.7 - Network Types
+- LAN
+    - Local is relative
+    - A bulding or a group of buildings
+    - Ethernet and 802.11 wireless
+- WAN
+    - Spanning the globe
+    - Generally connects LANs across a distance
+        - Much slower
+    - Many diff WAN techs
+- PAN 
+    - Personal Area Network
+        - Bluetooth
+    - Automobile
+        - Audio output
+        - Integrate with phone
+    - Mobile phone
+        - Wireless headset
+    - Health
+        - Workout telemetry, daily reports
+- MAN
+    - Metropolitan Area Network
+        - A network in your city
+        - Larger than a LAN, smaller than a WAN
+    - Historically MAN-specific topologies 
+        - Metro Ethernet
+    - Common to see government ownership
+        - They 'own' the right-of-way
+- SAN
+    - Storage Area Network
+        - Looks and feels like a local storage device
+        - Block-level access
+        - Very efficient reading and writing
+    - Requires a lot of bandwidth
+        - May use an isolated network and high-speed network techs
+- WLAN
+    - Wireless LAN
+        - 802.11 techs
+    - Mobility
+        - Within a building
+    - Expand coverage with additional access points
+
+### 2.8 - Network Tools
+- Cable crimpers
+    - 'Pinch' the connector onto a wire
+        - Coaxial, twisted pair, fiber
+    - Connect the modular connector to the Ethernet cable
+        - The final step
+    - Metal prongs are pushed through the insulation
+- Crimping best-practices
+    - Get a good crimper
+        - And a good pair of electrician's scissors / cable snips
+        - And a good wire stripper
+    - Make sure you use the correct modular connectors
+        - Difference between wire types
+    - Practice, practice, practice
+- Wifi analyzer
+    - Wireless networks are incredibly easy to monitor
+        - Everyone 'hears' everything
+    - Purpose-built hardware or mobile device
+    - Identify errors and interference
+        - Validate antenna location and installation
+- Tone generator
+    - Toner probe
+        - Where does that wire go?
+        - Follow the tone
+    - Tone generator
+        - Puts an analog sound on the wire
+    - Inductive probe
+        - Doesn't need to touch the copper
+        - Hear through a small speaker
+- Using the tone generator and probe
+    - Easy wire tracing
+    - Connect the tone generator to the wire
+    - Use the probe to locate the sound
+        - It's easy to find
+- Punch-down tool
+    - Punch a wire into a wiring block
+    - Can be tedious
+    - Trims the wires during the punch
+- Punch-down best-practices
+    - Organization is key
+    - Maintain your twists
+    - Document everything
+- Cable testers
+    - Relatively simple
+        - Continuity test
+        - A simple wire map
+    - Can identify missing pins
+        - Or crossed wires
+    - Not usually used for frequency testing
+        - Crosstalk, signal loss, etc.
+- Loopback plugs
+    - Useful for testing physical ports
+        - Or fooling your applications
+    - Serial / RS-232
+    - Network connections
+        - Ethernet, T1, Fiber
+    - Not a cross-over cable
+- Taps and port mirrors
+    - Intercept network traffic
+        - Send a copy to a packet capture device
+    - Physical taps
+        - Disconnect the link, put a tap in the middle
+        - Can be active or passive
+    - Port mirror
+        - Port re-direction, SPAN
+        - Software-based tap
+        - Can work well in a pinch, but has limited functionality
 - 
