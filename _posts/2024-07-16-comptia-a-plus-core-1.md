@@ -1076,9 +1076,107 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
 - Direct burial STP
 
 ### 3.1 - Optical Fiber
--   
+- Fiber comms
+    -   Transmission by light
+        - The visible spectrum
+    - No RF signal
+        - Very difficult to monitor or tap
+    - Signal slow to degrade
+        - Transmission over long distances
+    - Immune to radio interference
+        - There's no RF
+- Multimode fiber
+    - Short-range comms
+        - Up to 2 km
+    - Relatively inexpensive light source
+        - i.e., LED
+- Single-mode fiber
+    - Long-range comms
+        - Up to 100 km without processing
+    - Expensive light source
+        - Commonly uses lasers
+
+### 3.1 - 568A and 568B Colors
+- ISO / IEC 11801 cabling standards
+- TIA 568 standard 
+
+### 3.1 - Peripheral Cables
+- USB 
+    - Simplify connections
+        - Printers, keyboards, etc.
+    - USB 1.1 
+        - Low speed: 1.5 megabits per second, 5 meters
+        - Full speed: 12 MBit/s, 5 meters
+    - USB 2.0
+        - 480 megabits per second, 5 meters
+    - USB 3.0
+        - Superspeed
+        - 5 gigabits per second, ~3 meters
+- USB connectors
+- USB-C
+    - Lots of different 
+    - Replaces them all
+    - Describes the connector itself, not the signal
+- Versions and naming
+    - Standard doesn't change, just the names
+- Thunderbolt v3
+    - Max 3 meters
+    - 40 Gbit/s
+
+### 3.1 - Video Cables
+- VGA (Video Graphics Array)
+    - DB-15 connector
+    - Blue color
+    - Video only (no audio)
+    - Analog signal, no digital 
+- HDMI  
+    - Video and audio stream
+        - All digital, no analog
+        - ~ 20 meter distance
+    - 19-pin (Type A) connector
+- DisplayPort
+    - Digital info sent in packet form
+        - Like ethernet and PICe
+    - Compatible with HDMI and DVI
+        - DP > HDMI
+- DVI (Digital Visual Interface)
+    - Single and dual link video
+        - Single: 3.7 Gbps
+        - Dual: 7.4 Gbps
+        - No audio support
+    - DVI-A
+        - Analog signals
+    - DVI-D
+        - Digital
+    - DVI-I
+        - Integrated
+
+### 3.1 - SATA Device Cables
+- SATA (Serial AT Attachment)
+    - SATA Revision 1.0
+        - SATA 1.5 Gbps
+    - Rev 2.0 3 Gbps
+    - Rev 3.0 6Gbps
+    - Rev 3.2 16 Gbps
+- Separated into power cable and data cable
+- eSATA 
+    - External version
+    - Looks similar, but it's definitely different
+
+### 3.1 - SCSI Device Cables
+- Small Computer Systems Interface
+- Up to 16 devices in a SCSI 'chain'
+- Many diff formats
+- Advantages
+    - Not just for hard drives
+        - Scanners, CD-ROM drives
+    - Many devices on a single bus
+    - Very intelligent form of connectivity
+    - Industry longevity
+- 
 
 ### 3.2 - Memory
+- 
 
 ### 3.3 - Storage Devices
 
