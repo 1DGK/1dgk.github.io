@@ -1052,11 +1052,13 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Port re-direction, SPAN
         - Software-based tap
         - Can work well in a pinch, but has limited functionality
-### Network Cables
+
+## Section 3.0: Hardware
+### 3.1 - Network Cables
 - The importance of cable
     - Fundamental
 - Usually only get one good shot
-- Has to plug in somewhere
+- Everything has to plug in somewhere
 - Balanced pair operation
     - Two wires with equal and opposite signals
     - Transmit+, Transmit- / Receive+, Receive-
@@ -1073,5 +1075,19 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - RG-6 used in television/digital cable
 - Direct burial STP
 
-### Optical Fiber
-- 
+### 3.1 - Optical Fiber
+-   
+
+### 3.2 - Memory
+
+### 3.3 - Storage Devices
+
+### 3.4 - Motherboards
+
+### 3.5 - Power
+
+### 3.6 - Multifunction Devices
+
+### 3.7 - Printers
+
+## Section 4.0: Virtualization and Cloud Computing
