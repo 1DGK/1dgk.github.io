@@ -1173,7 +1173,68 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Many devices on a single bus
     - Very intelligent form of connectivity
     - Industry longevity
-- 
+
+### 3.1 - PATA Device Cables
+- Parallel AT Attachment
+- Originally called Integrated Drive Electronics (IDE)
+- Speeds improved over the years, but it's old
+- Now called PATA
+
+### 3.1 - Adapters and Converters
+- The best laid plans...
+    - Need an adapter
+- Convert between different connectors
+- Convert from one format to another
+    - You need Ethernet but you only have USB
+- A good temp or permanent fix
+- DVI-D and HDMI are electrically compatible
+    - No loss of video quality
+- DVI to VGA
+    - Analog signals
+    - Only 640 x 480 is officially supported
+    - For digital, you'll need a converter
+- USB to Ethernet
+    - Some laptops don'e have a wire Ethernet interface
+        - Convert USB to Ethernet
+    - USB-C to USB-A
+        - Use your older peripherals
+- USB hub
+    - Connect many devices
+        - High speed USB connectivity
+
+### 3.1 - Copper Connectors
+- RJ11 connector
+    - 6 position, 2 conductor
+    - Telephone or DSL connection
+- RJ45
+    - 8 position, 8 conductor
+        - Modular connector
+        - Ethernet
+- F-connector
+    - Cable television
+        - Cable modem
+        - DOCSIS
+- Punchdown block
+    - Wire-to-wire patch panel
+    - Wires are 'punched' into the block
+- USB-C
+    - Interface the same, signal can vary
+- Molex connector
+    - Power connectore
+        - Provides +12V and +5V
+    - Power for many devices in the computer case
+- Lightning
+    - 8-pin digital signals
+    - Higher output power for phones and tablets
+- DB-9
+    - Letter refers to the connector size
+    - Commonly used for RS-232 signals
+
+### 3.1 - Fiber Connectors
+- LC - Local Connector
+- ST - Straight Tip
+- SC - Subscriber Connector
+    - Square connector
 
 ### 3.2 - Memory
 - 
