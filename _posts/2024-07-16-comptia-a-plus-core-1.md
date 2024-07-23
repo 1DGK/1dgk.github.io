@@ -1237,11 +1237,155 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Square connector
 
 ### 3.2 - Memory
-- 
+- What is memory?
+    Random Access Memory is the most common
+- RAM is not referring to hard drive or SSD
+- Data and programs can only be used when moved to RAM
+- RAM slots
+    - Standardized
+    - One of the most important components of your computer
+    - Every motherboard is different
+- DIMM
+    - Dual inline memory module
+    - Electrical contacts are different on each side
+    - 64 bit data width
+- SO-DIMM
+    - Small Outline Dual In-Line Memory Module
+        - About half the width as a DIMM
+    - Used in laptops and mobile devices
+- Dynamic Random Access Memory
+    - The memory on the DIMM
+    - Dynamic
+        - Needs contant refreshing
+        - Without refreshing, the data in memory disappears
+    - Random access
+        - Any storage location can be accessed directly
+        - Not like magnetic tape
+- SDRAM
+    - Synchronous DRAM
+    - SDRAM is synchronous with the common clock system
+        - Queue up one process while waiting for another
+- Double Data Rate 3 (DDR3) SDRAM
+    - Twice the data rate of DDR2
+        - Max 16 GB per DIMM    
+    - No backwards compatibility
+- DDR4
+    - Speed increases  
+        - Max 64 GB per DIMM
+- DDR5
+    - Max 64 GB
+    - Faster data transfers between module and motherboard
+
+### 3.2 - Memory Technologies
+- Virtual memory
+    - Different names
+        - Virtual RAM, swap file, etc.
+    - Swap currently unused application data to storage
+        - Free up space for other applications
+    - Managed automatically by the operating system
+- Multi-channel memory
+    - Dual-channel, triple-channel, or quad
+    - Memory combos should match
+        - Exact matches are best
+    - Often coloured differently
+- Memory that checks itself
+    - Used on critical systems
+        - VM servers, database servers, any server
+    - Parity memory
+        - Adds an additional parity bit
+        - Won't always detect and can't correct 
+    - Error Correcting Code (ECC)
+        - Detects and corrects errors on the fly
 
 ### 3.3 - Storage Devices
+- Hard disk drives (HDD)
+    - Non-volative magnetic storage
+        - Rapidly rotating platters
+    - Random-access
+        - Retrieve data from any part of the drive at any time
+    - Moving parts
+        - Spinning platters, moving actuator arms
+        - Limits the speed and components can also break
+- SSD 
+    - Non-volatile memory
+        - No moving parts
+    - Very fast performance
+        - No spinning drive delays
+- 2.5" SATA interface
+- mSATA (Mini-SATA)
+    - Shrink the SATA drive into smaller devices
+    - Smaller than 2.5" SATA drives
+    - Quickly replaces by M.2 standard
+- AHCI vs NVMe
+    - SATA was desinged for hard drives
+        - Uses AHCI (Advanced Host Controller Interface)
+        - SATA revision 4 throughput up to 600 MB/s
+        - SSDs need a faster comms method
+- NVMe (Non-Volatile Memory Express)
+    - Designed for SSD speeds
+    - Lower latency, supports higher throughputs
+    - Take advantage of NVMe with an M.2 interface
+- M.2 interface
+    - Smaller form factor
+        - No SATA or power cables
+    - Can use a PCI Express bus connection
+        - 4 GB/s throughput or faster when using a NVMe PCIe x4
+    - Different connector types
+        - Needs to be compatible with the slot key
+- B-key and M-key
+    - M.2 doesn't guarantee NVMe
+        - Your interface may be using AHCI
+        - Check your documentation
+- Flash drives
+    - Flash memory
+        - EEPROM (Electrically erasable programmable read-only memory)
+        - Non-volatile memory
+        - No power required to retain data
+    - Limited number of writes
+        - Can still read the data
+    - Not designed for archival storage
+- Optical drives
+    - Small bumps read with a laser beam
+    - Relatively slow
+    - Many different formats
+        - CDs, DVD, Blu-ray
+
+### 3.3 - RAID
+- Data redundancy
+    - Hard drives can store huge amounts of data
+    - Hard drives fail
+    - What to do?
+    - **RAID is not backup!**
+- RAID
+    - Redundant Array of Independent Disks
+        - They're also inexpensive disks
+    - Diff RAID levels
+        - Some redundant, some not
+- RAID 0 - Striping
+    - File blocks are split between two or more physical drives
+    - High performance
+    - No redundancy
+        - A drive failure breaks it
+- RAID 1 - Mirroring
+    - File blocks are duplicated between two or more physical drives
+    - High disk utilization
+    - Duplicate drives
+    - High redundancy
+- RAID 5 - Striping with parity
+    - File blocks are striped
+        - Along with a parity block
+        - Requires at least three disks
+    - Efficient use of disk space
+        - Files aren't duplicated, but space is still used for parity
+    - High redundancy
+        - Data is available after drive failure
+-  RAID 10 (1+0) - A stripe of mirrors
+    - The speed of striping, the redundancy of mirroring
+        - The best of both worlds
+    - Need at least 4 drives
 
 ### 3.4 - Motherboards
+- 
 
 ### 3.5 - Power
 
