@@ -212,3 +212,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 07/18 [blank]\
 07/19 _Diary of a Wimpy Kid, Jeff Kinney_, **MISSION IMPOSSIBLE — DEAD RECKONING PART ONE (2023)**, **TOY STORY 4 (2014)**\
 07/20 **TOY STORY 3 (2010)**
+07/21 [blank]\
+07/22 [blank]\
+07/23 [blank]
