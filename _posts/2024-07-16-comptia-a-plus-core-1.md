@@ -1384,7 +1384,65 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - The best of both worlds
     - Need at least 4 drives
 
-### 3.4 - Motherboards
+### 3.4 - Motherboards - Form Factors
+- Form factors
+    - Physical size
+    - Basic layout
+        - Room for small changes
+    - Power 
+        - Standard connectors
+    - Airflow
+        - Increasingly important
+    - Wikipedia - over 40 different types
+- Given a scenario
+    - Focus on which motherboard would be the best choice
+    - Media center, thin client, etc.
+- Standard-ATX
+    - Advanced Technology Extended
+    - Started in 1995
+    - Power
+        - 20 or 24 pin
+- Mini-ITX
+    - Low-power 
+    - 2001
+    - Fits almost any enclosure
+    - Same screw sizes as ATX
+    - Single-purpose computing, e.g. streaming
+
+### 3.4 - Motherboard Expansion Slots
+- Computer bus
+    - Comms path
+        - A city of technology
+    - Internal PC growth
+        - Indie pathways
+    - System expansion
+        - Additional capabilities
+- Conventional PCI
+    - Peripheral Component Interconnect
+    - 1994
+    - Many expansion options
+        - 32-bit or 64-bit
+- PCI Express
+    - Aka PCIe
+        - Replaces older standard
+    - Communicates serially
+        - Unidirectional serial 'lanes'
+    - More lanes means more data transfer
+
+### 3.4 - Motherboard Connectors
+- 24-pin power
+    - Main power
+        - 3.3, 5 or 12V
+    - 20 pin was replaced by 24
+- 4-pin ATX
+    - Additional 12V power for older motherboards
+- Headers
+    - Many uses
+        - Power
+        - Lights
+        - Buttons
+
+### 3.4 - Motherboard Compatibility
 - 
 
 ### 3.5 - Power
