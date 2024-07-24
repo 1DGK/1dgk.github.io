@@ -1443,7 +1443,256 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
         - Buttons
 
 ### 3.4 - Motherboard Compatibility
-- 
+- Intel and AMD
+    - Two solid choices
+    - Cost
+        - AMD tends to be a bit cheaper
+    - Different sockets
+        - Your locked in because it's designed for a particular CPU
+    - Choosing a side
+        - AMD is value and Intel is performance 
+        - But that's changing all the time
+- Server motherboards
+    - Multisocket
+        - Supports multiple CPUs
+    - Memory slots
+    - Expansion slots
+    - Overall size usually rack-mounted
+- Desktops
+    - Can range from full-size to compact
+    - Single CPU
+    - Memory slots
+    - Expansion slots
+- Mobile motherboards
+    - Laptops
+        - Small and light
+    - CPUS
+        - Limited in speed
+    - Limited system modification
+    - Portability
+        - Small, low-power
+- System board in laptops
+    - Propriety
+        - Built to fit
+    - Replacement isn't easy
+        - Swap the entire board
+
+### 3.4 - The BIOS
+- Basic Input / Output System
+    - The software used to start your computer
+        - Firmware
+        - System BIOS
+        - ROM or flash memory
+    - Initializes CPU and memory
+    - POST - power on self test
+    - Look for a boot loader
+- Legacy BIOS
+    - Been around for 25 years
+    - Limited hardware support
+- UEFI BIOS
+    - Unified Extensible Firmware Interface
+    - A defined standard
+    - Designed to replaced the legacy BIOS
+
+### 3.4 - BIOS Settings
+- The secret buttons
+    - Del, F1, F2, Ctrl-S
+    - Hyper-V
+    - VMWare Workstation Player
+    - Not VirtualBox
+    - UEFI BIOS simulator
+- Fast startup
+    - Starts so quickly you can't open the BIOS
+    - From Windows desktop
+        - Hold shift when cliking Restart
+- Important tips
+    - Make a backup of the BIOS config
+        - Write detailed notes
+        - Take a picture
+    - Don't make a change unless you're certain of the setting
+    - Did I mention the backup?
+- Boot options
+    - What happens when you power on?
+    - Disable hardware
+        - Unavailable to the operating system
+    - Modify the boot order
+        - Which boots first?
+        - USB, SSD, or hard drive
+- USB permissions
+    - A security challenge
+        - Very small storage devices
+        - Very large capacities
+    - USB connections
+        - Convenient
+        - High speed
+    - US DoD banned flash media for 15 months in 2008
+        SillyFDC worm
+- Fans
+    - Computing creates heat
+        - A lot of heat
+    - Many cooling fans
+        - CPU
+        - Chassis
+    - Motherboard often include an integrated fan controller
+- Secure Boot
+    - Malicious software can own your system
+        - Malicious drivers or OS
+    - Secure boot
+        - Part of UEFI
+    - Digitally sign known-good software
+        - Crypto secure
+    - Supported in many operating systems
+- UEFI BIOS Secure Boot 
+    - Protections
+        - Public key
+        - Checked during BIOS update
+        - Prevents unauthorized writes to the flash
+    - Verifies the bootloader
+- Boot password management
+    - BIOS / User password
+        - System won't start
+        - Needed to start OS
+    - Supervisor password
+        - Restrict BIOS changes
+    - Remember your password!
+        - Must reset BIOS to recover
+- Clearing a boot password
+    - Store the BIOS config
+    - CMOS
+        - A type of memory
+        - May be backed up
+    - Usually flash memory these days
+    - Reset with a jumper
+        - Short two pins on the motherboard
+- The CMOS battery
+    - Not needed for today's flash-based storage
+        - May only be needed to maintain date/time
+    - On older systems you can reset the BIOS by removing the battery
+- Trusted Platform Module (TPM)
+    - A specification for cryptographic functions
+        - Hardware to help with encryption functions
+    - Random number generator, etc.
+    - Persistent memory
+    - Versatile memory
+    - Password protected
+- Hardware Security Module (HSM)
+    - Large environments
+    - High-end crypto hardware
+    - Key backup
+    - Crypto accelerators
+
+### 3.4 - CPU Features
+- Operating system tech
+    - 32-bit vs 64-bit
+        - Processor specific
+    - 4 GB vs 17 billion GB
+- Hardware drivers are specific to the OS version
+    - 32-bit OS cannot run 64-bit apps
+    - But 64-bit can run 32-bit apps
+- Advanced RISC Machine (ARM)
+    - CPU designed by Arm Ltd.
+    - Simplified instruction set
+        - Less power
+        - Less heat
+    - Lines are constantly blurring
+- Processor cores
+    - Dual/Quad/Octa/Multi-core
+        - And more all the time
+    - Multiple cores
+        - Each core has its own cache
+- Multithreading
+    - Hyper-Threading Technology (HTT)
+    - One CPU, acts like two
+    - Doesn't actually work as fast as two
+        - 15-30% 
+    - OS must be written for HTT
+- Virtualization support
+    - Run other OS's within a single hardware platform
+    - Resource-intensive
+    - Added to the processor
+    - Intel VT
+    - AMD-V
+
+### 3.4 - Expansion Cards
+- Expansion cards
+    - Extend the functionality of your computer
+    - Relatively simple process
+    - Install hardware
+        - Add a card
+    - Install a driver
+- Sound card
+    - High-end output
+    - Advanced headphone amp
+    - Home theater
+    - Inputs, music capture, podcasting, microphone
+- Video card
+    - Many CPUs include an integrated GPU
+    - Discrete graphics
+    - High-performance
+- Capture card
+    - Video as input
+        - Video capture
+        - Live streaming
+        - External cameras
+    - High performance
+        - PCI Express connection
+- Network Interface Card (NIC)
+    - Ethernet connection
+        - Motherboard may not include a NIC
+    - Additional connections
+        - Servers
+        - Routers
+- Documentation
+    - Check the motherboard docs
+        - Number and type of slots
+    - Check the adapter card docs
+    - May need to install drivers before
+- Driver installation
+    - You checked the docs, right?
+    - Check the web for the latest version
+    - Uninstall previous drivers through Device Manager
+    - Manufacturer provided setup program
+    - Manual installation through WDM
+    - Check the status in WDM
+
+### 3.4 - Cooling
+- Case fans
+    - Cool air is pulled through a PC
+    - Always check for good airflow
+    - Motherboard layout becomes important
+    - Component location is key
+    - Many different sizes and styles
+- On-board fans
+    - Designed to cool an entire adapter card
+    - Can be bulky
+    - Usually on high-end graphics cards
+- Fan specs
+    - Standards
+        - 80 mm, 120 mm
+- Fanless  
+    - No noise
+    - Functions are very controlled
+    - Low-power components
+- Heat sink
+    - Don't touch!
+- Thermal paste
+    - Place between heat sink and component
+        - Moves heat away from the component
+    - A little bit goes a long way
+- Thermal pad
+    - Conduct heat without the mess
+        - Cut to size and install
+    - Easy to use
+        - Won't leak or damage
+    - Almost as effective as thermal paste
+    - Not reusable
+- Liquid cooling
+    - Coolant through a computer
+        - Not a new concept
+            - Autos, mainframes
+    - High-end systems
+    - Gaming, graphics
+    - Overclocking
 
 ### 3.5 - Power
 
