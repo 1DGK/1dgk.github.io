@@ -1695,8 +1695,97 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Overclocking
 
 ### 3.5 - Power
+WARNING
+    - Always disconnect from the power source when working on a device
+        - Always, seriously
+    - Some devices store a charge in capacitors
+        - Know how to discharge before touching
+    - Never connect your body to any part of an electrical system
+    - Respect electricity
+- Computer power supply
+    - Computers use DC voltage
+        - Most sources provide AC voltage
+    - Convert 120 AC to 3.3, 5, or 12 V DC
+- Amp and volt
+    - Amp: the rate of electron flow past a point in one second
+        - Diameter of the hose
+    - Volt: electrical pressure pushing the electrons
+        - How open the faucet is
+- Power
+    - Watt: measurement of real power use
+    - Volts * Amps = Watts
+    - 120 V * 0.5 A = 60 W
+- Current
+    - Alternating current
+        - Direction of current constantly reverses
+        - Efficient over long distances
+    - Direct current
+        - Current moves in one direction with a constant voltage
+- Dual-voltage input options
+    - Voltage varies by country
+    - Manually switch between 120 V and 230 V
+    - Don't plug 120 V into a 230 V power source!
+- Power supply output
+    - Diff voltages
+    - Positive and negative voltage
+    - + 12 V - PCIe adapters, fans, most modern components
+    - + 5 V - legacy motherboards
+    - + 3.3 V - M.2 slots, RAM slots, logic circuits
+    - + 5 VSB - standby voltage
+- 24-pin motherboard power
+    - Main motherboard power
+    - The three main voltages
+- Redundant power supplies
+    - Two or more power supplies
+        - Internal to the server
+    - Each power supply can handle 100% of the load
+    - How-swappable 
+        - Replace one without powering down
+- Power supply connectors
+    - Fix connectors
+        - Connected to the power supply
+        - Many have either too many or not enough
+    - Modular
+        - Add cables as needed
+- Sizing a power supply
+    - Rated by watts
+        - Overall and individual voltages
+    - Bigger isn't necessarily better
+        - More expensive
+        - Doesn't speed up your computer
+    - Physical size is standard
+    - Calculate the watts required for all components
+        - Many online calculators
+    - Video adapters usually draw the most power
+    - 50% capacity is a good rule of thumb
+        - Double your calculation
 
 ### 3.6 - Multifunction Devices
+- MFD
+    - Printer
+    - Scanner
+    - Fax
+    - Network connection
+    - Phone line
+    - Print from web
+- Unboxing a device
+    - These can be large
+        - Make sure you have enough room
+    - Check the area
+- Printer drivers
+    - Specific to a printer model
+        - Get it right
+    - Get the right OS drivers
+    - Get the right OS version
+    - You can mix and match drivers
+- PCL or PostScript
+    - Printer Command Language
+    - PostScript
+        - Popular with high-end printers
+    - Make sure the drivers match the printer
+- Wired device sharing
+- 
+
 
 ### 3.7 - Printers
 
