@@ -1784,9 +1784,88 @@ WARNING
         - Popular with high-end printers
     - Make sure the drivers match the printer
 - Wired device sharing
-- 
-
 
 ### 3.7 - Printers
+- Laser printer
+    - Combine a laser, high voltage, charged ions, powdered ink, heat, and paper
+    - Very high quality
+    - Fast
+    - Very complex
+- Imaging drum
+    - Image is drawn onto a photosensitive drum
+    - Picks up toner
+    - Can be separate from the toner cartridge
+- Fuser assembly
+    - Heat and pressure
+        - Melt plastic toner powder
+        - Permanently bond toner to paper
+- Transfer belt and roller
+    - Color laser printers
+    - Four toner cartridges
+    - Image is transferred from all cartridges to the belt
+- Pickup rollers
+    - Pick up paper
+    - Single at a time
+    - Should be periodically replaced or cleaned
+- Separation pad
+    - Pull just the top sheet from the paper tray
+    - Small and inexpensive
+- Duplexing assembly
+    - Printers usually print on a single side
+    - Printing on both sides is a two step process
+    - You need mechanisms to flip the page
+- Process  
+    - Processing
+    - Charging
+    - Exposing
+    - Developing
+    - Transferring
+    - Fusing
+    - Cleaning
+
+### 3.7 - Laser Printer Maintenance
+- Replacing the toner
+    - Look for the messages
+        - Low doesn't mean empty
+    - The toner can also contain the OPC drum
+        - Sensitive to light; keep it in the bag
+    - Power down the printer
+    - Remove packing strips and replace with new
+- Maintenance kit
+    - They wear out
+        - Many moving parts
+        - Heat and pressure
+    - Check manufacturer for maintenance kit
+    - Check page counter
+    - Power off and replace the components
+    - Reset the page counter when you're done
+- Cleaning
+    - Dirty
+        - Toner and paper dust
+    - Check the maker's recommendation
+    - Outside - damp cloth
+    - Inside - wipe dust away
+
+### 3.7 - Inkjet Printers
+- Inkjet printers
+    - Relatively inexpensive
+    - Quiet
+    - High-res
+    - Expensive ink
+        - Proprietary
+    - Eventually fades
+    - Clogs easily
+
+### 3.7 - Inkjet Printer Maintenance
+- Cleaning print heads
+    - Need to stay clear so they don't clog
+    - Can be started manually or automatically
+- Replacing inkjet cartridges
+    - CMYK
+    - Recycle
+- Calibration
+
+### 3.7 - Thermal Printers
+- 
 
 ## Section 4.0: Virtualization and Cloud Computing
