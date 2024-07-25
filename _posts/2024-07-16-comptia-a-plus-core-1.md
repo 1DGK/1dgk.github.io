@@ -1866,6 +1866,47 @@ WARNING
 - Calibration
 
 ### 3.7 - Thermal Printers
-- 
+- White paper
+    - Turns black when heated
+    - No ink!
+- Very quiet
+    - Almost silent
+- Paper is sensitive to light and heat
+    - And clear tape
+- Feed assembly
+    - Pull paper through the printer
+- Heating element
+    - Full-length heating element
+        - No moving print head
+- Thermal paper
+    - Paper covered with a chemical
+    - Cash register, ATMs
+    - Looks like normal, but feels different
+
+### 3.7 - Thermal Printer Maintenance
+- Thermal paper replacement
+    - Relatively inexpensive
+        - But must be exact
+    - Diff sizes
+        - Not like laser printer paper
+    - Actual replacement is easy
+- Cleaning the heating element
+    - Liquid cleaner
+        - Iso alcohol
+        - Get a cleaning pen
+    - Swab gently
+    - Use a cleaning card
+- Removing debris
+    - Paper and dust
+    - Blow out the printer
+    - Wipe it out
+    - Avoid using a vacuum
+- Paper sensitivity to heat
+    - Heat is used to create the output on the thermal paper
+    - Avoid hot areas
+    - Receipt will also fade over time
+
+### 3.7 - Impact Printers
+
 
 ## Section 4.0: Virtualization and Cloud Computing
