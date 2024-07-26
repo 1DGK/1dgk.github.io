@@ -2049,4 +2049,64 @@ WARNING
         - Big network requirement
 
 ### 4.2 - Client-side Virtualization
-- 
+- Virtualization
+    - One computer, many OS's
+    - Separate OS, independent CPU, memory, etc.
+    - Host-based virtualization
+    - Standalone server that hosts virtual machines
+    - Been around since 1967
+- Legacy software and operating systems
+    - Need to run different app versions on the same system
+    - App only runs on a previous OS version
+        - Create a VM with the older OS
+- Cross-platform virtualization
+    - Windows / macOS / Linux doesn't do everything
+        - Each has strength and weaknesses
+    - Run at the same time
+        - Don't need to switch or reboot
+    - Save time and resources
+- The hypervisor
+    - Virtual Machine Manager
+        - Manages the virtual platform and guest OS's
+    - May require a CPU that supports virtualization
+        - Can improve performance
+    - Hardware management
+        - CPU
+        - Networking
+        - Security
+- Resource requirements
+    - CPU Processor Support
+        - Intel - Virtualization Technology
+        - AMD - AMD-V
+    - Memory
+        - Above and beyond host OS requirements
+    - Storage
+        - Need enough for each OS image
+    - Network
+        - Configurable on each guest OS
+        - Virtual switch
+- Security
+    - VM escaping
+    - Many hosted services are virtual environments
+- Guest OS security
+    - Every guest is self-contained
+        - Like a real computer
+    - Use traditional security controls
+        - Firewall, etc
+    - Watch out for rogue VM's
+        - The bad guys try to install their own system
+            - You're in big trouble
+    - Self-contained VMs can be dangerous
+- Network requirements
+    - Most client-side VM managers have their own virtual networks
+    - Shared network address
+        - The VM shares the same IP as the physical host
+        - Uses a private IP internally
+        - Uses NAT to convert
+    - Bridged network address
+        - The VM is a device on the physical network
+    - Private address
+        - The VM does not communicate outside of the virtual network
+
+## 5.0 - Hardware and Network Troubleshooting
+### 5.1 - How to Troubleshoot
