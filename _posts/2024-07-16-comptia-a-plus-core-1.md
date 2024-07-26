@@ -1907,6 +1907,146 @@ WARNING
     - Receipt will also fade over time
 
 ### 3.7 - Impact Printers
+- Dot-matrix (impact) printers
+    - Print head with a small matrix of pins
+    - Good for carbon / multiple copies
+    - Low cost per page
+    - NOISY
+    - Poor graphics
+    - Relatively niche
+- Moves back and forth
+    - Pins hit ribbon and paper
+- Printer ribbon
+    - Fabric
+        - One long ribbon
+        - Never ending circle
+    - Easy to replace
+    - Proprietary size
+- Tractor feed
+    - Continuous paper feed
+    - Paper pulled through with holes on the side of the paper
+    - Holes have to be lined up perfectly
 
+### 3.7 - Impact Printer Maintenance
+- Printer ribbon replacement
+    - Single ribbon
+        - One long circle
+    - Replace when ink becomes too light
+    - Designed to be modular
+        - Replace in a minute
+- Print head replacement
+    - Takes a lot of abuse
+    - Gets hot
+    - Another modular part
+    - Replace with the ribbon for the best effect
+- Replacing paper
+    - Not as easy as a laser printer
+    - Forms must be positioned correctly
+    - Must feed without constraint
+
+### 3.7 - 3D Printers
+-  3D printers
+    - Print in three dimensions
+        - Create a 3D model and print it
+    - Additive manufacturing
+        - Build in layers
+    - Rapid prototyping
+    - Deploy designs anywhere in the world, or in space
+- Filament printing
+    - Fused Deposition Modeling (FDM)
+        - Melt filament to print 3D objects
+    - Print a layer, move up, print another layer
+    - Good all-around printer
+        - Larger print bed than resin printers
+- Resin printing
+    - SLA 3D Printing
+        - Smooth and finely detailed prints
+    - Resin is hardened using a light source
+    - Resin must be handled properly
+- The print bed
+    - A flat adhesive surface
+    - Needs to be level and clean
+    - Filament printing
 
 ## Section 4.0: Virtualization and Cloud Computing
+### 4.1 - Cloud Models
+- Cloud computing
+    - More than just a server hosted elsewhere
+        - Extend the management of apps and services
+    - Deploy an infrastructure in minutes
+        - Create and tear down as you need
+    - International scope
+        - Deploy in specific parts of the world
+    - Use only the required resources
+        - Cost is based on the amount of use
+- Cloud deployment models
+    - Private
+        - Your own data center
+    - Public
+        - Available to everyone over the Internet
+    - Hybrid
+        - A mix of both
+    - Community
+        - Several org's share the same resources
+- Infrastructure as a service (IaaS)
+    - Sometimes called Hardware as a Service (HaaS)
+        - Outsource your equipment
+    - You're still responsible for the management
+        - And for the security
+    - Your data is out there, but more within your control
+    - Web server providers
+- Software as a service (SaaS)
+    - On-demand software
+        - No local installation
+        - Why manage your own email distribution? Or payroll?
+    - Central management of data and apps
+        - Your data is out there
+    - A complete app offering
+        - No dev required
+        - Gmail, Microsoft 365
+- Platform as a service (PaaS)
+    - No servers, no software, no maintenance team, no HVAC
+        - Someone else handles the platform, you handle the dev
+    - You don't have direct control of the data, people, or infrastructure
+        - Choose carefully
+    - Put the building blocks together
+        - SalesForce.com
+- Cloud models
+
+### 4.1 - Cloud Characteristics
+- Share resources
+    - Internal cloud
+        - No resources are shared
+        - Build your own cloud
+        - Pay for everything up front
+        - No ongoing costs
+    - External cloud
+        - Share with a public cloud
+        - Costs may be metered or up-front
+        - Owned by a third party
+- Metered and non-metered
+    - Metered cloud services
+        - Pay for what you use
+        - Cost to upload / store / download
+    - Non-metered
+        - You pay for a block of storage
+        - No cost to upload / download
+- Rapid elasticity
+    - Scale up and scale down as needed
+    - Seamless to everyone
+- High availability
+    - Always available
+    - Redundancy provides availability
+- File synchronization
+    - Info can be duplicated across cloud locations
+- Desktop as a service (DaaS)
+    - Basic app usage
+        - Apps run on a remote server
+        - Virtual Desktop Infrastructure, DaaS
+        - Local device is a keyboard, mouse, and screen
+    - Minimal OS on the client
+    - Network connectivity
+        - Big network requirement
+
+### 4.2 - Client-side Virtualization
+- 
