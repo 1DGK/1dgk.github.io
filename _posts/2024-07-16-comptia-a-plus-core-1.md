@@ -2110,3 +2110,115 @@ WARNING
 
 ## 5.0 - Hardware and Network Troubleshooting
 ### 5.1 - How to Troubleshoot
+- Change management
+    - Change control
+        - A formal process for managing change
+        - Avoid downtime, confusion, and mistakes
+        - Corporate policy and procedures
+    - Nothing changes without the process
+        - Plan for a change
+        - Estimate risk
+        - Have a recovery plan
+        - Test before making the change
+        - Document all of this and get approval
+        - Make the change
+- Troubleshooting process
+    - Identify the problem
+        - Info gathering
+            - Get as many details as possible
+            - Duplicate if possible
+        - ID symptoms
+        - Question users
+        - Determine if anything has changed
+        - Approach multiple problems individually
+        - Backup everything
+    - Establish a theory
+        - Start with the obvious
+            - Occam's razor applies
+        - Consider everything
+        - Make a list of all possible causes
+        - Research the symptoms
+    - Test the theory
+        - Confirm the theory
+        - Theory didn't work?
+            - Re-establish new theory
+        - The theory worked
+            - Make a plan
+    - Create a plan of action
+        - Build a plan
+        - Refer to vendor instructions
+        - ID potential effects
+    - Implement the solution
+        - Fix the issue
+        - Escalate as necessary
+    - Verify full system functionality
+        - It's not fixed until it's really fixed
+    - Document findings
+        - It's not over until you build the knowledge base
+            - Don't lose valuable knowledge
+        - What action did you take?
+            - What outcome did it have?
+        - Consider a formal database
+
+### 5.2 - Troubleshooting Common Hardware Problems
+- POST (Power On Self Test)
+    - Test major system components before booting the OS
+        - Main systems (CPU, CMOS, etc.)
+        - Video
+        - Memory
+    - Failures are usually noted with beeps and/or codes
+    - Don't bother memorizing the beep codes
+- POST and boot
+    - Black screen on boot
+        - Listen for beeps
+        - Bad video, bad RAM, bad CPU
+        - BIOS config issue
+    - BIOS time and setting
+        - Maintained with the motherboard battery
+        - Replace the battery
+    - Attempts to book to incorrect device
+        - Set boot order in BIOS config
+        - Confirm that the startup device has a valid OS
+        - Check for media in a startup device
+- Crash screens
+    - Windows Stop Error (BSOD)
+    - Contains important information
+        - Also written to event log
+    - Useful when tracking down problems
+        - Sometimes more useful for manufacturer support
+- Bluescreens and spontaneous shutdowns
+    - Startup and shutdown BSOD
+    - Use last known good, system restore, or rollback driver
+        - Try Safe Mode
+    - Reseat or remove the hardware
+    - Run hardware diagnostics
+        - Provided by manufacturer
+        - BIOS may have it too
+- The spinning ball of death
+    - The macOS spinning wait cursor
+        - Feedback that something is happening
+    - The spin starts, but it never stops
+    - Many possible reasons
+        - App bug
+        - Bad hardware
+        - Slow paging to disk
+    - Restart the computer
+        - There may be details in the console logs
+- Black screen
+    - Is the monitor connected?
+        - We wouldn't ask if it wasn't a common solution
+        - Check power and signal cable
+    - Input selection on monitor
+        - HDMI, DVI, VGA, etc.
+    - Image is dim
+        - Check brightness controls
+    - Swap the monitor
+        - Try the monitor on another computer
+    - No video after Windows loads
+        - Use VGA mode (F8)
+- No power
+    - No power at the source
+    - No power at the power supply
+    - Get out your multimeter
+- Sluggish performance
+    - 
