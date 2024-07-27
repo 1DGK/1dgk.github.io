@@ -11,7 +11,7 @@ last updated 26 JUL 2024
 - One Hundred Years of Solitude by Gabriel Garcia Marquez
 
 **To-read** (max 10):
-- The Great Gatsby by Scott F. Fitzgerald
+- The Great Gatsby by F. Scott Fitzgerald
 
 **Currently watching**
 
