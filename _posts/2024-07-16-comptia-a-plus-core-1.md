@@ -2221,4 +2221,83 @@ WARNING
     - No power at the power supply
     - Get out your multimeter
 - Sluggish performance
-    - 
+    - Task Manager
+        - Check for high CPU utilization and I/O
+    - Windows Update
+        - Latest patches and drivers
+    - Disk space
+        - Check for available space and defrag
+    - Laptops may be using power-saving mode
+        - Throttles the CPU
+    - Anti-virus and anti-malware
+        - Scan for bad guys
+- Overheating
+    - Heat generation
+        - CPUs, video adapters, memory
+    - Cooling systems
+        - Fans and airflow
+        - Heat sinks
+        - Clean and clear
+    - Verify with monitoring software
+        - Try HWMonitor
+            - cpuid.com
+- Smoke and burning smell
+    - Electrical problems
+        - The smoke makes everything work
+    - Always disconnect power
+        - There should never be a burned odor
+    - Locate bad components
+        - Even after the system has cooled down
+- Intermittent shutdown
+    - No warning, black screen
+        - May have some details in your Event Viewer
+    - Heat-related issue
+        - High CPU or graphics, gaming
+        - Check all fans and heat sinks
+        - BIOS may show fan status and temperatures
+    - Failing hardware
+        - Has anything changed?
+        - Check Device Manager, run diagnostics
+    - Could be anything
+        - Eliminate what's working
+- App crashes
+    - App stops working
+        - May provide an error message
+        - May just disappear
+    - Check the Event Log
+    - Check the Reliability Monitor
+    - Reinstall the app
+- Grinding noises
+    - Computers should hum, not grind
+    - Rattling
+        - Loose components
+    - Scraping
+        - Hard drive issue
+    - Clicking
+        - Fan problems
+    - Pop
+        - Blown capacitor
+- Lockups
+    - System completely stops
+        - Usually not much in the event log
+    - Check for any activity
+        - Hard drive, status lights, Ctrl-Alt-Del
+    - Update drivers and software patches
+    - Low resources
+        - RAM, storage
+    - Hardware diagnostics may be helpful
+- Continuous reboots
+    - How far does the boot go before rebooting?
+        - BIOS only? OS splash screen?
+    - Bad driver or configuration
+        - F8, boot from last known configuration
+    - Try F8, Safe Mode
+        - If system starts, disable auto restarts in System Properties
+- Inaccurate system date/time
+    - Bad motherbaord battery
+        - Often a button style battery
+    - A bad battery will require a BIOS config or date/time config on every boot
+    - On older systems, can reset the BIOS config by removing the battery
+        - Newer computers use a jumper
+
+### 5.3 - Troubleshooting Storage Devices
