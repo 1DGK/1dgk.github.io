@@ -2301,3 +2301,138 @@ WARNING
         - Newer computers use a jumper
 
 ### 5.3 - Troubleshooting Storage Devices
+- Storage failure symptoms
+    - Read/write failure
+    - Slow performance
+        - Constant LED activity
+    - Loud click noise
+        - Click of death
+- Troubleshooting disk failures
+    - Get a backup
+        - First thing - a bad drive is bad
+    - Check for loose or damaged cables
+    - Check for overheating
+    - Check power supply
+    - Run hard drive diagnostics
+- Boot failure symptoms
+    - Drive not recognized, Boot Not Found
+        - Lights
+        - Beeps
+        - Error messages
+    - Operating system not found
+        - The drive is there
+        - Windows is not
+    - Check your cables
+    - Check boot sequence in BIOS
+    - For new installation, check hardware config
+        - Data and power
+        - SATA cables
+    - Try the drive in a different computer
+- Data loss / corruption
+    - Hard drives are mechanical
+        - They will eventually fail
+    - Repairs are difficult and expensive
+    - An SSD may simply stop working
+    - Data becomes unavailable or corrupted
+    - **ALWAYS HAVE A BACKUP**
+- RAID not found
+    - Missing or faulty RAID controller
+    - Each RAID is different
+        - Don't start pulling drives until you check the console!
+- SMART
+    - Self-Monitoring, Analysis, and Reporting Technology
+        - Use third-party utilities
+    - Avoid hardware failure
+        - Look for warning signs
+    - Schedule disk checks
+        - Built-in to most drive arrays
+    - Warning drives
+        - Replace the drive
+- Extended read/write times
+    - A lot happens when reading or writing data
+    - Delays can occur anywhere along the way
+    - Input/output operations per second (IOPS)
+    - Useful for comparing storage devices
+        - HDD: 200 IOPS
+        - SSD: 1,000,000 IOPS
+- Missing drives in OS
+    - OS boots normally
+        - Other drives not shown
+        - Check the BIOS
+    - Internal drives
+        - Bad drive or disconnected cable
+    - External drives
+    - Network shares
+        - Share might not be mounted
+
+### 5.4 - Troubleshooting Video and Display Issues
+- No video image    
+    - Is it connected?
+    - Input selection
+    - Image is dim
+    - Swap the monitor
+    - Use VGA mode (F8)
+- Image quality problems
+    - Flickering, color patterns
+    - Check the cable pins
+    - Distorted 
+        - Check the OS refresh rate and resolution settings
+        - Need to match the display specs
+        - Check or replace cable
+    - Disable hardware acceleration
+- Native resolution
+    - An LCD display is fixed
+        - Pixel number doesn't change
+    - Match native resolution to the video settings
+- Burn-in
+    - All monitor types have this problem
+    - LCDs have image sticking
+        - Try to remove by displaying a white screen for a good amount of time
+- Dead pixels
+    - Always black
+        - Manufacturing defect
+    - Not a problem you can fix
+    - Clean the monitor screen with a damp cloth
+    - You'll have to replace the monitor
+        - No other option
+- Flashing screen
+    - Check the video cable connections
+        - A loose cable will cause loss of signal
+    - Replace the video cable
+    - Could be the monitor
+    - Confirm the display settings in the operating system
+- Incorrect color display
+    - Colors may not be properly represented
+    - Monitor settings 
+    - Driver config
+    - OS config - night light setting
+- Audio issues
+    - Many monitors include speakers
+        - No sound, low volume
+    - May have audio controls
+    - Confirm audio input over HDMI, DP, of Thunderbolt
+        - Check the HDMI audio output of the OS
+    - May support other audio
+- Dim image
+    - Monitor video settings
+    - Check the OS
+    - Backlight failure
+        - Some or all of the light
+        - May only be a section of the screen
+- LCD projector troubleshooting
+    - Large screen projection
+        - Conf room, large gatherings
+    - Not always LCD
+    - Metal-halide lamp
+        - Very bright and hot
+        - Expensive (~35-350 USD)
+    - Always let bulbs cool
+    - Intermittent shutdown
+        - Cooling issue
+        - Check the fans
+        - Check the airflow
+            - Blockages
+            - Dust
+
+### 5.5 - Troubleshooting Mobile Devices
+- 
