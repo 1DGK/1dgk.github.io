@@ -2499,4 +2499,127 @@ WARNING
 - Cursor drift
 
 ### 5.6 - Troubleshooting Printers
-- 
+- Testing the printer
+    - Print or scan a test page
+        - Built into Windows
+    - Use diagnostic tools
+        - Web-based utilities built into the printer
+        - Vendor specific
+- Bad output
+    - Lines down the printed page
+        - Inkjet: clean print heads
+        - Laser: check for scratched drum
+    - Faded prints, blank pages
+        - Low toner or ink
+    - Double / echo images 
+        - Laser printer drum not cleaned properly
+- Garbled print
+    - Bad printer driver / wrong model
+    - Verify the functionality with a test page
+    - Bad application
+- Toner not sticking to the paper
+    - Laser printer output smudges everywhere
+- Incorrect paper size
+    - Print a letter size page
+- Paper jam
+    - Careful when removing
+        - Don't rip the paper
+    - Paper not feeding or misfeeds multiple pages
+    - Creased paper
+        - Problems in the paper path
+        - Check the paper weight
+- Multiple prints pending in queue
+    - Corrupted print jobs
+        - Print spooler will crash
+        - Mosrt spooler config will automatically restart
+    - Problems are logged
+        - Windows Event Viewer, Windows-PrintService
+    - One job may be causing the issue
+- Incorrect color settings
+    - Calibrate the monitor
+        - A third-party calibration tool will help
+    - Check the paper
+        - Bright white 
+    - Calibrate the printer
+        - The proper amount of ink and toner
+- Grinding noises
+    - Never a good sound from your printer
+    - Something is not operating properly
+    - Each printer has a different process
+    - May require additional maintenance
+- Finishing issues
+    - Finishing happens after the ink or toner has been applied
+    - Staple jams
+    - Incorrect hole punch location
+- Incorrect page orientation
+    - Print a portrait page
+    - Check the settings when printing
+    - The printer also has a default setting
+
+### 5.7 - Troubleshooting Networks
+- No network connectivity
+    - Do you have a link light?
+        - Is it plugged in?
+    - Ping loopback (127.0.0.1)
+        - Is the protocol stack working?
+        - Availability and intermittent connectivity
+    - Ping local IP address
+        - Checks local config, adapter, and link signal
+    - Ping default gateway
+        - Connectivity on the local network
+    - Ping devices on router's other side
+        - 8.8.8.8 or 9.9.9.9
+- Intermitten wireless connectivity
+    - Interference
+        - Something else is using our frequency
+    - Signal strength
+        - Transmit signal, transmit antenna, receive antenna, etc.
+    - Incorrect channel
+        - Usually automatic: look for manual tuning
+    - Bounce and latency
+        - Multipath inteference; flat surfaces
+    - Incorrect access point placement
+        - Locate close to users
+- Wireless interference
+    - Predictable
+        - Microwave ovens
+        - Cordless phones
+        - High-power sources
+    - Unpredictable
+        - Multi-tenant building
+    - Measurements
+        - SNR
+        - Performance Monitor
+- Signal to noise ratio
+    - Signal
+        - What you want
+    - Noise
+        - What you don't want
+    - You want a very large ratio
+- Limited or no connectivity
+    - Windows alert in the system tray
+    - Check the local IP address
+        - An APIPA address will only have local connectivity
+    - If DHCP address is obtained, perform the ping tests
+        - Local gateway, remote IP address
+- Jitter
+    - Most real-time media is sensitive to delay
+    - If you miss a packet, there's no retransmission
+    - Jitter is the time between frames
+- Poor VoIP quality
+    - High speed and low latency
+    - Check the internet connection
+    - Verify the local networking equipment
+    - View the network performance
+        - A packet capture would be useful
+- Latency
+    - A delay between the request and the response
+    - Some latency is expected and normal
+    - Examine the response times at every step along the way
+    - Packet capture can provide detailed analysis
+- Port flapping
+    - Network interface goes up and down
+        - Over and over again
+    - Verify the cable
+    - Move between switch interfaces
+    - Replace bad hardware or cables
