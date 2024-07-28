@@ -2435,4 +2435,68 @@ WARNING
             - Dust
 
 ### 5.5 - Troubleshooting Mobile Devices
+- Poor battery health  
+    - Replace aging battery
+        - There's only so many recharges
+    - Bad reception
+        - Always searching for signal
+        - Airplane mode on the ground
+    - Disable uncessary features
+    - Check app battery usage
+- Swollen battery
+    - Buildup of gas
+        - Designed to self-contain
+        - Do NOT open
+    - Faulty battery
+    - Device can be damaged
+- Broken screen 
+    - Time for a backup
+        - Do this first
+    - Replace the screen    
+        - No easy fixes
+    - The glass is sharp
+        - Screen protectors can help
+        - Use clear tape until repaired
+- Improper charging
+    - Check everything in the charging process
+        - Cables, interfaces
+    - Check the cable interface
+        - Remove any obstructions
+    - Check the cable
+        - Don't use frayed or damaged cables
+        - Try a known-good cable
+    - Verify the power adapter
+        - Check with a multimeter
+- Poor or no connectivity
+    - Cellular or Wi-Fi
+        - Location, location, location
+    - Cellular
+        - Signal strength
+        - Location matters
+        - Outdoor connectivity may be better
+    - Wi-Fi
+        - Limited range
+        - Interference can limit throughput
+        - May need a chnnel/freq config change
+- Liquid damage
+    - Many phones have a Liquid Contact Indicator
+        - Turns color when liquid has been present
+    - Power down the phone
+        - Don't power it back on
+    - Remove the case, cards, back and battery
+    - Putting the phone in a bag of rice doesn't actually work well
+        - Silica gel is better
+    - Leave it alone
+        - Don't turn it on
+        - Don't charge it
+        - Don't press any keys
+        - Don't move it around
+    - Wait at least a day
+    - Once you're sure, power it on and hope for the best
+- Overheating
+    - Phone will automatically shut down
+- Malware
+- Cursor drift
+
+### 5.6 - Troubleshooting Printers
 - 
