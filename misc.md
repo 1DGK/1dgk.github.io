@@ -12,6 +12,13 @@ last updated 28 JUL 2024
 
 **To-read** (max 10):
 - The Great Gatsby by F. Scott Fitzgerald
+- The Untouchables by Eliot Ness
+- In Memory of Memory by Maria Stepanova
+- Feh by Shalom Auslander
+- Second-hand Time by Svetlana Alexievich
+- Playing with Reality by Kelly Clancy
+- Journey to the End of the Night by Louis-Ferdinand Céline
+- The Travels of Marco Polo
 
 **Currently watching**
 
