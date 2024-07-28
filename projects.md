@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-last updated 19 JUL 2024
+last updated 28 JUL 2024
 
 ## 2024 - Doing
 - CNTP - [My Cyber Ninja Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to Carrie Roberts. See [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) for more details.
@@ -23,4 +23,4 @@ last updated 19 JUL 2024
 ## Near-term Goal
 - Online Cybersecurity and Information Assurance Degree at WGU
     - Transfer as much as possible from Sophia and/or Study.com
-    - Complete certs before and transfer?
+    - Complete certs before then transfer?

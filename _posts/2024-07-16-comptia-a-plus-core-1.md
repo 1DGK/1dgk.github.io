@@ -8,6 +8,8 @@ There is plenty of good material available for the exam, but Professor Messer of
 
 Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make sure the newest version of the A+ exam matches with the videos by Professor Messer. CompTIA exams are usually every three years, and the most recent A+ exam came out in April 2022.
 
+It took me about two weeks to get through the videos, then I took another week to do practice tests. I found a [study bundle published by Sybex for about $90 CAD](https://www.amazon.ca/dp/1119863228?ref=emc_s_m_5_i_atc), which includes a bunch of practice tests. Moving forward, I'll take a day to test myself after I complete each study section. 
+
 ### Links
 - [Professor Messer's CompTIA A+ 220-1101 A+ Training Course](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/).
 
@@ -171,7 +173,6 @@ Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make su
     - Similar to docking station
     - Connects through USB
 
----
 ### 1.4 - Cellular Standards
 - 2G
     - GSM
