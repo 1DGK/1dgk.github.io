@@ -3,8 +3,18 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+To sort:
 
-Last updated 11 JUL 2024.
+https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources
+
+https://prep.fullstackacademy.com/
+
+https://capturetheflag.withgoogle.com/beginners-quest
+
+
+
+
+Last updated 28 JUL 2024.
 
 ### Foundations
 
@@ -51,6 +61,7 @@ Last updated 11 JUL 2024.
 - [picoCTF](https://picoctf.org/)
 
 ### Free courses
+- 🏫 [Mosse Institute- MICS - Introduction to Cyber Security](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html)
 - 🏫 [Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
 - 🏫 [Roppers](https://www.roppers.org/)
 - 🏫 [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
