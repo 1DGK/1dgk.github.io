@@ -218,7 +218,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 07/24 [blank]\
 07/25 [blank]\
 07/26 _Neuromancer, William Gibson_\
-07/27 [blank]\
-07/28 **TOY STORY (1995)**
+07/27 **TOY STORY 2 (1999)**\
+07/28 **TOY STORY (1995)**\
+07/29 **JIM HENSON: IDEAS MAN (2024)**
 
 
