@@ -4,14 +4,13 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 28 JUL 2024
+last updated 01 AUG 2024
 
 ### Media
 **Currently reading**:
 - One Hundred Years of Solitude by Gabriel Garcia Marquez
 
 **To-read** (max 10):
-- The Great Gatsby by F. Scott Fitzgerald
 - The Untouchables by Eliot Ness
 - In Memory of Memory by Maria Stepanova
 - Feh by Shalom Auslander
@@ -19,9 +18,11 @@ last updated 28 JUL 2024
 - Playing with Reality by Kelly Clancy
 - Journey to the End of the Night by Louis-Ferdinand Céline
 - The Travels of Marco Polo
+- 1984 by George Orwell
+- The Catcher in the Rye by J. D. Salinger
 
 **Currently watching**
-
+- Guillermo del Toro's Pinocchio (2022)
 
 **To-watch** (max 10):
 - The Boy and the Heron (2023)
