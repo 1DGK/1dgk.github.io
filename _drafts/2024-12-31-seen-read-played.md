@@ -220,6 +220,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 07/26 _Neuromancer, William Gibson_\
 07/27 **TOY STORY 2 (1999)**\
 07/28 **TOY STORY (1995)**\
-07/29 **JIM HENSON: IDEAS MAN (2024)**
-
-
+07/29 **JIM HENSON: IDEAS MAN (2024)**\
+07/30 [blank]\
+07/31 _The Great Gatsby, F. Scott Fitzgerald_
