@@ -4,11 +4,12 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 01 AUG 2024
+last updated 02 AUG 2024
 
 ### Media
 **Currently reading**:
 - One Hundred Years of Solitude by Gabriel Garcia Marquez
+- Our Enemies Will Vanish by Yaroslav Trofimov
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -20,6 +21,7 @@ last updated 01 AUG 2024
 - The Travels of Marco Polo
 - 1984 by George Orwell
 - The Catcher in the Rye by J. D. Salinger
+- The Cosmic Perspective by Jeffrey Bennett
 
 **Currently watching**
 - Guillermo del Toro's Pinocchio (2022)
