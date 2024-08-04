@@ -8,7 +8,6 @@ last updated 03 AUG 2024
 
 ### Media
 **Currently reading**:
-- One Hundred Years of Solitude by Gabriel Garcia Marquez
 - Our Enemies Will Vanish by Yaroslav Trofimov
 
 **To-read** (max 10):
