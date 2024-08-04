@@ -226,4 +226,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/01 _The Adventures of Pinocchio, Carlo Collodi, illustrated by Roberto Innocenti_\
 08/02 BATMAN: CAPED CRUSADER\
 08/03 **GUIELLERMO DEL TORO'S PINOCCHIO (2022)**\
-08/04 BATMAN: CAPED CRUSADER
+08/04 BATMAN: CAPED CRUSADER, _One Hundred Years of Solitude, Gabriel Garcia Marquez_
