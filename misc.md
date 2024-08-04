@@ -4,7 +4,7 @@ title: Misc
 permalink: /misc/
 ---
 
-last updated 02 AUG 2024
+last updated 03 AUG 2024
 
 ### Media
 **Currently reading**:
@@ -16,7 +16,6 @@ last updated 02 AUG 2024
 - In Memory of Memory by Maria Stepanova
 - Feh by Shalom Auslander
 - Second-hand Time by Svetlana Alexievich
-- Playing with Reality by Kelly Clancy
 - Journey to the End of the Night by Louis-Ferdinand Céline
 - The Travels of Marco Polo
 - 1984 by George Orwell
@@ -24,7 +23,7 @@ last updated 02 AUG 2024
 - The Cosmic Perspective by Jeffrey Bennett
 
 **Currently watching**
-- Guillermo del Toro's Pinocchio (2022)
+- Batman: Caped Crusader (2024)
 
 **To-watch** (max 10):
 - The Boy and the Heron (2023)
