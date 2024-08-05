@@ -5,6 +5,9 @@ title: TryHackMe - Network Services Room
 [Network Services](https://tryhackme.com/r/room/networkservices)
 ---
 # My Notes
+**FOR NMAP, ALWAYS USE THE `-vv-` option** It makes it very readable.
+
+
 I'm struggling with this one, especially Task 4: Exploiting SMB.
 
 SMBClient isn't installed on my Ubuntu version, so I enter this command to install it: ``sudo apt install smbclient``
