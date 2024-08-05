@@ -38,13 +38,13 @@ last updated 05 AUG 2024
 ### Exercise - Walk instead of run until August 11th
 **Monday (Strength Training Day)**
 - Focus on lower body strength:
-    - Squats: 3 sets of 12-15 reps
-    - Calf Raises: 3 sets of 15-20 reps (using bodyweight or a step)
-    - Glute Bridges: 3 sets of 12-15 reps
+    - [Squats](https://exrx.net/WeightExercises/Quadriceps/BWSquat): 3 sets of 12-15 reps
+    - [Calf Raises](https://exrx.net/WeightExercises/Gastrocnemius/BWStandingCalfRaise): 3 sets of 15-20 reps (using bodyweight or a step)
+    - [Glute Bridges](): 3 sets of 12-15 reps
     - Wall Sits: 3 sets of 60-90 seconds
 - Core exercises:
-    - Plank: 3 sets of 30-60 seconds
-    - Russian twists: 3 sets of 12-15 reps (using a medicine ball or no weight)
+    - [Plank](https://exrx.net/WeightExercises/RectusAbdominis/BWFrontPlank): 3 sets of 30-60 seconds
+    - [Russian twists](https://exrx.net/Plyometrics/MBRussianTwist): 3 sets of 12-15 reps (using a medicine ball or no weight)
 
 **Tuesday (Run Day)**
 - Warm-up: 5-10 minutes of walking or light cardio
