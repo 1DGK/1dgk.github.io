@@ -3,7 +3,6 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-
 last updated 05 AUG 2024
 
 ### Media

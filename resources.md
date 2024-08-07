@@ -3,6 +3,8 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
+last updated 28 JUL 2024.
+
 To sort:
 
 https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources
@@ -10,11 +12,6 @@ https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resou
 https://prep.fullstackacademy.com/
 
 https://capturetheflag.withgoogle.com/beginners-quest
-
-
-
-
-Last updated 28 JUL 2024.
 
 ### Foundations
 

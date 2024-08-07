@@ -3,13 +3,12 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
-last updated 28 JUL 2024
+last updated 07 AUG 2024
 
 ## 2024 - Doing
-- CNTP - [My Cyber Ninja Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to Carrie Roberts. See [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) for more details.
-    - I plan to complete all the free material, then consider the Sophia + WGU hack, which could lead to a degree and a bunch of certifications for roughly $10k. 
-    - My goal is to have it all done by the end of 2025.
+- CNTP - [My Cyber Ninja Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) by Carrie Roberts.
+    - Complete all free material, then consider the Sophia + WGU hack, which could lead to a degree and a bunch of certifications for roughly $10k. 
+    - Finish by the end of 2025.
 - CNTP - [My TryHackMe Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ87lrVxZ8GCfOyDqw?e=Sp9qc5)
 
 ## 2024 - Done
