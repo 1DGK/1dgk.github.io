@@ -3,11 +3,12 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 05 AUG 2024
+last updated 12 AUG 2024
 
 ### Media
 **Currently reading**:
 - Our Enemies Will Vanish by Yaroslav Trofimov
+- 1984 by George Orwell
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -16,7 +17,6 @@ last updated 05 AUG 2024
 - Second-hand Time by Svetlana Alexievich
 - Journey to the End of the Night by Louis-Ferdinand Céline
 - The Travels of Marco Polo
-- 1984 by George Orwell
 - The Catcher in the Rye by J. D. Salinger
 - The Cosmic Perspective by Jeffrey Bennett
 
@@ -34,7 +34,11 @@ last updated 05 AUG 2024
 - Blazing Saddles (1974)
 - The Talented Mr. Ripley (1999)
 
-### Exercise - Walk instead of run until August 11th
+### Exercise
+3 Days Running
+3 Days Strength Training
+1 Day Yoga / Mobility
+
 **Monday (Strength Training Day)**
 - Focus on lower body strength:
     - [Squats](https://exrx.net/WeightExercises/Quadriceps/BWSquat): 3 sets of 12-15 reps
@@ -77,7 +81,6 @@ last updated 05 AUG 2024
 - Run: 20-30 minutes at a moderate pace
 - Cool-down: 5-10 minutes of stretching
 
-
 **Sunday (Mobility Training Day)**
 - Yoga or other mobility exercises to help improve flexibility and recovery
 
@@ -86,4 +89,3 @@ last updated 05 AUG 2024
 - Focus on proper form and technique throughout each exercise
 - Listen to your body and rest when needed
 - Stay hydrated and fuel your body with a balanced diet
-
