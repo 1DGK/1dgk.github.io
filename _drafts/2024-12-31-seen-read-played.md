@@ -229,4 +229,10 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/04 BATMAN: CAPED CRUSADER, _One Hundred Years of Solitude, Gabriel Garcia Marquez_\
 08/05 BATMAN: CAPED CRUSADER\
 08/06 BATMAN: CAPED CRUSADER\
-08/07 BATMAN: CAPED CRUSADER
+08/07 BATMAN: CAPED CRUSADER\
+08/08 [blank]\
+08/09 [blank]\
+08/10 [blank]\
+08/11 [blank]\
+08/12 BATMAN: CAPED CRUSADER\
+08/13 
