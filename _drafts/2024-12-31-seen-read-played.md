@@ -235,4 +235,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/10 [blank]\
 08/11 [blank]\
 08/12 BATMAN: CAPED CRUSADER\
-08/13 
+08/13 [blank]\
+08/14 BATMAN: CAPED CRUSADER
