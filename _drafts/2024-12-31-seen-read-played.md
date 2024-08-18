@@ -236,4 +236,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/11 [blank]\
 08/12 BATMAN: CAPED CRUSADER\
 08/13 [blank]\
-08/14 BATMAN: CAPED CRUSADER
+08/14 BATMAN: CAPED CRUSADER\
+08/15 _Our Enemies Will Vanish, Yaroslav Trofimov_\
+08/16 [blank]\
+08/17 **TMNT: MUTANT MAYHEM (2023)**

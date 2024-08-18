@@ -3,12 +3,12 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 12 AUG 2024
+last updated 18 AUG 2024
 
 ### Media
 **Currently reading**:
-- Our Enemies Will Vanish by Yaroslav Trofimov
 - 1984 by George Orwell
+- Starry Messenger by Neil deGrasse Tyson
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -35,9 +35,9 @@ last updated 12 AUG 2024
 - The Talented Mr. Ripley (1999)
 
 ### Exercise
-3 Days Running
-3 Days Strength Training
-1 Day Yoga / Mobility
+3 Days Running\
+3 Days Strength Training\
+1 Day Yoga / Mobility\
 
 **Monday (Strength Training Day)**
 - Focus on lower body strength:
