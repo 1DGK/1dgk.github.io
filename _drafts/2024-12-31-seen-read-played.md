@@ -239,4 +239,9 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/14 BATMAN: CAPED CRUSADER\
 08/15 _Our Enemies Will Vanish, Yaroslav Trofimov_\
 08/16 [blank]\
-08/17 **TMNT: MUTANT MAYHEM (2023)**
+08/17 **TMNT: MUTANT MAYHEM (2023)**\
+08/18 [blank]\
+08/19 [blank]\
+08/20 **MAN ON WIRE (2008)**\
+08/21 **THE BOY AND THE HERON (2023)**\
+08/22 _1984, George Orwell_\
