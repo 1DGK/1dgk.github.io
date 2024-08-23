@@ -8,6 +8,9 @@ last updated 22 AUG 2024
 ### Media
 **Currently reading**:
 - Starry Messenger by Neil deGrasse Tyson
+- Liberalism as a Way of Life
+- Autocracy Inc
+- Run Towards the Danger
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -30,7 +33,6 @@ last updated 22 AUG 2024
 - Young Frankenstein (1974)
 - Blazing Saddles (1974)
 - The Talented Mr. Ripley (1999)
-- Swingers (1996)
 - Didi (2024)
 
 ### Exercise
