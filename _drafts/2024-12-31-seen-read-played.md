@@ -244,4 +244,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/19 [blank]\
 08/20 **MAN ON WIRE (2008)**\
 08/21 **THE BOY AND THE HERON (2023)**\
-08/22 _1984, George Orwell_\
+08/22 _1984, George Orwell_, **SWINGERS (1999)**\
