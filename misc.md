@@ -23,6 +23,7 @@ last updated 22 AUG 2024
 - The Cosmic Perspective by Jeffrey Bennett
 
 **Currently watching**
+- Parks and Recreation (2009-2015)
 
 **To-watch** (max 10):
 - Six Feet Under (2001-2005)
@@ -33,7 +34,7 @@ last updated 22 AUG 2024
 - Young Frankenstein (1974)
 - Blazing Saddles (1974)
 - The Talented Mr. Ripley (1999)
-- Didi (2024)
+- Bad Monkey (2024)
 
 ### Exercise
 3 Days Running\
