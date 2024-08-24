@@ -24,6 +24,7 @@ last updated 22 AUG 2024
 
 **Currently watching**
 - Parks and Recreation (2009-2015)
+- Bad Monkey (2024)
 
 **To-watch** (max 10):
 - Six Feet Under (2001-2005)
@@ -34,7 +35,6 @@ last updated 22 AUG 2024
 - Young Frankenstein (1974)
 - Blazing Saddles (1974)
 - The Talented Mr. Ripley (1999)
-- Bad Monkey (2024)
 
 ### Exercise
 3 Days Running\
