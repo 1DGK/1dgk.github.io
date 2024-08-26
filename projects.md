@@ -3,12 +3,17 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 07 AUG 2024
+last updated 26 AUG 2024
 
 ## 2024 - Doing
 - CNTP - [My Cyber Ninja Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) by Carrie Roberts.
     - Complete all free material, then consider the Sophia + WGU hack, which could lead to a degree and a bunch of certifications for roughly $10k. 
     - Finish by the end of 2025.
+        - A+ Training Course Core 2 - [Prof Messer Videos](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+        - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - Complete all sections
+        - [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp) - Complete the tutorial through to the end of the File Handling section
+        - [W3Schools Git Tutorial](https://www.w3schools.com/git/default.asp) - Complete all sections
+
 - CNTP - [My TryHackMe Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ87lrVxZ8GCfOyDqw?e=Sp9qc5)
 
 ## 2024 - Done
