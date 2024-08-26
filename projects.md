@@ -9,7 +9,10 @@ last updated 26 AUG 2024
 - CNTP - [My Cyber Ninja Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) by Carrie Roberts.
     - Complete all free material, then consider the Sophia + WGU hack, which could lead to a degree and a bunch of certifications for roughly $10k. 
     - Finish by the end of 2025.
-        - A+ Training Course Core 2 - [Prof Messer Videos](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+        - A+ Training Course Core 2
+            - [Prof Messer Videos](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+            - [Linkedin Learning Videos](https://www.linkedin.com/learning/)
+                - [Login through OPL](https://www.linkedin.com/learning-login/go/ottawa)
         - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - Complete all sections
         - [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp) - Complete the tutorial through to the end of the File Handling section
         - [W3Schools Git Tutorial](https://www.w3schools.com/git/default.asp) - Complete all sections
