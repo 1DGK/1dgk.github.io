@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNTP - Professor Messer A+ Training Course Core 1
+title: CNTP - Professor Messer A+ Training Course Core 2
 ---
 This section of the Cyber Ninja Training Plan is a course that explains the material for the second half of the CompTIA A+ certification exam.
 
@@ -113,3 +113,5 @@ Windows at work
         - Complete flex
 - Availability of RDP
     - Remote Desktop Protocol
+
+### 1.1 - Windows Upgrades
