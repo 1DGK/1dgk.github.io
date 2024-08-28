@@ -11,6 +11,7 @@ last updated 26 AUG 2024
     - Finish by the end of 2025.
         - A+ Training Course Core 2
             - [Prof Messer Videos](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+                - [My Notes](https://1dgk.github.io/2024/08/28/comptia-a-plus-core-2.html)
             - [Linkedin Learning Videos](https://www.linkedin.com/learning/)
                 - [Login through OPL](https://www.linkedin.com/learning-login/go/ottawa)
         - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp) - Complete all sections
