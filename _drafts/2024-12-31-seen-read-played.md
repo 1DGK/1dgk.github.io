@@ -251,4 +251,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/26 **BLAZING SADDLES**\
 08/27 PARKS AND RECREATION\
 08/28 PARKS AND RECREATION\
-08/29 PARKS AND RECREATION
+08/29 PARKS AND RECREATION\
+08/30 PARKS AND RECREATION\
+08/31 _Tuck Everlasting, Natalie Babbitt_, PARKS AND RECREATION
