@@ -16,7 +16,6 @@ last updated 01 SEP 2024
 - Second-hand Time by Svetlana Alexievich
 - Journey to the End of the Night by Louis-Ferdinand Céline
 - The Travels of Marco Polo
-- The Catcher in the Rye by J. D. Salinger
 - The Cosmic Perspective by Jeffrey Bennett
 - Live from New York by Tom Shales and James Andrew Miller
 - Springfield Confidential by Mike Reiss
@@ -32,7 +31,6 @@ last updated 01 SEP 2024
 - This Is England (2006)
 - Barry (2018-2023)
 - Young Frankenstein (1974)
-- Blazing Saddles (1974)
 - The Talented Mr. Ripley (1999)
 
 ### Exercise
