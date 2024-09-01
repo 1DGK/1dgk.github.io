@@ -3,14 +3,11 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 22 AUG 2024
+last updated 01 SEP 2024
 
 ### Media
 **Currently reading**:
-- Starry Messenger by Neil deGrasse Tyson
-- Liberalism as a Way of Life
-- Autocracy Inc
-- Run Towards the Danger
+- Lolita
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -21,6 +18,8 @@ last updated 22 AUG 2024
 - The Travels of Marco Polo
 - The Catcher in the Rye by J. D. Salinger
 - The Cosmic Perspective by Jeffrey Bennett
+- Live from New York by Tom Shales and James Andrew Miller
+- Springfield Confidential by Mike Reiss
 
 **Currently watching**
 - Parks and Recreation (2009-2015)
