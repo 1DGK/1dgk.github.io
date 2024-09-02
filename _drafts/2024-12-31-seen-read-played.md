@@ -253,4 +253,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 08/28 PARKS AND RECREATION\
 08/29 PARKS AND RECREATION\
 08/30 PARKS AND RECREATION\
-08/31 _Tuck Everlasting, Natalie Babbitt_, PARKS AND RECREATION
+08/31 _Tuck Everlasting, Natalie Babbitt_, PARKS AND RECREATION\
+09/01 PARKS AND RECREATION\
+09/02 PARKS AND RECREATION
