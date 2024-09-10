@@ -171,8 +171,8 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 06/07 **FANNY & ALEXANDER (1982)**\
 06/08 [blank]\
 06/09 **THE SHAWSHANK REDEMPTION (1994)**\
-06/10 [blank]
-06/11 [blank]
+06/10 [blank]\
+06/11 [blank]\
 06/12 **THE HATEFUL EIGHT (2015)**\
 06/13 **CITIZEN KANE (1941)**\
 06/14 [blank]\
