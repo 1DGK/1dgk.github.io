@@ -3,11 +3,14 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 01 SEP 2024
+last updated 22 SEP 2024
 
 ### Media
 **Currently reading**:
-- Lolita
+- Live from New York
+- Life and Death of the American Worker
+- Why Buddhism is True
+
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -17,12 +20,10 @@ last updated 01 SEP 2024
 - Journey to the End of the Night by Louis-Ferdinand Céline
 - The Travels of Marco Polo
 - The Cosmic Perspective by Jeffrey Bennett
-- Live from New York by Tom Shales and James Andrew Miller
 - Springfield Confidential by Mike Reiss
 
 **Currently watching**
-- Parks and Recreation (2009-2015)
-- Bad Monkey (2024)
+- 
 
 **To-watch** (max 10):
 - Six Feet Under (2001-2005)
