@@ -262,4 +262,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 09/06 PARKS AND RECREATION\
 09/07 PARKS AND RECREATION\
 09/08 PARKS AND RECREATION\
-09/09 PARKS AND RECREATION, _Lolita, Vladimir Nabokov_
+09/09 PARKS AND RECREATION, _Lolita, Vladimir Nabokov_\
+
+09/20 A VERY ROYAL SCANDAL\
+09/21 A VERY BRITISH SCANDAL\
