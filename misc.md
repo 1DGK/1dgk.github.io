@@ -3,14 +3,15 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 22 SEP 2024
+last updated 30 SEP 2024
 
 ### Media
 **Currently reading**:
 - Live from New York
 - Life and Death of the American Worker
-- Why Buddhism is True
-
+- The Hitchhiker's Guide to the Galaxy
+- In Search of Lost Time
+- V13
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -23,13 +24,10 @@ last updated 22 SEP 2024
 - Springfield Confidential by Mike Reiss
 
 **Currently watching**
-- 
+- Only Murders in the Building
 
 **To-watch** (max 10):
-- Six Feet Under (2001-2005)
-- Children of Men (2006)
-- The Irishman (2019)
-- This Is England (2006)
-- Barry (2018-2023)
-- Young Frankenstein (1974)
-- The Talented Mr. Ripley (1999)
+- The Penguin
+- Wise Guy: David Chase and the Sopranos
+- The Cook, the Thief, His Wife & Her Lover
+- Delicious in Dungeon
