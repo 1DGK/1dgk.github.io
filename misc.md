@@ -3,10 +3,11 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 30 SEP 2024
+last updated 02 OCT 2024
 
 ### Media
 **Currently reading**:
+- Anna Karenina
 - Live from New York
 - Life and Death of the American Worker
 - The Hitchhiker's Guide to the Galaxy
