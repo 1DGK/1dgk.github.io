@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 28 JUL 2024.
+last updated 04 OCT 2024.
 
 To sort:
 
@@ -69,6 +69,7 @@ https://capturetheflag.withgoogle.com/beginners-quest
 - 🏫 [ISC2 - Certified in Cybersecurity](https://www.isc2.org/landing/1mcc)
 
 ### Other resources:
+- [TCM Security Academy](https://academy.tcm-sec.com/)
 - [National Institute for Cybersecurity Careers and Studies (NICCS)](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
 - [USAJOBS](https://www.usajobs.gov/) - use keyword cybersecurity to search for what employers are looking for
 - [Canadian Cyber Centre - Cyber security career guide](https://www.cyber.gc.ca/en/guidance/cyber-security-career-guide)
