@@ -264,7 +264,12 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 09/08 PARKS AND RECREATION\
 09/09 PARKS AND RECREATION, _Lolita, Vladimir Nabokov_\
 09/10 BAD MONKEY\
-
+09/11 [blank]\
+09/12 [blank]\
+09/13 [blank]\
+09/14 [blank]\
+09/15 [blank]\
+09/16 [blank]\
 09/17 A VERY ENGLISH SCANDAL\
 09/18 **SEVEN SAMURAI (1954)**\
 09/19 **PULP FICTION (1994)**\
@@ -283,3 +288,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/02 ONLY MURDERS IN THE BUILDING\
 10/03 [blank]\
 10/04 **YOUR NAME (2016)**
+10/05 [blank]\
+10/06 SATURDAY NIGHT LIVE
