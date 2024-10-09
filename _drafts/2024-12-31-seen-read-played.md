@@ -289,4 +289,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/03 [blank]\
 10/04 **YOUR NAME (2016)**
 10/05 [blank]\
-10/06 SATURDAY NIGHT LIVE
+10/06 SATURDAY NIGHT LIVE\
+10/07 **THE MENENDEZ BROTHERS (2024)**\
+10/08 _Live From New York, James Andrew Miller and Tom Shales_\
+10/09 ONLY MURDERS IN THE BUILDING
