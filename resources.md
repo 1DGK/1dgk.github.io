@@ -3,9 +3,11 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 04 OCT 2024.
+last updated 09 OCT 2024.
 
 To sort:
+
+https://teachyourselfinfosec.com/
 
 https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources
 
