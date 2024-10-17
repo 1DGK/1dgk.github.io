@@ -1,0 +1,2626 @@
+---
+layout: post
+title: CNTP - Professor Messer A+ Training Course Core 1
+---
+This section of the Cyber Ninja Training Plan is a course that explains the material for the first half of the CompTIA A+ certification exam.
+
+There is plenty of good material available for the exam, but Professor Messer offers high-quality training, freely available.
+
+Check the [CompTIA A+ page](https://www.comptia.org/certifications/a) to make sure the newest version of the A+ exam matches with the videos by Professor Messer. CompTIA exams are usually every three years, and the most recent A+ exam came out in April 2022.
+
+It took me about two weeks to get through the videos, then I took another week to do practice tests. I found a [study bundle published by Sybex for about $90 CAD](https://www.amazon.ca/dp/1119863228?ref=emc_s_m_5_i_atc), which includes a bunch of practice tests. Moving forward, I'll take a day to test myself after I complete each study section. 
+
+### Links
+- [Professor Messer's CompTIA A+ 220-1101 A+ Training Course](https://www.professormesser.com/free-a-plus-training/220-1101/220-1101-video/220-1101-training-course/).
+
+- Original [Cyber Ninja Training Plan](https://1drv.ms/x/s!AvDXyd4cgfxegZRq8OELn7MEbxtkkg?e=Ocfhvq) spreadsheet. 
+
+- My main [Cyber Ninja Training Plan (CNTP) Jumpoff](https://1dgk.github.io/2024/07/14/cyber-ninja-jumpoff.html) post.
+    
+---
+# My Notes
+## Section 0: How to Pass the A+ Exams
+- Computer Technology Industry Association (CompTIA)
+- Vendor-neutral
+- Core 1
+    - Mobile Devices
+    - Networking
+    - Hardware
+    - Virtualization and Cloud Computing
+    - Hardware and Network Troubleshooting
+- Core 2
+    - OS
+    - Security
+    - Software Troubleshooting
+    - Operating Procedures
+- 3.5 years, roughly, so check the CompTIA website
+- Multiple choice and performance-based
+- Follow the exam objectives
+- Watch the videos
+- Get a good book
+- Get as much hands-on as possible
+- Test yourself often
+- Exam objectives. Seriously
+
+## Section 1.0: Mobile Devices
+### 1.1 - Laptop Hardware
+- Keycaps and the mechanics underneath are very delicate. 
+- SO-DIMM - Small Outline Dual In-line Memory Module
+    - Often used for laptops and mobile devices
+- Others are soldered to the system board
+- Laptop storage
+    - 2.5 form factor
+    - Magnetic disk, SSD, or M.2
+- HDD to SSD is an impressive upgrade, like a getting a new laptop
+- Can also clone to HDD (i.e., make an image)
+    - Need software like CloneZilla
+- 802.11 wireless and Bluetooth
+    - Mini PCI and Mini PCI Express
+- Biometrics
+    - Fingerprint or face recognition
+        - Something you are
+    - Requires hardware and software
+        - See Sign-in options in Windows
+    - Relatively secure
+- Near-field communication (NFC)
+    - 4cm or less
+    - Data transfers or authentication
+    - Don't need a password
+### 1.2 - Laptop Displays
+- Liquid crystal display (LCD)
+    - Lightweight
+    - Low power
+    - Inexpensive
+    - Black levels are a challenge
+    - Requires separate backlight
+- TN (Twisted Nematic) LCD
+    - Fast response times
+    - Poor viewing angles - color shifts
+- IPS (In Plane Switching) LCD
+    - Excellent color
+    - More expensive than TN
+- VA (vertical Alignment) LCD
+    - Good compromise between
+- Organic Light Emitting Diode (OLED)
+    - Very thin, no glass needed
+    - No backlight
+    - Higher cost than LCD
+- Wi-Fi antennas
+    - WiFi main and aux
+    - Bluetooth
+    - Antenna wires wrap around the laptop screen
+- Webcam
+    - Video capture
+    - Both video and audio
+    - Not good for casual use
+- CCFL - Cold Cathode Fluorescent Lamp
+    - Higher voltage
+    - Added thickness
+    - No longer common, used on older laptops
+- The latest laptops use LED-backlit LCD displays
+- Digitizer
+    - Use a pen-like device as input
+        - Stylus
+- Touchscreen
+    - Merge laptop and tablet input
+    - Digitizer responds to touch
+
+### 1.3 - Connecting Mobile Devices
+- Universal Serial Bus
+    - Micro B
+    - Mini B
+    - Type A
+- USB-C 
+    - 24-pin double-sided
+    - Can transmit other signals
+        - DP
+        - HDMI
+        - Thunderbolt
+- Lightning
+    - Apple 8-pin
+    - High power output
+- Serial interfaces
+    - DB-9
+        - Aka DE-9
+        - For RS-232 signals
+        - Use a USB to DB-9 converter
+- NFC
+    - Send small amounts of data
+    - Built into your phone
+    - Access token, identification 'card'
+- Bluetooth
+    - High speed comms over short distances
+- Hotspot
+    - Turn your phone into a WiFi hotspot
+    - Extend your cell data network to all your devices
+    - Dependent on phone type
+
+### 1.3 - Mobile Device Accessories
+- Touch pens
+    - Stylus / touchscreen pen
+    - Handwriting
+    - Precise selection
+- Active stylus
+    - Digital stylus
+    - More advanced
+    - Communicates directly to the device
+    - Programmable buttons
+    - Must be compatible with the tablet
+- Drawing pad
+    - Use an active stylus with an external digitizer
+    - Very precise input
+    - Third-party device
+- Trackpad
+    - Replace the mouse
+        - Useful in tight working areas
+    - External options
+    - Drag and tap, or multiple finger input options
+    - Enable and disable
+- Headsets
+    - Earphones and microphone
+    - Wired or Bluetooth
+- Speakers
+    - Mobile audio 
+- Camera / webcam
+    - Internal or external
+    - Accessible from many apps
+- Docking station
+    - Use external keyboard and mouse
+    - Extend interfaces
+    - Add functionality
+    - Avoid cable issues
+- Port replicator
+    - Similar to docking station
+    - Connects through USB
+
+### 1.4 - Cellular Standards
+- 2G
+    - GSM
+    - CDMA
+    - Poor data support
+- GSM
+    - Global System for Mobile Communications
+    - 90% of the market
+    - Used multiplexing
+- CDMA
+    - Code Division Multiple Access
+        - Each call uses a different code
+    - Not much adoption elsewhere
+- 3G technology
+    - Introduced in 1988
+    - Several megabits per second
+    - Bandwidth improvement
+        - GPS
+- 4G and LTE
+    - Long Term Evolution
+    - Converged standard (GSM and CDMA providers)
+    - Based on GSM and EDGE (Enhanced Data Rates for GSM Evolution)
+    - 150 Mbit/s
+- 5G
+    - 2020
+    - Higher freqs
+    - 10 Gbit/s
+    - Significant IoT impact
+- Updates
+    - PRL updates
+        - Preferred Roaming List
+    - Allows your phone to connect to the right tower
+- Hotspot
+    - Your own personal wireless router
+
+### 1.4 - Mobile Device Connectivity
+- Bluetooth pairing
+    - Use or verify a PIN
+    - Pair the devices one time
+    - Check with the manufacturer
+    - Enable Bluetooth on both devices
+    - Set to discoverable mode
+    - Select discovered device
+    - Enter or confirm PIN
+    - Test connectivity
+- GPS
+    - Created by US DoD
+    - Over 30 sat's in orbit
+    - Precise navigation
+    - Need at least 4 satellites
+    - Determines location based on timing differences
+    - Phones can also use WiFi and cell towers
+- MDM (Mobile Device Management)
+    - Manage company-owned or BYODs
+    - Centralized management of the mobile devices
+    - Set policies on apps, data, camera, etc. 
+    - Manage access control
+        - Force screen locks and PINs
+    - Corporate email configuration
+        - User doesn't need to configure anything
+    - Two-factor authentication
+        - Biometrics, auth app, etc. 
+    - Control apps
+        - Allow or restrict
+
+### 1.4 - Mobile Device Configuration 
+- Configuring a mobile device
+    - Preconfigured
+        - Telephone and text
+    - Email
+        - Configurations vary
+    - Data synchronization
+- Microsoft 365
+    - Outlook, Exchange
+    - Authenticate to 365
+        - Username, password
+    - Same process for Google Workspace
+- iCloud
+    - iOS and iPadOS
+    - Select sync options
+    - Sync to macOS
+- Syncing data
+    - Mail
+    - Pictures, etc.
+    - Data caps and transfer costs
+        - Cell or 802.11 networks
+
+## Section 2.0: Networking
+### 2.1 - Introduction to IP 
+- A series of moving vans
+    - Efficiently move large amounts of data
+        - Use a shipping truck
+    - The network topology is the road
+        - Ethernet, DSL, cable system
+    - The truck is the IP Internet Protocol
+    - The boxes hold your data
+    - Inside the boxes are more things
+        - Application information
+- TCP and UDP
+    - Transported inside the IP
+        - Encapsulated by the IP
+    - Two wayts to move data
+    - OSI Layer 4
+        - Transport layer
+    - Multiplexing
+        - Use many different applications at the same time
+        - TCP and UDP
+- TCP
+    - Connection-oriented
+        - A formal connection setup and close
+    - Reliable delivery
+        - Recovery from errors
+        - Can manage out-of-order messages or retransmissions
+    - Flow control
+        - The receiver can manage how much data is sent
+- UDP - User Datagram Protocol
+    - No formal open or close the connection
+    - Simple transaction
+    - Unreliable
+        - No error recovery
+        - No reordering of data
+    - No flow control 
+- Why would you ever use UDP?
+    - Real-time communication
+        - Quick, doesn't stop for your network
+    - Connectionless protocols
+        - DHCP Dynamic Host Config
+        - TFTP Trivial File Transfer Protocol
+    - It's up to the application to track and decide what to do
+- Communication with TCP
+    - Return receipt
+        - HTTPS
+        - SSH
+    - The application doesn't worry about out of order frames or missing data
+- Speedy delivery
+    - The IP delivery truck delivers from one IP address to another IP address
+    - Boxes arrive at the house / IP address
+        - Where do the boxes go?
+        - Each box has a room name
+    - Port is written on the outside of the box
+        - Drop the box into the right room
+- Lots of ports
+    - IPv4 sockets
+        - Server IP address, protocol, server app port number
+        - Client IP address, protocol, client port number
+    - Non-ephemeral ports - permanent port numbers
+        - Ports 0 through 1,023
+        - Usually on a server or service
+    - Ephemeral ports - temporary port numbers
+        - Ports 1,023 through 65,535
+        - Determined in real-time by the client
+- Port numbers 
+    - TCP and UDP ports can be any number between 0 and 65,535
+    - Most servers use non-ephemeral
+        - Not always. It's just a number
+    - Port numbers are for communication, not security
+    - Service port numbers need to be 'well known'
+    - TCP port numbers aren't the same as UDP port numbers
+- Ports on the network
+    - Web server - tcp/80
+    - VoIP server - udp/5004
+    - Email server - tcp/143
+
+### 2.1 - Common Network Ports
+- Port numbers
+    - Well-known port number
+        - Client and server need to match
+    - Important for firewall rules
+        - Port-based security
+    - A bit of rote memorization
+    - Make sure you know port number, protocol, and how the protocol is used
+- FTP - File Transfer Protocol  
+    - tcp/20 (active mode data)
+    - tcp/21 (control)
+    - Authenticates with a username/password
+    - Full-featured functionality
+- SSH - Secure Shell
+    - Encrypted comm link - tcp/22
+    - Looks and acts as Telnet
+- Telnet - Telcom Network
+    - tcp/23
+    - login to devices remotely
+    - In-the-clear communication (not encrypted)
+- SMTP - Simple Mail Transfer Protocol
+    - tcp/25
+    - Also used to send from a device to a mail server
+    - Other protocols are used for clients to receive email
+        - IMAP, POP3
+- DNS - Domain Name System
+    - udp/53
+    - Converts names to IP addresses
+- DHCP - Dynamic Host Config Protocol
+    - Auto config of IP addresses, subnet mask, etc
+        - udp/67, udp/68
+    - Dynamic / pooled
+    - DHCP reservation
+- HTTP and HTTPS
+    - tcp/80 HTTP
+    - tcp/443 HTTPS
+- POP / IMAP
+    - Receive emails from an email server
+    - tcp/110 POP3
+    - tcp/143 IMAP4 Internet Message Access Protocol v4
+- SMB - Server Message Block
+    - Protocol used by Windows
+        - File sharing, printer sharing
+        - Aka CIFS
+    - Uses NetBIOS over TCP/IP
+        - udp/137 name services
+        - tcp/139 session service
+    - tcp/445 direct 
+- SNMP - Simple Network Management Protocol
+    - Gather stats from network devices
+        - Queries udp/161
+        - Traps udp/162
+    - v1 - original
+        - In-the-clear
+    - v2 - A good step ahead
+    - v3 - A secure standard
+- LDAP - Lightweight Directory Access Protocol
+    - tcp/389
+    - Store and retrieve info in a network directory
+        - Commonly used in Microsoft Active Directory
+- RDP - Remote Desktop Protocol
+    - tcp/3389
+
+### 2.2 - Network Devices
+- Network devices
+    - All have different roles
+    - Some are combined
+- Routers
+    - Routes traffic between IP subnets
+        - Makes forwarding decisions based on IP address
+        - Routers inside of switches sometimes called 'layer 3 switches'
+    - Often connects diverse network types
+        - LAN, WAN, copper, fiber
+- Switches
+    - Bridging done in hardware
+        - App-specific integrated circuit (ASIC)
+        - Forwards traffic based on data link address
+    - Many ports and features
+        - The core of an enterprise network
+        - May provide Power over Ethernet (PoE)
+    - Multilayer switch
+- Unmanaged switch
+    - Very few config options
+        - Plug and play
+    - Fixed configs
+        - No VLANs
+    - Very little integration with other devices
+    - Low price point
+        - Simple is less expensive
+- Managed switch
+    - VLAN support
+        - Interconnect with other switches via 802.1Q
+    - Traffic prioritization
+    - Redundancy support   
+        - Spanning Tree Protocol (STP)
+    - Port mirroring
+        - Capture packets
+    - External management (SNMP)
+- Access point
+    - Not a wireless router
+        - A wireless router is a router and an access point in a single device
+    - It's a bridge which extends
+- Cable infrastructure
+- Patch panels
+    - Combination of punch-down blocks and RJ-45 connectors
+    - Runs from desks are made once
+    - Patch panel to switch can be easily changed
+- Firewalls
+    - Filters traffic by port number
+        - OSI layer 4
+    - Can encrypt traffic into/out of the network
+    - Can proxy traffic
+        - A common security technique
+    - Most firewalls can be layer 3 devices (routers)
+- Power over Ethernet (PoE)
+    - One wire for both network and electricity
+    - Phones, cameras, wireless access points
+    - Power provided at the switch
+- PoE switch
+    - Commonly marked on the switch or interfaces
+- PoE, PoE+, PoE++
+    - Now part of the 802.3 standard
+    - 15.4W DC power
+    - PoE+
+        - 25.5W
+    - PoE++
+        - 51W (Type 3)
+        - 71.3W (Type 4)
+- Hub
+    - 'Multi-port repeater'
+    - Everything is half-duplex
+    - Becomes less efficient the busier the network gets
+    - 10Mbit / 100Mbit
+- Cable modem  
+    - Broadband
+        - Transmission across multiple freq's
+        - Diff traffic types
+    - DOCSIS
+        - Data Over Cable
+    - High-speed networking
+    - Multiple services
+- DSL modem
+    - ADSL
+        - Uses phone lines
+    - Download is faster than upload
+- ONT
+    - Optical network terminal
+        - Fiber to the premises
+    - Connect the ISP fiber network to the copper network
+    - Line of responsibility
+        - One side is yours
+        - The other is the ISPs
+- Network Interface Card (NIC)
+    - The fundamental network device
+        - Every device on the network has a NIC
+    - Specific to the network type
+        - Ethernet, WAN, etc
+    - Often built into the motherboard
+    - Many options
+
+### 2.2 - Software Defined Networking
+- SDN
+    - Diff functional planes of operation
+    - Separate into logical units
+    - Infrastructure layer / Data plane
+        - Forwarding, trunking, encrypting, NAT
+    - Control layer / Control plane
+        - Manages the actions of the data plane
+        - Routing tables, session tables, NAT tables
+    - Application layer / Management plane
+        - Configure and manage the device
+            - SSH, browser
+
+### 2.3 - Wireless Network Standards
+- Wireless standards
+    - 802.11
+        Managed by IEEE LAN/MAN
+    - Many updates over time 
+    - The Wi-Fi trademark (Wi-Fi Alliance)
+- 802.11a
+    - Original standards - 1999
+    - 5GHz range
+    - 54 Mbit/s
+    - Smaller range than 802.11b
+- 802.11b
+    - Also an original standard
+    - Not an upgrade, it's different frequencies
+    - 2.4GHz
+    - Better range, less absorption problems
+    - Baby monitors, Bluetooth, microwave ovens operate on the same freq range
+- 802.11g
+    - 2003
+    - 2.4GHz range
+    - 54 Mbit/s
+    - Backwards-compatible
+    - Same freq problems as the 'b'
+- 802.11n (Wi-Fi 4)
+    - 2009
+    - 5GHz and/or 2.4GHz
+    - 40MHz channels
+    - 600 Mbit/s
+    - Uses MIMO
+- 802.11ac (Wi-Fi 5)
+    - 5GHz band
+    - Less crowded
+    - Denser signal modulation
+    - Eight MU-MIMO streams
+    - Nearly 7 Gbits/s
+- 802.11ax (Wi-Fi 6)
+    - 2021
+    - 5GHz or 2.4GHz
+    - 1,201 megabits per second per channel
+    - Eight bi-directional MU-MIMO 
+    - OFDMA
+        - Orthogonal freq-div mult access
+        - Improves high-density installations
+        - Works like cell comms
+- Long-range fixed wireless
+    - Wireless access point in a house with stock antennas
+        - 40-50 meters
+    - Wireless regulations are complex
+    - Signal strength is usually regulated
+- RFID
+    - It's everywhere
+        - Access badges
+        - Inventory 
+        - Pet / animal ID
+        - Anything that needs to be tracked
+    - Radar technology
+        - Radio energy transmitted to the tag
+        - RF powers the tag, ID is transmitted back
+        - Bidirectional comms
+        - Some can be powered
+- NFC
+    - Two-way wireless
+        - Builds on RFID
+    - Payment systems
+        - Major credit cards
+    - Bootstrap for other wireless
+    - Access token, ID card
+
+### 2.3 - Wireless Network Technologies
+- 802.11 technologies
+    - Frequency
+        - 2.4 GHz or 5 GHz
+        - Sometimes both
+    -Channnels
+        - Groups of freq's, numbered by the IEEE
+        - Non-overlapping is ideal
+    - Regulations
+        - Most countries have them
+        - Spectrum use, power output, etc.
+- Band selection and bandwidth
+    - Check IEEE
+    - Compare 2.4 GHz with 5 GHz
+        - Plenty more 5 GHz channels available
+- Bluetooth
+    - Remove the wires
+        - Headsets, speakers, keyboards, etc
+    - Uses the 2.4 GHz band
+    - Unlicensed ISM band
+    - Same as 802.11
+    - Short-range
+        - Roughly 10 meters
+
+### 2.4 - Network Services
+- DNS server - Domain Name System
+        - Converts names to IP addresses
+        - Vice versa
+        - Distributed naming system
+    - Balanced across many servers
+    - Critical resource
+- DHCP 
+    - Auto IP config
+    - Very common service
+        - Most home routers
+    - Enterprise DHCP will be redundant
+- File server
+    - Centralized storage
+        - A fileshare
+    - Standard system of file mgmt
+        - SMB, SFP, etc.
+    - Front-end hides the protocol
+- Print server
+    - Connect a printer to the network
+    - May be software in a computer
+    - May be built-in to the printer
+        - Network adapter and software
+    - Uses standard printing protocols
+        - SMB, IPP, LPD
+- Mail server
+    - Store your incoming mail
+        - Send your outgoing mail
+    - Usually managed by the ISP or IT department
+    - 24/7 support
+- Syslog
+    - Standard for message logging
+        - Diverse systems, consolidated log
+    - Usually a central logging receiver
+        - Integrated in the SIEM
+        - Need a lot of space
+- Web server
+    - Respond to browser requests
+        - HTTP/HTTPS
+        - HTML or HTML5
+    - Web pages are stored on the server
+- Authentication server
+    - Login auth to resources
+        - Centralized management
+    - Almost always an enterprise service
+    - Usually a set of redundant servers
+        - Always available
+        - Extremely important
+- Spam 
+    - Unsolicited messages
+        - Email, forums, etc
+    - Various content
+        - Commercial
+        - Phishing
+        - Selling
+    - Significant technology issue
+        - Security concerns, storage costs, managing the spam
+- All-in-one security appliance
+    - Next-gen firewall
+        - Unified Threat Management (UTM)
+    - URL filter / Content inspection
+    - Malware inspection
+    - Spam filter
+    - CSU / DSU
+    - Router / Switch
+    - Firewall
+    - IDS / IPS
+    - Bandwidth shaper
+    - VPN endpoint
+- Load balancers
+    - Distribute the load
+        - Multiple servers
+    - Large-scale implementations
+        - Web server farms
+    - Fault tolerance
+        - Server outages have no effect
+    - Manage load across servers
+- Proxy server
+    - An intermediate server
+        - Client makes the request
+        - Proxy makes the request
+        - Provides results back to the client
+    - Useful features
+        - Access control, caching, URL filtering
+- SCADA / ICS
+    - Supervisory Control and Data Acquisition System
+    - PC manages equipment
+        - Power generation, energy, logistics
+    - Distributed control systems
+        - Real-time information
+    - Requires extensive segmentation
+- Legacy and embedded systems
+    - Legacy   
+        - Really old
+        - May also be very important
+        - Learning old things can be just as important as learning the new things
+    - Embedded
+        - Purpose-built
+        - Not usual to have direct access to the operating system
+        - Alarm system, door security, time card system
+
+- IoT (Internet of Things)
+    - Appliances
+        - Fridges
+    - Smart devices
+        - Speakers
+    - Air control
+        - Thermostats, etc
+    - Access
+        - Smart doorbells
+    - May require a segmented network
+        - Limit any security breaches
+
+### 2.5 - IPv4 and IPv6
+- IP addressing
+    - IPv4 is the primary protocol for almost everything we do
+    - IPv6 is now part of all major operating systems
+        - And the backbone of our internet infrastructure
+- IPv4 addresses
+    - OSI Layer 3 address
+    - 32 bits - 4 bytes
+    - Max decimal value for each byte is 255
+- IPv6 addresses
+    - 128-bit address
+    - Crazy amount of options
+    - Uses hex numbers
+    - DNS is very important
+- Networking with IPv4
+    - IP Address
+        - Every device needs a unique IP address
+    - Subnet mask
+        - Used by the local device to determine what subnet it's on
+            - You'll ask for the subnet mask all the time
+    - Default gateway
+        - The router that allows you to communicate outside of your local subnet
+- DNS servers
+    - We remember names
+    - Internet routers don't know names
+        - Routers only know IP addresses
+    - Something has to translate between names and IP addresses
+        - DNS does it
+    - You configure **two** DNS servers
+        - That's how important it is
+
+### 2.5 - Assigning IP Addresses
+- DHCP
+    - IPv4 addess config used to be manual
+    - 1993 - bootstrap protocol BOOTP
+        - Didn't auto assign everything
+    - DCHP does it automatically
+- DHCP process
+    - DORA
+        - A four-step process
+            - Discover
+                - Find a DHCP server
+            - Offer
+                - Get an offer
+            - Request
+                - Lock in the offer
+            - Acknowledge
+                - DHCP server confirmation
+- Turning dynamic into static
+    - DHCP assigns an IP from the first available 
+        - Your IP will occasionally change
+    - You may not want your IP to change
+    - Disable DHCP on the device
+        - Configure the IP info manually
+        - Requires additional admin
+    - Better Configure an IP reservation on the DHCP server
+        - Associate a specific MAC address with an IP address
+- Avoid manual configs
+    - No DHCP server reservation
+    - Difficult to change later
+    - A DHCP reservation is preferable
+- Automatic Private IP Addressing (APIPA)
+    - A link-local address
+    - IETF has reserved 169.254.0.0 through 169.254.255.255
+    - Automatically assigned
+
+### 2.6 - DNS Configuration
+- Domain Name System    
+    - Translates human-readable names into IP
+    - Hierarchical
+        - Follow the path
+    - Distributed database
+        - 13 root server cluster (Over 1,000 actual servers)
+        - Over 275 country codes
+- DNS hierarchy
+- DNS lookup
+    - use the `dig` command, or `nslookup`
+- DNS records
+    - Resource Records (RR)
+        - The database records of domain name services
+    - Over 30 record types
+        - IP addresses, certs, etc
+    - These are important and critical configurations
+        - Backup, test, check your settings
+- DNS config   
+    - Written in text, simple
+    - Could also be a web-based GUI
+- Address records (A) (AAAA)
+    - Defines the IP of a host
+    - A records are for IPv4
+    - AAAA records are for IPv6
+- Mail exchange record (MX)
+    - Determines the host name for the mail server
+        - Not an IP; it's a name
+- Text records (TXT)
+    - Human-readable text info
+        - Useful public info
+    - Can be used for verification purposes
+    - Commonly used for email security
+- Viewing TXT records with dig
+    - dig professormesser.com txt
+- Sender Policy Framework (SPF)
+    - A list of all servers authorized to send email for this domain
+    - Prevent mail spoofing
+- Adding an SPF TXT record
+- Domain Keys Identified Mail (DKIM)
+    - Digitally sign a domain's outgoing mail
+- DMARC
+    - Domain-based Message Authentication, Reporting, and Conformance 
+    - Prevent unauthorized email use
+    - An extension of SPF and DKIM
+    - Extra step of telling it what to do with the emails that don't validate through SPF or DKIM
+
+### 2.6 - DHCP Configuration
+- Scope properties
+    - IP address range
+        - And excluded addresses
+    - Subnet mask
+    - Lease durations
+    - Other scope options
+        - DNS server
+        - Default gateway
+        - VOIP servers
+- DHCP pools
+    - Grouping of IPs
+        - Each subnet has its own scope
+        - 192.168.1.9/24
+    - A scope is generally a single contiguous pool of IPs
+- SOHO DHCP server
+- DHCP address assignment
+    - Dynamic assignment
+        - Has a big pool of addresses to give out
+    - Automatic assignment
+        - DHCP keeps a list of past assignments
+        - You'll always get the same IP address
+- DHCP address allocation
+    - Address reservation
+    - Table of MAC address
+        - Each MAC address has a matching IP address
+    - Other names
+- DHCP leases
+    - Leasing your address
+        - It's only temporary
+        - But can seem permanent
+    - Allocation
+        - Assigned a lease time by the DHCP server
+    - Reallocation
+        - Reboot your computer
+        - Confirms the lease
+    - Workstation can also manually release the IP address
+- DHCP renewal
+    - T1 timer
+        - 50% of the lease time by default
+    - T2 timer
+        - 87.5% of the lease time
+        - If the original DHCP server is down, try rebinding with any DHCP server
+- The DHCP lease process
+
+### 2.6 - VLANs and VPNs
+- LANs
+    - Local Area Networks
+        - Same broadcast domain
+- Virtual LANs
+    - A group of devices in the same broadcast domain
+    - Separated logically instead of physically
+- Configuring VLANs
+- VPNs
+    - Encrypted (private) data traversing a public network
+    - Concentrator
+        - Encryption / decryption access device
+        - Often integrated into a firewall
+    - Many deployment options
+        - Specialized hardware
+        - Software options available
+    - Used with client software
+- Client-to-site VPN
+    - On-demand access from a remote device
+        - Software connects to a VPN concentrator
+    - Some software can be configured as always-on
+
+### 2.7 - Internet Connection Types
+- Satellite networking
+    - Comms to a sat
+        - Non-terrestrial comms
+    - High cost relative to terrestrial networking
+        - 50 Mbit/s down
+        - Remote sites, difficult-to-network sites
+    - High latency
+        - 250 ms up, 250 ms down
+        - Starlink advertises 40 ms and it working on 20 ms 
+    - High frequencies - 2 GHz
+        - Line of sight, rain fade
+- Fiber
+    - High speed data comms
+        - Freq's of light
+    - Higher install costs than copper
+        - Equip is more costly
+        - Long distance
+    - Large installation in the WAN core
+        - Supports very high data rates
+    - Slowly approaching the premises
+- Cable broadband
+    - Broadband
+        - Transmission across multiple freqs
+        - Different traffic types
+    - Data on the 'cable' network
+        - DOCSIS
+    - High-speed
+        - Up to 1 GBit/s
+- DSL
+    - ADSL
+        - Uses telephone lines
+    - 200 MBit/s down / 20 MBit/s up
+    - Depends how far you are from the central office
+- Cellular networks
+    - Mobile devices
+        - Cell phones
+    - Separate land into cells
+    - Tethering
+        - Turn your phone into a wireless router
+    - Mobile hotspot
+        - Standalone devices
+        - Use your phone for other things
+- Wireless Internet Service Provider (WISP)
+    - Connect rural or remote locations
+        - Internet access for everyone
+    - Many diff deployment techs
+    - Need an outdoor antenna
+        - 10 - 1,000 MBit/s
+
+### 2.7 - Network Types
+- LAN
+    - Local is relative
+    - A bulding or a group of buildings
+    - Ethernet and 802.11 wireless
+- WAN
+    - Spanning the globe
+    - Generally connects LANs across a distance
+        - Much slower
+    - Many diff WAN techs
+- PAN 
+    - Personal Area Network
+        - Bluetooth
+    - Automobile
+        - Audio output
+        - Integrate with phone
+    - Mobile phone
+        - Wireless headset
+    - Health
+        - Workout telemetry, daily reports
+- MAN
+    - Metropolitan Area Network
+        - A network in your city
+        - Larger than a LAN, smaller than a WAN
+    - Historically MAN-specific topologies 
+        - Metro Ethernet
+    - Common to see government ownership
+        - They 'own' the right-of-way
+- SAN
+    - Storage Area Network
+        - Looks and feels like a local storage device
+        - Block-level access
+        - Very efficient reading and writing
+    - Requires a lot of bandwidth
+        - May use an isolated network and high-speed network techs
+- WLAN
+    - Wireless LAN
+        - 802.11 techs
+    - Mobility
+        - Within a building
+    - Expand coverage with additional access points
+
+### 2.8 - Network Tools
+- Cable crimpers
+    - 'Pinch' the connector onto a wire
+        - Coaxial, twisted pair, fiber
+    - Connect the modular connector to the Ethernet cable
+        - The final step
+    - Metal prongs are pushed through the insulation
+- Crimping best-practices
+    - Get a good crimper
+        - And a good pair of electrician's scissors / cable snips
+        - And a good wire stripper
+    - Make sure you use the correct modular connectors
+        - Difference between wire types
+    - Practice, practice, practice
+- Wifi analyzer
+    - Wireless networks are incredibly easy to monitor
+        - Everyone 'hears' everything
+    - Purpose-built hardware or mobile device
+    - Identify errors and interference
+        - Validate antenna location and installation
+- Tone generator
+    - Toner probe
+        - Where does that wire go?
+        - Follow the tone
+    - Tone generator
+        - Puts an analog sound on the wire
+    - Inductive probe
+        - Doesn't need to touch the copper
+        - Hear through a small speaker
+- Using the tone generator and probe
+    - Easy wire tracing
+    - Connect the tone generator to the wire
+    - Use the probe to locate the sound
+        - It's easy to find
+- Punch-down tool
+    - Punch a wire into a wiring block
+    - Can be tedious
+    - Trims the wires during the punch
+- Punch-down best-practices
+    - Organization is key
+    - Maintain your twists
+    - Document everything
+- Cable testers
+    - Relatively simple
+        - Continuity test
+        - A simple wire map
+    - Can identify missing pins
+        - Or crossed wires
+    - Not usually used for frequency testing
+        - Crosstalk, signal loss, etc.
+- Loopback plugs
+    - Useful for testing physical ports
+        - Or fooling your applications
+    - Serial / RS-232
+    - Network connections
+        - Ethernet, T1, Fiber
+    - Not a cross-over cable
+- Taps and port mirrors
+    - Intercept network traffic
+        - Send a copy to a packet capture device
+    - Physical taps
+        - Disconnect the link, put a tap in the middle
+        - Can be active or passive
+    - Port mirror
+        - Port re-direction, SPAN
+        - Software-based tap
+        - Can work well in a pinch, but has limited functionality
+
+## Section 3.0: Hardware
+### 3.1 - Network Cables
+- The importance of cable
+    - Fundamental
+- Usually only get one good shot
+- Everything has to plug in somewhere
+- Balanced pair operation
+    - Two wires with equal and opposite signals
+    - Transmit+, Transmit- / Receive+, Receive-
+    - The twist is the secret!
+        - Keeps a single wire constantly moving away from the interference
+    - Pairs in the same cable have a different twist rates
+- Copper cable categories
+    - Cat 5 - 100 meters
+    - Cat 5e (enhanced) - 100 meters
+    - Cat 6 - Unshielded: 55 meters; Shielded: 100 meters
+    - Cat 6A (augmented) - 100 meters
+- Coaxial cables
+    - Two or more forms share a common axis
+    - RG-6 used in television/digital cable
+- Direct burial STP
+
+### 3.1 - Optical Fiber
+- Fiber comms
+    -   Transmission by light
+        - The visible spectrum
+    - No RF signal
+        - Very difficult to monitor or tap
+    - Signal slow to degrade
+        - Transmission over long distances
+    - Immune to radio interference
+        - There's no RF
+- Multimode fiber
+    - Short-range comms
+        - Up to 2 km
+    - Relatively inexpensive light source
+        - i.e., LED
+- Single-mode fiber
+    - Long-range comms
+        - Up to 100 km without processing
+    - Expensive light source
+        - Commonly uses lasers
+
+### 3.1 - 568A and 568B Colors
+- ISO / IEC 11801 cabling standards
+- TIA 568 standard 
+
+### 3.1 - Peripheral Cables
+- USB 
+    - Simplify connections
+        - Printers, keyboards, etc.
+    - USB 1.1 
+        - Low speed: 1.5 megabits per second, 5 meters
+        - Full speed: 12 MBit/s, 5 meters
+    - USB 2.0
+        - 480 megabits per second, 5 meters
+    - USB 3.0
+        - Superspeed
+        - 5 gigabits per second, ~3 meters
+- USB connectors
+- USB-C
+    - Lots of different 
+    - Replaces them all
+    - Describes the connector itself, not the signal
+- Versions and naming
+    - Standard doesn't change, just the names
+- Thunderbolt v3
+    - Max 3 meters
+    - 40 Gbit/s
+
+### 3.1 - Video Cables
+- VGA (Video Graphics Array)
+    - DB-15 connector
+    - Blue color
+    - Video only (no audio)
+    - Analog signal, no digital 
+- HDMI  
+    - Video and audio stream
+        - All digital, no analog
+        - ~ 20 meter distance
+    - 19-pin (Type A) connector
+- DisplayPort
+    - Digital info sent in packet form
+        - Like ethernet and PICe
+    - Compatible with HDMI and DVI
+        - DP > HDMI
+- DVI (Digital Visual Interface)
+    - Single and dual link video
+        - Single: 3.7 Gbps
+        - Dual: 7.4 Gbps
+        - No audio support
+    - DVI-A
+        - Analog signals
+    - DVI-D
+        - Digital
+    - DVI-I
+        - Integrated
+
+### 3.1 - SATA Device Cables
+- SATA (Serial AT Attachment)
+    - SATA Revision 1.0
+        - SATA 1.5 Gbps
+    - Rev 2.0 3 Gbps
+    - Rev 3.0 6Gbps
+    - Rev 3.2 16 Gbps
+- Separated into power cable and data cable
+- eSATA 
+    - External version
+    - Looks similar, but it's definitely different
+
+### 3.1 - SCSI Device Cables
+- Small Computer Systems Interface
+- Up to 16 devices in a SCSI 'chain'
+- Many diff formats
+- Advantages
+    - Not just for hard drives
+        - Scanners, CD-ROM drives
+    - Many devices on a single bus
+    - Very intelligent form of connectivity
+    - Industry longevity
+
+### 3.1 - PATA Device Cables
+- Parallel AT Attachment
+- Originally called Integrated Drive Electronics (IDE)
+- Speeds improved over the years, but it's old
+- Now called PATA
+
+### 3.1 - Adapters and Converters
+- The best laid plans...
+    - Need an adapter
+- Convert between different connectors
+- Convert from one format to another
+    - You need Ethernet but you only have USB
+- A good temp or permanent fix
+- DVI-D and HDMI are electrically compatible
+    - No loss of video quality
+- DVI to VGA
+    - Analog signals
+    - Only 640 x 480 is officially supported
+    - For digital, you'll need a converter
+- USB to Ethernet
+    - Some laptops don'e have a wire Ethernet interface
+        - Convert USB to Ethernet
+    - USB-C to USB-A
+        - Use your older peripherals
+- USB hub
+    - Connect many devices
+        - High speed USB connectivity
+
+### 3.1 - Copper Connectors
+- RJ11 connector
+    - 6 position, 2 conductor
+    - Telephone or DSL connection
+- RJ45
+    - 8 position, 8 conductor
+        - Modular connector
+        - Ethernet
+- F-connector
+    - Cable television
+        - Cable modem
+        - DOCSIS
+- Punchdown block
+    - Wire-to-wire patch panel
+    - Wires are 'punched' into the block
+- USB-C
+    - Interface the same, signal can vary
+- Molex connector
+    - Power connectore
+        - Provides +12V and +5V
+    - Power for many devices in the computer case
+- Lightning
+    - 8-pin digital signals
+    - Higher output power for phones and tablets
+- DB-9
+    - Letter refers to the connector size
+    - Commonly used for RS-232 signals
+
+### 3.1 - Fiber Connectors
+- LC - Local Connector
+- ST - Straight Tip
+- SC - Subscriber Connector
+    - Square connector
+
+### 3.2 - Memory
+- What is memory?
+    Random Access Memory is the most common
+- RAM is not referring to hard drive or SSD
+- Data and programs can only be used when moved to RAM
+- RAM slots
+    - Standardized
+    - One of the most important components of your computer
+    - Every motherboard is different
+- DIMM
+    - Dual inline memory module
+    - Electrical contacts are different on each side
+    - 64 bit data width
+- SO-DIMM
+    - Small Outline Dual In-Line Memory Module
+        - About half the width as a DIMM
+    - Used in laptops and mobile devices
+- Dynamic Random Access Memory
+    - The memory on the DIMM
+    - Dynamic
+        - Needs contant refreshing
+        - Without refreshing, the data in memory disappears
+    - Random access
+        - Any storage location can be accessed directly
+        - Not like magnetic tape
+- SDRAM
+    - Synchronous DRAM
+    - SDRAM is synchronous with the common clock system
+        - Queue up one process while waiting for another
+- Double Data Rate 3 (DDR3) SDRAM
+    - Twice the data rate of DDR2
+        - Max 16 GB per DIMM    
+    - No backwards compatibility
+- DDR4
+    - Speed increases  
+        - Max 64 GB per DIMM
+- DDR5
+    - Max 64 GB
+    - Faster data transfers between module and motherboard
+
+### 3.2 - Memory Technologies
+- Virtual memory
+    - Different names
+        - Virtual RAM, swap file, etc.
+    - Swap currently unused application data to storage
+        - Free up space for other applications
+    - Managed automatically by the operating system
+- Multi-channel memory
+    - Dual-channel, triple-channel, or quad
+    - Memory combos should match
+        - Exact matches are best
+    - Often coloured differently
+- Memory that checks itself
+    - Used on critical systems
+        - VM servers, database servers, any server
+    - Parity memory
+        - Adds an additional parity bit
+        - Won't always detect and can't correct 
+    - Error Correcting Code (ECC)
+        - Detects and corrects errors on the fly
+
+### 3.3 - Storage Devices
+- Hard disk drives (HDD)
+    - Non-volative magnetic storage
+        - Rapidly rotating platters
+    - Random-access
+        - Retrieve data from any part of the drive at any time
+    - Moving parts
+        - Spinning platters, moving actuator arms
+        - Limits the speed and components can also break
+- SSD 
+    - Non-volatile memory
+        - No moving parts
+    - Very fast performance
+        - No spinning drive delays
+- 2.5" SATA interface
+- mSATA (Mini-SATA)
+    - Shrink the SATA drive into smaller devices
+    - Smaller than 2.5" SATA drives
+    - Quickly replaces by M.2 standard
+- AHCI vs NVMe
+    - SATA was desinged for hard drives
+        - Uses AHCI (Advanced Host Controller Interface)
+        - SATA revision 4 throughput up to 600 MB/s
+        - SSDs need a faster comms method
+- NVMe (Non-Volatile Memory Express)
+    - Designed for SSD speeds
+    - Lower latency, supports higher throughputs
+    - Take advantage of NVMe with an M.2 interface
+- M.2 interface
+    - Smaller form factor
+        - No SATA or power cables
+    - Can use a PCI Express bus connection
+        - 4 GB/s throughput or faster when using a NVMe PCIe x4
+    - Different connector types
+        - Needs to be compatible with the slot key
+- B-key and M-key
+    - M.2 doesn't guarantee NVMe
+        - Your interface may be using AHCI
+        - Check your documentation
+- Flash drives
+    - Flash memory
+        - EEPROM (Electrically erasable programmable read-only memory)
+        - Non-volatile memory
+        - No power required to retain data
+    - Limited number of writes
+        - Can still read the data
+    - Not designed for archival storage
+- Optical drives
+    - Small bumps read with a laser beam
+    - Relatively slow
+    - Many different formats
+        - CDs, DVD, Blu-ray
+
+### 3.3 - RAID
+- Data redundancy
+    - Hard drives can store huge amounts of data
+    - Hard drives fail
+    - What to do?
+    - **RAID is not backup!**
+- RAID
+    - Redundant Array of Independent Disks
+        - They're also inexpensive disks
+    - Diff RAID levels
+        - Some redundant, some not
+- RAID 0 - Striping
+    - File blocks are split between two or more physical drives
+    - High performance
+    - No redundancy
+        - A drive failure breaks it
+- RAID 1 - Mirroring
+    - File blocks are duplicated between two or more physical drives
+    - High disk utilization
+    - Duplicate drives
+    - High redundancy
+- RAID 5 - Striping with parity
+    - File blocks are striped
+        - Along with a parity block
+        - Requires at least three disks
+    - Efficient use of disk space
+        - Files aren't duplicated, but space is still used for parity
+    - High redundancy
+        - Data is available after drive failure
+-  RAID 10 (1+0) - A stripe of mirrors
+    - The speed of striping, the redundancy of mirroring
+        - The best of both worlds
+    - Need at least 4 drives
+
+### 3.4 - Motherboards - Form Factors
+- Form factors
+    - Physical size
+    - Basic layout
+        - Room for small changes
+    - Power 
+        - Standard connectors
+    - Airflow
+        - Increasingly important
+    - Wikipedia - over 40 different types
+- Given a scenario
+    - Focus on which motherboard would be the best choice
+    - Media center, thin client, etc.
+- Standard-ATX
+    - Advanced Technology Extended
+    - Started in 1995
+    - Power
+        - 20 or 24 pin
+- Mini-ITX
+    - Low-power 
+    - 2001
+    - Fits almost any enclosure
+    - Same screw sizes as ATX
+    - Single-purpose computing, e.g. streaming
+
+### 3.4 - Motherboard Expansion Slots
+- Computer bus
+    - Comms path
+        - A city of technology
+    - Internal PC growth
+        - Indie pathways
+    - System expansion
+        - Additional capabilities
+- Conventional PCI
+    - Peripheral Component Interconnect
+    - 1994
+    - Many expansion options
+        - 32-bit or 64-bit
+- PCI Express
+    - Aka PCIe
+        - Replaces older standard
+    - Communicates serially
+        - Unidirectional serial 'lanes'
+    - More lanes means more data transfer
+
+### 3.4 - Motherboard Connectors
+- 24-pin power
+    - Main power
+        - 3.3, 5 or 12V
+    - 20 pin was replaced by 24
+- 4-pin ATX
+    - Additional 12V power for older motherboards
+- Headers
+    - Many uses
+        - Power
+        - Lights
+        - Buttons
+
+### 3.4 - Motherboard Compatibility
+- Intel and AMD
+    - Two solid choices
+    - Cost
+        - AMD tends to be a bit cheaper
+    - Different sockets
+        - Your locked in because it's designed for a particular CPU
+    - Choosing a side
+        - AMD is value and Intel is performance 
+        - But that's changing all the time
+- Server motherboards
+    - Multisocket
+        - Supports multiple CPUs
+    - Memory slots
+    - Expansion slots
+    - Overall size usually rack-mounted
+- Desktops
+    - Can range from full-size to compact
+    - Single CPU
+    - Memory slots
+    - Expansion slots
+- Mobile motherboards
+    - Laptops
+        - Small and light
+    - CPUS
+        - Limited in speed
+    - Limited system modification
+    - Portability
+        - Small, low-power
+- System board in laptops
+    - Propriety
+        - Built to fit
+    - Replacement isn't easy
+        - Swap the entire board
+
+### 3.4 - The BIOS
+- Basic Input / Output System
+    - The software used to start your computer
+        - Firmware
+        - System BIOS
+        - ROM or flash memory
+    - Initializes CPU and memory
+    - POST - power on self test
+    - Look for a boot loader
+- Legacy BIOS
+    - Been around for 25 years
+    - Limited hardware support
+- UEFI BIOS
+    - Unified Extensible Firmware Interface
+    - A defined standard
+    - Designed to replaced the legacy BIOS
+
+### 3.4 - BIOS Settings
+- The secret buttons
+    - Del, F1, F2, Ctrl-S
+    - Hyper-V
+    - VMWare Workstation Player
+    - Not VirtualBox
+    - UEFI BIOS simulator
+- Fast startup
+    - Starts so quickly you can't open the BIOS
+    - From Windows desktop
+        - Hold shift when cliking Restart
+- Important tips
+    - Make a backup of the BIOS config
+        - Write detailed notes
+        - Take a picture
+    - Don't make a change unless you're certain of the setting
+    - Did I mention the backup?
+- Boot options
+    - What happens when you power on?
+    - Disable hardware
+        - Unavailable to the operating system
+    - Modify the boot order
+        - Which boots first?
+        - USB, SSD, or hard drive
+- USB permissions
+    - A security challenge
+        - Very small storage devices
+        - Very large capacities
+    - USB connections
+        - Convenient
+        - High speed
+    - US DoD banned flash media for 15 months in 2008
+        SillyFDC worm
+- Fans
+    - Computing creates heat
+        - A lot of heat
+    - Many cooling fans
+        - CPU
+        - Chassis
+    - Motherboard often include an integrated fan controller
+- Secure Boot
+    - Malicious software can own your system
+        - Malicious drivers or OS
+    - Secure boot
+        - Part of UEFI
+    - Digitally sign known-good software
+        - Crypto secure
+    - Supported in many operating systems
+- UEFI BIOS Secure Boot 
+    - Protections
+        - Public key
+        - Checked during BIOS update
+        - Prevents unauthorized writes to the flash
+    - Verifies the bootloader
+- Boot password management
+    - BIOS / User password
+        - System won't start
+        - Needed to start OS
+    - Supervisor password
+        - Restrict BIOS changes
+    - Remember your password!
+        - Must reset BIOS to recover
+- Clearing a boot password
+    - Store the BIOS config
+    - CMOS
+        - A type of memory
+        - May be backed up
+    - Usually flash memory these days
+    - Reset with a jumper
+        - Short two pins on the motherboard
+- The CMOS battery
+    - Not needed for today's flash-based storage
+        - May only be needed to maintain date/time
+    - On older systems you can reset the BIOS by removing the battery
+- Trusted Platform Module (TPM)
+    - A specification for cryptographic functions
+        - Hardware to help with encryption functions
+    - Random number generator, etc.
+    - Persistent memory
+    - Versatile memory
+    - Password protected
+- Hardware Security Module (HSM)
+    - Large environments
+    - High-end crypto hardware
+    - Key backup
+    - Crypto accelerators
+
+### 3.4 - CPU Features
+- Operating system tech
+    - 32-bit vs 64-bit
+        - Processor specific
+    - 4 GB vs 17 billion GB
+- Hardware drivers are specific to the OS version
+    - 32-bit OS cannot run 64-bit apps
+    - But 64-bit can run 32-bit apps
+- Advanced RISC Machine (ARM)
+    - CPU designed by Arm Ltd.
+    - Simplified instruction set
+        - Less power
+        - Less heat
+    - Lines are constantly blurring
+- Processor cores
+    - Dual/Quad/Octa/Multi-core
+        - And more all the time
+    - Multiple cores
+        - Each core has its own cache
+- Multithreading
+    - Hyper-Threading Technology (HTT)
+    - One CPU, acts like two
+    - Doesn't actually work as fast as two
+        - 15-30% 
+    - OS must be written for HTT
+- Virtualization support
+    - Run other OS's within a single hardware platform
+    - Resource-intensive
+    - Added to the processor
+    - Intel VT
+    - AMD-V
+
+### 3.4 - Expansion Cards
+- Expansion cards
+    - Extend the functionality of your computer
+    - Relatively simple process
+    - Install hardware
+        - Add a card
+    - Install a driver
+- Sound card
+    - High-end output
+    - Advanced headphone amp
+    - Home theater
+    - Inputs, music capture, podcasting, microphone
+- Video card
+    - Many CPUs include an integrated GPU
+    - Discrete graphics
+    - High-performance
+- Capture card
+    - Video as input
+        - Video capture
+        - Live streaming
+        - External cameras
+    - High performance
+        - PCI Express connection
+- Network Interface Card (NIC)
+    - Ethernet connection
+        - Motherboard may not include a NIC
+    - Additional connections
+        - Servers
+        - Routers
+- Documentation
+    - Check the motherboard docs
+        - Number and type of slots
+    - Check the adapter card docs
+    - May need to install drivers before
+- Driver installation
+    - You checked the docs, right?
+    - Check the web for the latest version
+    - Uninstall previous drivers through Device Manager
+    - Manufacturer provided setup program
+    - Manual installation through WDM
+    - Check the status in WDM
+
+### 3.4 - Cooling
+- Case fans
+    - Cool air is pulled through a PC
+    - Always check for good airflow
+    - Motherboard layout becomes important
+    - Component location is key
+    - Many different sizes and styles
+- On-board fans
+    - Designed to cool an entire adapter card
+    - Can be bulky
+    - Usually on high-end graphics cards
+- Fan specs
+    - Standards
+        - 80 mm, 120 mm
+- Fanless  
+    - No noise
+    - Functions are very controlled
+    - Low-power components
+- Heat sink
+    - Don't touch!
+- Thermal paste
+    - Place between heat sink and component
+        - Moves heat away from the component
+    - A little bit goes a long way
+- Thermal pad
+    - Conduct heat without the mess
+        - Cut to size and install
+    - Easy to use
+        - Won't leak or damage
+    - Almost as effective as thermal paste
+    - Not reusable
+- Liquid cooling
+    - Coolant through a computer
+        - Not a new concept
+            - Autos, mainframes
+    - High-end systems
+    - Gaming, graphics
+    - Overclocking
+
+### 3.5 - Power
+WARNING
+    - Always disconnect from the power source when working on a device
+        - Always, seriously
+    - Some devices store a charge in capacitors
+        - Know how to discharge before touching
+    - Never connect your body to any part of an electrical system
+    - Respect electricity
+- Computer power supply
+    - Computers use DC voltage
+        - Most sources provide AC voltage
+    - Convert 120 AC to 3.3, 5, or 12 V DC
+- Amp and volt
+    - Amp: the rate of electron flow past a point in one second
+        - Diameter of the hose
+    - Volt: electrical pressure pushing the electrons
+        - How open the faucet is
+- Power
+    - Watt: measurement of real power use
+    - Volts * Amps = Watts
+    - 120 V * 0.5 A = 60 W
+- Current
+    - Alternating current
+        - Direction of current constantly reverses
+        - Efficient over long distances
+    - Direct current
+        - Current moves in one direction with a constant voltage
+- Dual-voltage input options
+    - Voltage varies by country
+    - Manually switch between 120 V and 230 V
+    - Don't plug 120 V into a 230 V power source!
+- Power supply output
+    - Diff voltages
+    - Positive and negative voltage
+    - + 12 V - PCIe adapters, fans, most modern components
+    - + 5 V - legacy motherboards
+    - + 3.3 V - M.2 slots, RAM slots, logic circuits
+    - + 5 VSB - standby voltage
+- 24-pin motherboard power
+    - Main motherboard power
+    - The three main voltages
+- Redundant power supplies
+    - Two or more power supplies
+        - Internal to the server
+    - Each power supply can handle 100% of the load
+    - How-swappable 
+        - Replace one without powering down
+- Power supply connectors
+    - Fix connectors
+        - Connected to the power supply
+        - Many have either too many or not enough
+    - Modular
+        - Add cables as needed
+- Sizing a power supply
+    - Rated by watts
+        - Overall and individual voltages
+    - Bigger isn't necessarily better
+        - More expensive
+        - Doesn't speed up your computer
+    - Physical size is standard
+    - Calculate the watts required for all components
+        - Many online calculators
+    - Video adapters usually draw the most power
+    - 50% capacity is a good rule of thumb
+        - Double your calculation
+
+### 3.6 - Multifunction Devices
+- MFD
+    - Printer
+    - Scanner
+    - Fax
+    - Network connection
+    - Phone line
+    - Print from web
+- Unboxing a device
+    - These can be large
+        - Make sure you have enough room
+    - Check the area
+- Printer drivers
+    - Specific to a printer model
+        - Get it right
+    - Get the right OS drivers
+    - Get the right OS version
+    - You can mix and match drivers
+- PCL or PostScript
+    - Printer Command Language
+    - PostScript
+        - Popular with high-end printers
+    - Make sure the drivers match the printer
+- Wired device sharing
+
+### 3.7 - Printers
+- Laser printer
+    - Combine a laser, high voltage, charged ions, powdered ink, heat, and paper
+    - Very high quality
+    - Fast
+    - Very complex
+- Imaging drum
+    - Image is drawn onto a photosensitive drum
+    - Picks up toner
+    - Can be separate from the toner cartridge
+- Fuser assembly
+    - Heat and pressure
+        - Melt plastic toner powder
+        - Permanently bond toner to paper
+- Transfer belt and roller
+    - Color laser printers
+    - Four toner cartridges
+    - Image is transferred from all cartridges to the belt
+- Pickup rollers
+    - Pick up paper
+    - Single at a time
+    - Should be periodically replaced or cleaned
+- Separation pad
+    - Pull just the top sheet from the paper tray
+    - Small and inexpensive
+- Duplexing assembly
+    - Printers usually print on a single side
+    - Printing on both sides is a two step process
+    - You need mechanisms to flip the page
+- Process  
+    - Processing
+    - Charging
+    - Exposing
+    - Developing
+    - Transferring
+    - Fusing
+    - Cleaning
+
+### 3.7 - Laser Printer Maintenance
+- Replacing the toner
+    - Look for the messages
+        - Low doesn't mean empty
+    - The toner can also contain the OPC drum
+        - Sensitive to light; keep it in the bag
+    - Power down the printer
+    - Remove packing strips and replace with new
+- Maintenance kit
+    - They wear out
+        - Many moving parts
+        - Heat and pressure
+    - Check manufacturer for maintenance kit
+    - Check page counter
+    - Power off and replace the components
+    - Reset the page counter when you're done
+- Cleaning
+    - Dirty
+        - Toner and paper dust
+    - Check the maker's recommendation
+    - Outside - damp cloth
+    - Inside - wipe dust away
+
+### 3.7 - Inkjet Printers
+- Inkjet printers
+    - Relatively inexpensive
+    - Quiet
+    - High-res
+    - Expensive ink
+        - Proprietary
+    - Eventually fades
+    - Clogs easily
+
+### 3.7 - Inkjet Printer Maintenance
+- Cleaning print heads
+    - Need to stay clear so they don't clog
+    - Can be started manually or automatically
+- Replacing inkjet cartridges
+    - CMYK
+    - Recycle
+- Calibration
+
+### 3.7 - Thermal Printers
+- White paper
+    - Turns black when heated
+    - No ink!
+- Very quiet
+    - Almost silent
+- Paper is sensitive to light and heat
+    - And clear tape
+- Feed assembly
+    - Pull paper through the printer
+- Heating element
+    - Full-length heating element
+        - No moving print head
+- Thermal paper
+    - Paper covered with a chemical
+    - Cash register, ATMs
+    - Looks like normal, but feels different
+
+### 3.7 - Thermal Printer Maintenance
+- Thermal paper replacement
+    - Relatively inexpensive
+        - But must be exact
+    - Diff sizes
+        - Not like laser printer paper
+    - Actual replacement is easy
+- Cleaning the heating element
+    - Liquid cleaner
+        - Iso alcohol
+        - Get a cleaning pen
+    - Swab gently
+    - Use a cleaning card
+- Removing debris
+    - Paper and dust
+    - Blow out the printer
+    - Wipe it out
+    - Avoid using a vacuum
+- Paper sensitivity to heat
+    - Heat is used to create the output on the thermal paper
+    - Avoid hot areas
+    - Receipt will also fade over time
+
+### 3.7 - Impact Printers
+- Dot-matrix (impact) printers
+    - Print head with a small matrix of pins
+    - Good for carbon / multiple copies
+    - Low cost per page
+    - NOISY
+    - Poor graphics
+    - Relatively niche
+- Moves back and forth
+    - Pins hit ribbon and paper
+- Printer ribbon
+    - Fabric
+        - One long ribbon
+        - Never ending circle
+    - Easy to replace
+    - Proprietary size
+- Tractor feed
+    - Continuous paper feed
+    - Paper pulled through with holes on the side of the paper
+    - Holes have to be lined up perfectly
+
+### 3.7 - Impact Printer Maintenance
+- Printer ribbon replacement
+    - Single ribbon
+        - One long circle
+    - Replace when ink becomes too light
+    - Designed to be modular
+        - Replace in a minute
+- Print head replacement
+    - Takes a lot of abuse
+    - Gets hot
+    - Another modular part
+    - Replace with the ribbon for the best effect
+- Replacing paper
+    - Not as easy as a laser printer
+    - Forms must be positioned correctly
+    - Must feed without constraint
+
+### 3.7 - 3D Printers
+-  3D printers
+    - Print in three dimensions
+        - Create a 3D model and print it
+    - Additive manufacturing
+        - Build in layers
+    - Rapid prototyping
+    - Deploy designs anywhere in the world, or in space
+- Filament printing
+    - Fused Deposition Modeling (FDM)
+        - Melt filament to print 3D objects
+    - Print a layer, move up, print another layer
+    - Good all-around printer
+        - Larger print bed than resin printers
+- Resin printing
+    - SLA 3D Printing
+        - Smooth and finely detailed prints
+    - Resin is hardened using a light source
+    - Resin must be handled properly
+- The print bed
+    - A flat adhesive surface
+    - Needs to be level and clean
+    - Filament printing
+
+## Section 4.0: Virtualization and Cloud Computing
+### 4.1 - Cloud Models
+- Cloud computing
+    - More than just a server hosted elsewhere
+        - Extend the management of apps and services
+    - Deploy an infrastructure in minutes
+        - Create and tear down as you need
+    - International scope
+        - Deploy in specific parts of the world
+    - Use only the required resources
+        - Cost is based on the amount of use
+- Cloud deployment models
+    - Private
+        - Your own data center
+    - Public
+        - Available to everyone over the Internet
+    - Hybrid
+        - A mix of both
+    - Community
+        - Several org's share the same resources
+- Infrastructure as a service (IaaS)
+    - Sometimes called Hardware as a Service (HaaS)
+        - Outsource your equipment
+    - You're still responsible for the management
+        - And for the security
+    - Your data is out there, but more within your control
+    - Web server providers
+- Software as a service (SaaS)
+    - On-demand software
+        - No local installation
+        - Why manage your own email distribution? Or payroll?
+    - Central management of data and apps
+        - Your data is out there
+    - A complete app offering
+        - No dev required
+        - Gmail, Microsoft 365
+- Platform as a service (PaaS)
+    - No servers, no software, no maintenance team, no HVAC
+        - Someone else handles the platform, you handle the dev
+    - You don't have direct control of the data, people, or infrastructure
+        - Choose carefully
+    - Put the building blocks together
+        - SalesForce.com
+- Cloud models
+
+### 4.1 - Cloud Characteristics
+- Share resources
+    - Internal cloud
+        - No resources are shared
+        - Build your own cloud
+        - Pay for everything up front
+        - No ongoing costs
+    - External cloud
+        - Share with a public cloud
+        - Costs may be metered or up-front
+        - Owned by a third party
+- Metered and non-metered
+    - Metered cloud services
+        - Pay for what you use
+        - Cost to upload / store / download
+    - Non-metered
+        - You pay for a block of storage
+        - No cost to upload / download
+- Rapid elasticity
+    - Scale up and scale down as needed
+    - Seamless to everyone
+- High availability
+    - Always available
+    - Redundancy provides availability
+- File synchronization
+    - Info can be duplicated across cloud locations
+- Desktop as a service (DaaS)
+    - Basic app usage
+        - Apps run on a remote server
+        - Virtual Desktop Infrastructure, DaaS
+        - Local device is a keyboard, mouse, and screen
+    - Minimal OS on the client
+    - Network connectivity
+        - Big network requirement
+
+### 4.2 - Client-side Virtualization
+- Virtualization
+    - One computer, many OS's
+    - Separate OS, independent CPU, memory, etc.
+    - Host-based virtualization
+    - Standalone server that hosts virtual machines
+    - Been around since 1967
+- Legacy software and operating systems
+    - Need to run different app versions on the same system
+    - App only runs on a previous OS version
+        - Create a VM with the older OS
+- Cross-platform virtualization
+    - Windows / macOS / Linux doesn't do everything
+        - Each has strength and weaknesses
+    - Run at the same time
+        - Don't need to switch or reboot
+    - Save time and resources
+- The hypervisor
+    - Virtual Machine Manager
+        - Manages the virtual platform and guest OS's
+    - May require a CPU that supports virtualization
+        - Can improve performance
+    - Hardware management
+        - CPU
+        - Networking
+        - Security
+- Resource requirements
+    - CPU Processor Support
+        - Intel - Virtualization Technology
+        - AMD - AMD-V
+    - Memory
+        - Above and beyond host OS requirements
+    - Storage
+        - Need enough for each OS image
+    - Network
+        - Configurable on each guest OS
+        - Virtual switch
+- Security
+    - VM escaping
+    - Many hosted services are virtual environments
+- Guest OS security
+    - Every guest is self-contained
+        - Like a real computer
+    - Use traditional security controls
+        - Firewall, etc
+    - Watch out for rogue VM's
+        - The bad guys try to install their own system
+            - You're in big trouble
+    - Self-contained VMs can be dangerous
+- Network requirements
+    - Most client-side VM managers have their own virtual networks
+    - Shared network address
+        - The VM shares the same IP as the physical host
+        - Uses a private IP internally
+        - Uses NAT to convert
+    - Bridged network address
+        - The VM is a device on the physical network
+    - Private address
+        - The VM does not communicate outside of the virtual network
+
+## 5.0 - Hardware and Network Troubleshooting
+### 5.1 - How to Troubleshoot
+- Change management
+    - Change control
+        - A formal process for managing change
+        - Avoid downtime, confusion, and mistakes
+        - Corporate policy and procedures
+    - Nothing changes without the process
+        - Plan for a change
+        - Estimate risk
+        - Have a recovery plan
+        - Test before making the change
+        - Document all of this and get approval
+        - Make the change
+- Troubleshooting process
+    - Identify the problem
+        - Info gathering
+            - Get as many details as possible
+            - Duplicate if possible
+        - ID symptoms
+        - Question users
+        - Determine if anything has changed
+        - Approach multiple problems individually
+        - Backup everything
+    - Establish a theory
+        - Start with the obvious
+            - Occam's razor applies
+        - Consider everything
+        - Make a list of all possible causes
+        - Research the symptoms
+    - Test the theory
+        - Confirm the theory
+        - Theory didn't work?
+            - Re-establish new theory
+        - The theory worked
+            - Make a plan
+    - Create a plan of action
+        - Build a plan
+        - Refer to vendor instructions
+        - ID potential effects
+    - Implement the solution
+        - Fix the issue
+        - Escalate as necessary
+    - Verify full system functionality
+        - It's not fixed until it's really fixed
+    - Document findings
+        - It's not over until you build the knowledge base
+            - Don't lose valuable knowledge
+        - What action did you take?
+            - What outcome did it have?
+        - Consider a formal database
+
+### 5.2 - Troubleshooting Common Hardware Problems
+- POST (Power On Self Test)
+    - Test major system components before booting the OS
+        - Main systems (CPU, CMOS, etc.)
+        - Video
+        - Memory
+    - Failures are usually noted with beeps and/or codes
+    - Don't bother memorizing the beep codes
+- POST and boot
+    - Black screen on boot
+        - Listen for beeps
+        - Bad video, bad RAM, bad CPU
+        - BIOS config issue
+    - BIOS time and setting
+        - Maintained with the motherboard battery
+        - Replace the battery
+    - Attempts to book to incorrect device
+        - Set boot order in BIOS config
+        - Confirm that the startup device has a valid OS
+        - Check for media in a startup device
+- Crash screens
+    - Windows Stop Error (BSOD)
+    - Contains important information
+        - Also written to event log
+    - Useful when tracking down problems
+        - Sometimes more useful for manufacturer support
+- Bluescreens and spontaneous shutdowns
+    - Startup and shutdown BSOD
+    - Use last known good, system restore, or rollback driver
+        - Try Safe Mode
+    - Reseat or remove the hardware
+    - Run hardware diagnostics
+        - Provided by manufacturer
+        - BIOS may have it too
+- The spinning ball of death
+    - The macOS spinning wait cursor
+        - Feedback that something is happening
+    - The spin starts, but it never stops
+    - Many possible reasons
+        - App bug
+        - Bad hardware
+        - Slow paging to disk
+    - Restart the computer
+        - There may be details in the console logs
+- Black screen
+    - Is the monitor connected?
+        - We wouldn't ask if it wasn't a common solution
+        - Check power and signal cable
+    - Input selection on monitor
+        - HDMI, DVI, VGA, etc.
+    - Image is dim
+        - Check brightness controls
+    - Swap the monitor
+        - Try the monitor on another computer
+    - No video after Windows loads
+        - Use VGA mode (F8)
+- No power
+    - No power at the source
+    - No power at the power supply
+    - Get out your multimeter
+- Sluggish performance
+    - Task Manager
+        - Check for high CPU utilization and I/O
+    - Windows Update
+        - Latest patches and drivers
+    - Disk space
+        - Check for available space and defrag
+    - Laptops may be using power-saving mode
+        - Throttles the CPU
+    - Anti-virus and anti-malware
+        - Scan for bad guys
+- Overheating
+    - Heat generation
+        - CPUs, video adapters, memory
+    - Cooling systems
+        - Fans and airflow
+        - Heat sinks
+        - Clean and clear
+    - Verify with monitoring software
+        - Try HWMonitor
+            - cpuid.com
+- Smoke and burning smell
+    - Electrical problems
+        - The smoke makes everything work
+    - Always disconnect power
+        - There should never be a burned odor
+    - Locate bad components
+        - Even after the system has cooled down
+- Intermittent shutdown
+    - No warning, black screen
+        - May have some details in your Event Viewer
+    - Heat-related issue
+        - High CPU or graphics, gaming
+        - Check all fans and heat sinks
+        - BIOS may show fan status and temperatures
+    - Failing hardware
+        - Has anything changed?
+        - Check Device Manager, run diagnostics
+    - Could be anything
+        - Eliminate what's working
+- App crashes
+    - App stops working
+        - May provide an error message
+        - May just disappear
+    - Check the Event Log
+    - Check the Reliability Monitor
+    - Reinstall the app
+- Grinding noises
+    - Computers should hum, not grind
+    - Rattling
+        - Loose components
+    - Scraping
+        - Hard drive issue
+    - Clicking
+        - Fan problems
+    - Pop
+        - Blown capacitor
+- Lockups
+    - System completely stops
+        - Usually not much in the event log
+    - Check for any activity
+        - Hard drive, status lights, Ctrl-Alt-Del
+    - Update drivers and software patches
+    - Low resources
+        - RAM, storage
+    - Hardware diagnostics may be helpful
+- Continuous reboots
+    - How far does the boot go before rebooting?
+        - BIOS only? OS splash screen?
+    - Bad driver or configuration
+        - F8, boot from last known configuration
+    - Try F8, Safe Mode
+        - If system starts, disable auto restarts in System Properties
+- Inaccurate system date/time
+    - Bad motherbaord battery
+        - Often a button style battery
+    - A bad battery will require a BIOS config or date/time config on every boot
+    - On older systems, can reset the BIOS config by removing the battery
+        - Newer computers use a jumper
+
+### 5.3 - Troubleshooting Storage Devices
+- Storage failure symptoms
+    - Read/write failure
+    - Slow performance
+        - Constant LED activity
+    - Loud click noise
+        - Click of death
+- Troubleshooting disk failures
+    - Get a backup
+        - First thing - a bad drive is bad
+    - Check for loose or damaged cables
+    - Check for overheating
+    - Check power supply
+    - Run hard drive diagnostics
+- Boot failure symptoms
+    - Drive not recognized, Boot Not Found
+        - Lights
+        - Beeps
+        - Error messages
+    - Operating system not found
+        - The drive is there
+        - Windows is not
+    - Check your cables
+    - Check boot sequence in BIOS
+    - For new installation, check hardware config
+        - Data and power
+        - SATA cables
+    - Try the drive in a different computer
+- Data loss / corruption
+    - Hard drives are mechanical
+        - They will eventually fail
+    - Repairs are difficult and expensive
+    - An SSD may simply stop working
+    - Data becomes unavailable or corrupted
+    - **ALWAYS HAVE A BACKUP**
+- RAID not found
+    - Missing or faulty RAID controller
+    - Each RAID is different
+        - Don't start pulling drives until you check the console!
+- SMART
+    - Self-Monitoring, Analysis, and Reporting Technology
+        - Use third-party utilities
+    - Avoid hardware failure
+        - Look for warning signs
+    - Schedule disk checks
+        - Built-in to most drive arrays
+    - Warning drives
+        - Replace the drive
+- Extended read/write times
+    - A lot happens when reading or writing data
+    - Delays can occur anywhere along the way
+    - Input/output operations per second (IOPS)
+    - Useful for comparing storage devices
+        - HDD: 200 IOPS
+        - SSD: 1,000,000 IOPS
+- Missing drives in OS
+    - OS boots normally
+        - Other drives not shown
+        - Check the BIOS
+    - Internal drives
+        - Bad drive or disconnected cable
+    - External drives
+    - Network shares
+        - Share might not be mounted
+
+### 5.4 - Troubleshooting Video and Display Issues
+- No video image    
+    - Is it connected?
+    - Input selection
+    - Image is dim
+    - Swap the monitor
+    - Use VGA mode (F8)
+- Image quality problems
+    - Flickering, color patterns
+    - Check the cable pins
+    - Distorted 
+        - Check the OS refresh rate and resolution settings
+        - Need to match the display specs
+        - Check or replace cable
+    - Disable hardware acceleration
+- Native resolution
+    - An LCD display is fixed
+        - Pixel number doesn't change
+    - Match native resolution to the video settings
+- Burn-in
+    - All monitor types have this problem
+    - LCDs have image sticking
+        - Try to remove by displaying a white screen for a good amount of time
+- Dead pixels
+    - Always black
+        - Manufacturing defect
+    - Not a problem you can fix
+    - Clean the monitor screen with a damp cloth
+    - You'll have to replace the monitor
+        - No other option
+- Flashing screen
+    - Check the video cable connections
+        - A loose cable will cause loss of signal
+    - Replace the video cable
+    - Could be the monitor
+    - Confirm the display settings in the operating system
+- Incorrect color display
+    - Colors may not be properly represented
+    - Monitor settings 
+    - Driver config
+    - OS config - night light setting
+- Audio issues
+    - Many monitors include speakers
+        - No sound, low volume
+    - May have audio controls
+    - Confirm audio input over HDMI, DP, of Thunderbolt
+        - Check the HDMI audio output of the OS
+    - May support other audio
+- Dim image
+    - Monitor video settings
+    - Check the OS
+    - Backlight failure
+        - Some or all of the light
+        - May only be a section of the screen
+- LCD projector troubleshooting
+    - Large screen projection
+        - Conf room, large gatherings
+    - Not always LCD
+    - Metal-halide lamp
+        - Very bright and hot
+        - Expensive (~35-350 USD)
+    - Always let bulbs cool
+    - Intermittent shutdown
+        - Cooling issue
+        - Check the fans
+        - Check the airflow
+            - Blockages
+            - Dust
+
+### 5.5 - Troubleshooting Mobile Devices
+- Poor battery health  
+    - Replace aging battery
+        - There's only so many recharges
+    - Bad reception
+        - Always searching for signal
+        - Airplane mode on the ground
+    - Disable uncessary features
+    - Check app battery usage
+- Swollen battery
+    - Buildup of gas
+        - Designed to self-contain
+        - Do NOT open
+    - Faulty battery
+    - Device can be damaged
+- Broken screen 
+    - Time for a backup
+        - Do this first
+    - Replace the screen    
+        - No easy fixes
+    - The glass is sharp
+        - Screen protectors can help
+        - Use clear tape until repaired
+- Improper charging
+    - Check everything in the charging process
+        - Cables, interfaces
+    - Check the cable interface
+        - Remove any obstructions
+    - Check the cable
+        - Don't use frayed or damaged cables
+        - Try a known-good cable
+    - Verify the power adapter
+        - Check with a multimeter
+- Poor or no connectivity
+    - Cellular or Wi-Fi
+        - Location, location, location
+    - Cellular
+        - Signal strength
+        - Location matters
+        - Outdoor connectivity may be better
+    - Wi-Fi
+        - Limited range
+        - Interference can limit throughput
+        - May need a chnnel/freq config change
+- Liquid damage
+    - Many phones have a Liquid Contact Indicator
+        - Turns color when liquid has been present
+    - Power down the phone
+        - Don't power it back on
+    - Remove the case, cards, back and battery
+    - Putting the phone in a bag of rice doesn't actually work well
+        - Silica gel is better
+    - Leave it alone
+        - Don't turn it on
+        - Don't charge it
+        - Don't press any keys
+        - Don't move it around
+    - Wait at least a day
+    - Once you're sure, power it on and hope for the best
+- Overheating
+    - Phone will automatically shut down
+- Malware
+- Cursor drift
+
+### 5.6 - Troubleshooting Printers
+- Testing the printer
+    - Print or scan a test page
+        - Built into Windows
+    - Use diagnostic tools
+        - Web-based utilities built into the printer
+        - Vendor specific
+- Bad output
+    - Lines down the printed page
+        - Inkjet: clean print heads
+        - Laser: check for scratched drum
+    - Faded prints, blank pages
+        - Low toner or ink
+    - Double / echo images 
+        - Laser printer drum not cleaned properly
+- Garbled print
+    - Bad printer driver / wrong model
+    - Verify the functionality with a test page
+    - Bad application
+- Toner not sticking to the paper
+    - Laser printer output smudges everywhere
+- Incorrect paper size
+    - Print a letter size page
+- Paper jam
+    - Careful when removing
+        - Don't rip the paper
+    - Paper not feeding or misfeeds multiple pages
+    - Creased paper
+        - Problems in the paper path
+        - Check the paper weight
+- Multiple prints pending in queue
+    - Corrupted print jobs
+        - Print spooler will crash
+        - Mosrt spooler config will automatically restart
+    - Problems are logged
+        - Windows Event Viewer, Windows-PrintService
+    - One job may be causing the issue
+- Incorrect color settings
+    - Calibrate the monitor
+        - A third-party calibration tool will help
+    - Check the paper
+        - Bright white 
+    - Calibrate the printer
+        - The proper amount of ink and toner
+- Grinding noises
+    - Never a good sound from your printer
+    - Something is not operating properly
+    - Each printer has a different process
+    - May require additional maintenance
+- Finishing issues
+    - Finishing happens after the ink or toner has been applied
+    - Staple jams
+    - Incorrect hole punch location
+- Incorrect page orientation
+    - Print a portrait page
+    - Check the settings when printing
+    - The printer also has a default setting
+
+### 5.7 - Troubleshooting Networks
+- No network connectivity
+    - Do you have a link light?
+        - Is it plugged in?
+    - Ping loopback (127.0.0.1)
+        - Is the protocol stack working?
+        - Availability and intermittent connectivity
+    - Ping local IP address
+        - Checks local config, adapter, and link signal
+    - Ping default gateway
+        - Connectivity on the local network
+    - Ping devices on router's other side
+        - 8.8.8.8 or 9.9.9.9
+- Intermitten wireless connectivity
+    - Interference
+        - Something else is using our frequency
+    - Signal strength
+        - Transmit signal, transmit antenna, receive antenna, etc.
+    - Incorrect channel
+        - Usually automatic: look for manual tuning
+    - Bounce and latency
+        - Multipath inteference; flat surfaces
+    - Incorrect access point placement
+        - Locate close to users
+- Wireless interference
+    - Predictable
+        - Microwave ovens
+        - Cordless phones
+        - High-power sources
+    - Unpredictable
+        - Multi-tenant building
+    - Measurements
+        - SNR
+        - Performance Monitor
+- Signal to noise ratio
+    - Signal
+        - What you want
+    - Noise
+        - What you don't want
+    - You want a very large ratio
+- Limited or no connectivity
+    - Windows alert in the system tray
+    - Check the local IP address
+        - An APIPA address will only have local connectivity
+    - If DHCP address is obtained, perform the ping tests
+        - Local gateway, remote IP address
+- Jitter
+    - Most real-time media is sensitive to delay
+    - If you miss a packet, there's no retransmission
+    - Jitter is the time between frames
+- Poor VoIP quality
+    - High speed and low latency
+    - Check the internet connection
+    - Verify the local networking equipment
+    - View the network performance
+        - A packet capture would be useful
+- Latency
+    - A delay between the request and the response
+    - Some latency is expected and normal
+    - Examine the response times at every step along the way
+    - Packet capture can provide detailed analysis
+- Port flapping
+    - Network interface goes up and down
+        - Over and over again
+    - Verify the cable
+    - Move between switch interfaces
+    - Replace bad hardware or cables
