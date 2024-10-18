@@ -1,10 +1,8 @@
 ---
 layout: post
-title: CnE CTF 2024 - Forensic 02
+title: CnE CTF 2024 - Forensic 02 - WGet The Giant 1
 ---
 QUESTION:
-<b><i>WGet The Giant 1</i></b>
-
 I found a sorcerer book (SorcererBook-1.pcapng). Can you find its secret?
 What is the IP address and the port used by the web server?
 

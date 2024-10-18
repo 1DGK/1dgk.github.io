@@ -1,10 +1,8 @@
 ---
 layout: post
-title: CnE CTF 2024 - Crypto 02
+title: CnE CTF 2024 - Crypto 02 - You're On Fire
 ---
 QUESTION:
-<b><i>You're On Fire</i></b>
-
 I found this arcane text, but I can't read it. Can you help me?
 
 Message:

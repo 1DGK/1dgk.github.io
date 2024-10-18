@@ -1,8 +1,7 @@
 ---
 layout: post
-title: CnE CTF 2024 - Coding 02
+title: CnE CTF 2024 - Coding 02 - Connecting to Hell
 ---
-
 ```py
 import socket
 

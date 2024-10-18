@@ -1,10 +1,8 @@
 ---
 layout: post
-title: CnE CTF 2024 - Forensic 01
+title: CnE CTF 2024 - Forensic 01 - Orks Are Coming
 ---
 QUESTION:
-<b><i>Orks Are Comming</i></b>
-
 Can you find-out who the orks are fighting for?
 
 File: 
