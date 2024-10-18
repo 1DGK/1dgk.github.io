@@ -38,6 +38,8 @@ links:
     url: "/resources"
   - title: "Contact"
     url: "/contact"
+  - title: "Misc"
+    url: "/misc"
 
 # Build settings
 theme: minima
