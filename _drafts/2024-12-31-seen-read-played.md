@@ -301,4 +301,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/15 ONLY MURDERS IN THE BUILDING, SLOW HORSES\
 10/16 FACEOFF: INSIDE THE NHL\
 10/17 FACEOFF: INSIDE THE NHL\
-10/18 
+10/18 LONESOME DOVE PART I\
+10/19 
