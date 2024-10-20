@@ -302,4 +302,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/16 FACEOFF: INSIDE THE NHL\
 10/17 FACEOFF: INSIDE THE NHL\
 10/18 LONESOME DOVE PART I\
-10/19 
+10/19 LONESOME DOVE PART II & III\
+10/20 SATURDAY NIGHT LIVE, _Remarkably Bright Creatures, Shelby Van Pelt_\
+10/21 
