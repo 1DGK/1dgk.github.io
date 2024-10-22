@@ -304,4 +304,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/18 LONESOME DOVE PART I\
 10/19 LONESOME DOVE PART II & III\
 10/20 SATURDAY NIGHT LIVE, _Remarkably Bright Creatures, Shelby Van Pelt_\
-10/21 
+10/21 [blank]\
+10/22 _Yellowface, R.F. Kuang_\
+10/23
