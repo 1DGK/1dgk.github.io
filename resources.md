@@ -7,6 +7,10 @@ last updated 09 OCT 2024.
 
 To sort:
 
+Rootme
+
+ctftime
+
 https://teachyourselfinfosec.com/
 
 https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources

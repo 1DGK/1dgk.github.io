@@ -3,14 +3,12 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 15 OCT 2024
+last updated 25 OCT 2024
 
 ### Media
 **Currently reading**:
 - The Kingdom of God is Within You
 - Why Grow Up?, Susan Neiman
-- Remarkably Bright Creatures, Shelby Van Pelt
-- Yellowface, R.F. Kuang
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -21,6 +19,8 @@ last updated 15 OCT 2024
 - The Travels of Marco Polo
 - The Cosmic Perspective by Jeffrey Bennett
 - Springfield Confidential by Mike Reiss
+- The Passage by Justin Cronin
+- Pimp: The Story of My Life by Iceberg Slim
 
 **Currently watching**
 - Only Murders in the Building
