@@ -29,3 +29,6 @@ last updated 25 OCT 2024
 - The Penguin
 - The Cook, the Thief, His Wife & Her Lover
 - Delicious in Dungeon
+- Death Note
+- Steins;Gate
+- Unforgiven
