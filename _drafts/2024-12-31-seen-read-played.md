@@ -308,4 +308,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/22 _Yellowface, R.F. Kuang_\
 10/23 _Remarkably Bright Creatures, Shelby Van Pelt_\
 10/24 DISCLAIMER\
-10/25 DISCLAIMER
+10/25 DISCLAIMER\
+10/26 THE PENGUIN\
+10/27 
