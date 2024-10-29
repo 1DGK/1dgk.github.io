@@ -310,4 +310,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/24 DISCLAIMER\
 10/25 DISCLAIMER\
 10/26 THE PENGUIN\
-10/27 
+10/27 THE PENGUIN\
+10/28 THE PENGUIN\
+10/29 THE PENGUIN, DISCLAIMER\
+10/30
