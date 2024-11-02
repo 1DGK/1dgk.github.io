@@ -3,12 +3,19 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 25 OCT 2024
+last updated 02 NOV 2024
 
 ### Media
 **Currently reading**:
-- The Kingdom of God is Within You
-- Why Grow Up?, Susan Neiman
+- This Life, Martin Hagglund
+- His Name is George Floyd, Robert Samuels & Toluse Olorunnipa
+- The Great Escape, Angus Deacon
+- The Extinction of Experience, Christine Rosen
+- To Overthrow the World, Sean McMeekin
+- Odyssey, Stephen Fry
+- Building Material, Stephen Bruno
+- Circle of Hope, Eliza Griswold
+- Pimp, Iceberg Slim
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -20,15 +27,12 @@ last updated 25 OCT 2024
 - The Cosmic Perspective by Jeffrey Bennett
 - Springfield Confidential by Mike Reiss
 - The Passage by Justin Cronin
-- Pimp: The Story of My Life by Iceberg Slim
 
 **Currently watching**
-- Only Murders in the Building
+- The Penguin
 
 **To-watch** (max 10):
-- The Penguin
 - The Cook, the Thief, His Wife & Her Lover
 - Delicious in Dungeon
 - Death Note
 - Steins;Gate
-- Unforgiven
