@@ -317,3 +317,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/31 **UNFORGIVEN**, _Why Grow Up?, Susan Nieman_\
 11/01 THE DIPLOMAT\
 11/02 THE DIPLOMAT, SETH MYERS: DAD MAN WALKING\
+11/03 SATURDAY NIGHT LIVE\
+11/04 THE PENGUIN\
+11/05
