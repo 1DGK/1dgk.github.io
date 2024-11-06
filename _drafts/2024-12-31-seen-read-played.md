@@ -319,4 +319,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/02 THE DIPLOMAT, SETH MYERS: DAD MAN WALKING\
 11/03 SATURDAY NIGHT LIVE\
 11/04 THE PENGUIN\
-11/05
+11/05 DEATH NOTE\
+11/06 
