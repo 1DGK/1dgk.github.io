@@ -316,12 +316,12 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 10/30 DISCLAIMER\
 10/31 **UNFORGIVEN**, _Why Grow Up?, Susan Nieman_\
 11/01 THE DIPLOMAT\
-11/02 THE DIPLOMAT, SETH MYERS: DAD MAN WALKING\
+11/02 THE DIPLOMAT, **SETH MYERS: DAD MAN WALKING**\
 11/03 SATURDAY NIGHT LIVE\
 11/04 THE PENGUIN\
 11/05 DEATH NOTE\
 11/06 DEATH NOTE\
 11/07 DEATH NOTE\
 11/08 DEATH NOTE\
-11/09 DEATH NOTE, _Treasure Island, Robert Louis Stevenson_\
+11/09 DEATH NOTE, _Treasure Island, Robert Louis Stevenson_, **ROGUE ONE: A STAR WARS STORY**\
 11/10 SATURDAY NIGHT LIVE
