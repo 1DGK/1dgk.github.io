@@ -320,4 +320,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/03 SATURDAY NIGHT LIVE\
 11/04 THE PENGUIN\
 11/05 DEATH NOTE\
-11/06 
+11/06 DEATH NOTE\
+11/07 DEATH NOTE\
+11/08 DEATH NOTE\
+11/09 

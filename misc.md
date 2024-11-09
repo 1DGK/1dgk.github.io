@@ -3,19 +3,13 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 02 NOV 2024
+last updated 08 NOV 2024
 
 ### Media
 **Currently reading**:
-- This Life, Martin Hagglund
-- His Name is George Floyd, Robert Samuels & Toluse Olorunnipa
+- Odyssee, Stephen Fry
+- Treasure Island, Robert Louis Stevenson
 - The Great Escape, Angus Deacon
-- The Extinction of Experience, Christine Rosen
-- To Overthrow the World, Sean McMeekin
-- Odyssey, Stephen Fry
-- Building Material, Stephen Bruno
-- Circle of Hope, Eliza Griswold
-- Pimp, Iceberg Slim
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -30,9 +24,12 @@ last updated 02 NOV 2024
 
 **Currently watching**
 - The Penguin
+- Disclaimer
+- Death Note
 
 **To-watch** (max 10):
-- The Cook, the Thief, His Wife & Her Lover
-- Delicious in Dungeon
-- Death Note
 - Steins;Gate
+- Arcane season two
+- The Count of Monte-Cristo (2024)
+- Frieren
+- Steven Universe
