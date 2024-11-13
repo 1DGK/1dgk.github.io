@@ -3,19 +3,17 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 09 OCT 2024.
+last updated 12 NOV 2024.
 
 To sort:
 
 Rootme
 
+https://owasp.org/www-project-juice-shop/
+
 ctftime
 
 https://teachyourselfinfosec.com/
-
-https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources
-
-https://prep.fullstackacademy.com/
 
 https://capturetheflag.withgoogle.com/beginners-quest
 
@@ -36,6 +34,8 @@ https://capturetheflag.withgoogle.com/beginners-quest
 - 🏫 [Linux Journey](https://linuxjourney.com/)
 - 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
 - 📖 [Linux Command Library](https://linuxcommandlibrary.com/) - cheat sheet
+- 📖 [Linux Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
+- 📖 [Linux Command Line for Beginners](https://prep.fullstackacademy.com/)
 
 ***Python***
 - 📖 [Python Crash Course, 3rd Edition by Eric Matthes](https://nostarch.com/python-crash-course-3rd-edition)
@@ -62,6 +62,7 @@ https://capturetheflag.withgoogle.com/beginners-quest
     - [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path)
 - [OverTheWire](https://overthewire.org/wargames/)
 - [picoCTF](https://picoctf.org/)
+- [pwn college](https://pwn.college/)
 
 ### Free courses
 - 🏫 [Mosse Institute- MICS - Introduction to Cyber Security](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html)
