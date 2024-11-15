@@ -3,13 +3,12 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 08 NOV 2024
+last updated 14 NOV 2024
 
 ### Media
 **Currently reading**:
 - Odyssee, Stephen Fry
-- Treasure Island, Robert Louis Stevenson
-- The Great Escape, Angus Deacon
+- The Souls of Black Folk
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -25,11 +24,9 @@ last updated 08 NOV 2024
 **Currently watching**
 - The Penguin
 - Disclaimer
-- Death Note
 
 **To-watch** (max 10):
 - Steins;Gate
 - Arcane season two
 - The Count of Monte-Cristo (2024)
 - Frieren
-- Steven Universe
