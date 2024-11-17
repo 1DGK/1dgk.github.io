@@ -71,7 +71,6 @@ https://capturetheflag.withgoogle.com/beginners-quest
 - 🏫 [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - 🏫 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - 🏫 [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
-- 🏫 [Immersive Labs - Cyber Million](https://community.immersivelabs.online/register) - Use promo code CYBER-MILLION or GIMMEFREELABS at sign-up.
 - 🏫 [Trailhead - Cybersecurity Career Path - Fortinet / Salesforce / WEF / World Cyber Alliance](https://trailhead.salesforce.com/en/career-path/cybersecurity/)
 - 🏫 [ISC2 - Certified in Cybersecurity](https://www.isc2.org/landing/1mcc)
 
