@@ -10,6 +10,7 @@ last updated 17 NOV 2024
 - Odyssee, Stephen Fry
 - The Souls of Black Folk
 - The Wager, David Grann
+- His Name is George Floyd
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
