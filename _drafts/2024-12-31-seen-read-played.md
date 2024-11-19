@@ -332,4 +332,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/15 TOKYO VICE\
 11/16 [blank]\
 11/17 SATURDAY NIGHT LIVE\
-11/18 
+11/18 SAY NOTHING\
+11/19 
