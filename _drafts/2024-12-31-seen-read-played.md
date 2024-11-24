@@ -337,4 +337,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/20 _The Wager, David Grann_\
 11/21 DISCLAIMER, _The Odyssee, Steven Fry_\
 11/22 **COME AND SEE**\
-11/23
+11/23 ARCANE\
+11/24 ARCANE\
+11/25
