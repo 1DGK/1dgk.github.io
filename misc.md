@@ -3,12 +3,13 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 22 NOV 2024
+last updated 29 NOV 2024
 
 ### Media
 **Currently reading**:
-- The Unwomanly Face of War, Svetlana Alexievich
-
+- With the Old Breed, Eugene Sledge
+- The Fellowship of the Ring, J.R.R. Tolkien
+ 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
 - In Memory of Memory by Maria Stepanova

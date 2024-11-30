@@ -339,4 +339,9 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/22 **COME AND SEE (1985)**\
 11/23 ARCANE\
 11/24 ARCANE, **SURVEILLED (2024)**\
-11/25
+11/25 ARCANE\
+11/26 ARCANE\
+11/27 ARCANE, _The Unwomanly Face of War, Svetlana Alexievich_\
+11/28 ARCANE\
+11/29 **ANDREI RUBLEV (1966) [1/2]**\
+11/30 **ANDREI RUBLEV (1966) [2/2]**
