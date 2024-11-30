@@ -26,3 +26,8 @@ last updated 29 NOV 2024
 - Steins;Gate
 - The Count of Monte-Cristo (2024)
 - Frieren
+- Andrei Rublev
+- Look Back
+- When We Were Kings
+- Anthony Jeselnik 
+- Beatles '64
