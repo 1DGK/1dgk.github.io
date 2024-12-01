@@ -344,4 +344,5 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/27 ARCANE, _The Unwomanly Face of War, Svetlana Alexievich_\
 11/28 ARCANE\
 11/29 **CONCLAVE (2024)**\
-11/30 **ANDREI RUBLEV (1966) [1/2]**
+11/30 **ANDREI RUBLEV (1966) [1/2]**, **ANTHONY JESELNIK: BONES AND ALL (2024)**\
+12/01 **ANDREI RUBLEV (1966) [2/2]**

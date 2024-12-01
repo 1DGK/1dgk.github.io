@@ -3,7 +3,7 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 29 NOV 2024
+last updated 01 DEC 2024
 
 ### Media
 **Currently reading**:
@@ -21,13 +21,12 @@ last updated 29 NOV 2024
 - The Passage by Justin Cronin
 
 **Currently watching**
+- Andrei Rublev
 
 **To-watch** (max 10):
 - Steins;Gate
 - The Count of Monte-Cristo (2024)
 - Frieren
-- Andrei Rublev
 - Look Back
 - When We Were Kings
-- Anthony Jeselnik 
 - Beatles '64
