@@ -3,12 +3,12 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 01 DEC 2024
+last updated 02 DEC 2024
 
 ### Media
 **Currently reading**:
 - With the Old Breed, Eugene Sledge
-- The Fellowship of the Ring, J.R.R. Tolkien
+- The Fellowship of the Ring, J.R.R. Tolkien (1981 BBC audio adaptation)
  
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -21,12 +21,9 @@ last updated 01 DEC 2024
 - The Passage by Justin Cronin
 
 **Currently watching**
-- Andrei Rublev
+- Steins;Gate
 
 **To-watch** (max 10):
-- Steins;Gate
 - The Count of Monte-Cristo (2024)
-- Frieren
-- Look Back
-- When We Were Kings
-- Beatles '64
+- Frieren: Beyond Journey's End
+- Beatles '64 (2024)
