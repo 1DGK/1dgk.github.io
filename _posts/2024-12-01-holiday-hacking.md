@@ -9,3 +9,7 @@ title: Holiday Hacking 2024
 I just learned about this game as well: 
 
 [KC7 Cyber Detective game](https://kc7cyber.com/)
+
+I'm also using this time to brush up on math:
+
+[OSSU Math Prerequisites](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)
