@@ -346,4 +346,7 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 11/29 **CONCLAVE (2024)**\
 11/30 **ANTHONY JESELNIK: BONES AND ALL (2024)**\
 12/01 **WHEN WE WERE KINGS (1996)**, **LOOK BACK (2024)**\
-12/02 
+12/02 STEINS;GATE\
+12/03 STEINS;GATE\
+12/04 STEINS;GATE\
+12/05 
