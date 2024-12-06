@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Holiday Hacking 2024
+title: Hack the Halls 2024
 ---
+## Hacking 
 [TryHackMe Advent of Cyber 2024](https://tryhackme.com/r/room/adventofcyber2024)
 
 [SANS Holiday Hack Challenge 2024](https://2024.holidayhackchallenge.com/)
@@ -10,6 +11,17 @@ I just learned about this game as well:
 
 [KC7 Cyber Detective game](https://kc7cyber.com/)
 
-I'm also using this time to brush up on math:
+## Math Refresher
+I'll start with this [assessment from Athabasca](https://www.athabascau.ca/math-site/math-diagnostic-assessment.html)
+
+U Waterloo has [resources for high school math](https://cemc.uwaterloo.ca/resources/courseware?field_subject_area_tools_target_id=3). I'm mainly interested in the 9/10/11 Math Courseware. 
+
+[This reddit comment](https://www.reddit.com/r/learnmath/comments/5nk3ze/comment/dcc8d1m/) cleanly lays out a math progression.
 
 [OSSU Math Prerequisites](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites)
+
+Stanford [Intro to Mathematical Thinking](https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking)
+- [Adding It Up](http://www.nap.edu/catalog.php?record_id=9822)
+
+
+And of course there's always Khan Academy, which should probably first on this list.
