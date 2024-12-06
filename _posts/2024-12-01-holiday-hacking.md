@@ -31,3 +31,8 @@ U Waterloo - [Applied Math program](https://uwaterloo.ca/future-students/program
 - [Applied Math program outline](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses?group=Applied%20Mathematics%20(AMATH)), from 2nd year onwards
 
 And of course there's always Khan Academy, which should probably first on this list.
+
+## Start with
+[https://courseware.cemc.uwaterloo.ca/8](Advanced Functions MHF4U)
+
+MHF4U -> MCV4U -> [Core Math](https://github.com/ossu/computer-science/tree/master?tab=readme-ov-file#core-math)
