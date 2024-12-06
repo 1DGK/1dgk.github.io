@@ -23,5 +23,11 @@ U Waterloo has [resources for high school math](https://cemc.uwaterloo.ca/resour
 Stanford [Intro to Mathematical Thinking](https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking)
 - [Adding It Up](http://www.nap.edu/catalog.php?record_id=9822)
 
+MHF4U - [Nelson Advanced Functions 12](https://teachers.wrdsb.ca/ruhnke/files/2017/09/Nelson-Advanced-Functions-12-Textbook.pdf)
+
+MCV4U - [Nelson 12 Calculus](http://mrkennedy.pbworks.com/w/file/fetch/91710504/Nelson%20MCV4U%20Textbook.pdf)
+
+U Waterloo - [Applied Math program](https://uwaterloo.ca/future-students/programs/applied-mathematics). See first-year courses. First prereq is MCV4U or [MDM4U](https://tvolearn.com/products/mdm4u-mathematics-of-data-management-online-course)
+- [Applied Math program outline](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses?group=Applied%20Mathematics%20(AMATH)), from 2nd year onwards
 
 And of course there's always Khan Academy, which should probably first on this list.
