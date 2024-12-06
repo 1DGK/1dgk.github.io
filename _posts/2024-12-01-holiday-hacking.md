@@ -36,3 +36,5 @@ And of course there's always Khan Academy, which should probably first on this l
 [https://courseware.cemc.uwaterloo.ca/8](Advanced Functions MHF4U)
 
 MHF4U -> MCV4U -> [Core Math](https://github.com/ossu/computer-science/tree/master?tab=readme-ov-file#core-math)
+
+UofT [Calculus assessment](https://users.math.utoronto.ca/preparing-for-calculus/) for aspiring first-year university students. 
