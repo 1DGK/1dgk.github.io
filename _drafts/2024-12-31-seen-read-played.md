@@ -349,4 +349,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 12/02 STEINS;GATE\
 12/03 STEINS;GATE\
 12/04 STEINS;GATE\
-12/05 
+12/05 STEINS;GATE\
+12/06 STEINS;GATE\
+12/07 
