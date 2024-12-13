@@ -352,4 +352,9 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 12/05 STEINS;GATE\
 12/06 STEINS;GATE\
 12/07 STEINS;GATE 0\
-12/08 
+12/08 STEINS;GATE 0\
+12/09 STEINS;GATE 0, _The Lord of the Rings, J.R.R. Tolkien (1981 BBC audio adaptation)_\
+12/10 STEINS;GATE 0\
+12/11 STEINS;GATE 0, _With the Old Breed, Eugene Sledge_\
+12/12 STEINS;GATE 0, THE SIMPSONS\
+12/13 STEINS;GATE 0, THE SIMPSONS\

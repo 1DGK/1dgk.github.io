@@ -3,13 +3,13 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 02 DEC 2024
+last updated 13 DEC 2024
 
 ### Media
 **Currently reading**:
-- With the Old Breed, Eugene Sledge
-- The Fellowship of the Ring, J.R.R. Tolkien (1981 BBC audio adaptation)
- 
+- Springfield Confidential by Mike Reiss
+- The Passage by Justin Cronin
+
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
 - In Memory of Memory by Maria Stepanova
@@ -17,11 +17,9 @@ last updated 02 DEC 2024
 - Second-hand Time by Svetlana Alexievich
 - The Travels of Marco Polo
 - The Cosmic Perspective by Jeffrey Bennett
-- Springfield Confidential by Mike Reiss
-- The Passage by Justin Cronin
 
 **Currently watching**
-- Steins;Gate
+- Steins;Gate 0
 
 **To-watch** (max 10):
 - The Count of Monte-Cristo (2024)
