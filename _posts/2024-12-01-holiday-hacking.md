@@ -38,3 +38,5 @@ And of course there's always Khan Academy, which should probably first on this l
 MHF4U -> MCV4U -> [Core Math](https://github.com/ossu/computer-science/tree/master?tab=readme-ov-file#core-math)
 
 UofT [Calculus assessment](https://users.math.utoronto.ca/preparing-for-calculus/) for aspiring first-year university students. 
+
+Math assessments, to see if you're ready for university-level math. [Link](https://mdtp.ucsd.edu/resources/Practice%20Tests.html)

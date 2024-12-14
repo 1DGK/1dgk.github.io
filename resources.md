@@ -9,6 +9,8 @@ To sort:
 
 Rootme
 
+Networking course textbook [UC Berkeley](https://textbook.cs168.io/)
+
 https://owasp.org/www-project-juice-shop/
 
 ctftime
