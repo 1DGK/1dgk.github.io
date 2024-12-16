@@ -3,21 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 12 NOV 2024.
-
-To sort:
-
-Rootme
-
-Networking course textbook [UC Berkeley](https://textbook.cs168.io/)
-
-https://owasp.org/www-project-juice-shop/
-
-ctftime
-
-https://teachyourselfinfosec.com/
-
-https://capturetheflag.withgoogle.com/beginners-quest
+last updated 15 DEC 2024.
 
 ### Foundations
 
@@ -85,7 +71,7 @@ https://capturetheflag.withgoogle.com/beginners-quest
 - [NIST - NICE - Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
 ### Math
-- 📖 [Contemporary Math](https://openstax.org/details/books/contemporary-mathematics) by OpenStax
+- 📖 [Openstax](https://openstax.org/)
 - 📖 [CK-12](https://www.ck12.org/student/)
 
 ### AI

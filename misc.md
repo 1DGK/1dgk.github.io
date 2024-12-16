@@ -7,8 +7,9 @@ last updated 13 DEC 2024
 
 ### Media
 **Currently reading**:
-- Springfield Confidential by Mike Reiss
-- The Passage by Justin Cronin
+- Springfield Confidential, Mike Reiss
+- The Passage, Justin Cronin
+- A Mind for Numbers, Barbara Oakley
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -17,11 +18,20 @@ last updated 13 DEC 2024
 - Second-hand Time by Svetlana Alexievich
 - The Travels of Marco Polo
 - The Cosmic Perspective by Jeffrey Bennett
+- The Second World War, Beevor
 
 **Currently watching**
-- Steins;Gate 0
+- Steins;Gate 0 (ep 17)
+- The Simpsons
 
 **To-watch** (max 10):
 - The Count of Monte-Cristo (2024)
-- Frieren: Beyond Journey's End
+- Frieren: Beyond Journey's End (2023)
 - Beatles '64 (2024)
+- Andrei Rublev (1966)
+- The Brutalist (2024)
+- One Hundred Years of Solitude (2024)
+
+**Holiday watchlist**
+- Hell or High Water (plex)
+- Rogue Heroes (2022)

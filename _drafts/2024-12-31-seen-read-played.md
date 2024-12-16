@@ -358,3 +358,6 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 12/11 STEINS;GATE 0, _With the Old Breed, Eugene Sledge_\
 12/12 STEINS;GATE 0, THE SIMPSONS\
 12/13 STEINS;GATE 0, THE SIMPSONS\
+12/14 STEINS;GATE 0, THE SIMPSONS\
+12/15 STEINS;GATE 0, THE SIMPSONS, SATURDAY NIGHT LIVE\
+12/16 
