@@ -3,7 +3,7 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 13 DEC 2024
+last updated 16 DEC 2024
 
 ### Media
 **Currently reading**:
@@ -21,7 +21,7 @@ last updated 13 DEC 2024
 - The Second World War, Beevor
 
 **Currently watching**
-- Steins;Gate 0 (ep 17)
+- One Hundred Years of Solitude (2024)
 - The Simpsons
 
 **To-watch** (max 10):
@@ -30,7 +30,6 @@ last updated 13 DEC 2024
 - Beatles '64 (2024)
 - Andrei Rublev (1966)
 - The Brutalist (2024)
-- One Hundred Years of Solitude (2024)
 
 **Holiday watchlist**
 - Hell or High Water (plex)
