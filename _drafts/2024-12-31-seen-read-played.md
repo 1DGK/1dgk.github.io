@@ -361,4 +361,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 12/14 STEINS;GATE 0, THE SIMPSONS\
 12/15 STEINS;GATE 0, THE SIMPSONS, SATURDAY NIGHT LIVE\
 12/16 STEINS;GATE 0, THE SIMPSONS\
-12/17 
+12/17 FRIEREN: BEYOND JOURNEY’S END\

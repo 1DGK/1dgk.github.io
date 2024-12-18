@@ -3,7 +3,7 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 16 DEC 2024
+last updated 17 DEC 2024
 
 ### Media
 **Currently reading**:
@@ -22,11 +22,11 @@ last updated 16 DEC 2024
 
 **Currently watching**
 - One Hundred Years of Solitude (2024)
+- Frieren: Beyond Journey's End (2023) (ep 5)
 - The Simpsons
 
 **To-watch** (max 10):
 - The Count of Monte-Cristo (2024)
-- Frieren: Beyond Journey's End (2023)
 - Beatles '64 (2024)
 - Andrei Rublev (1966)
 - The Brutalist (2024)
