@@ -3,12 +3,14 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 15 DEC 2024
+last updated 20 DEC 2024
 
 ## 2024 - Doing
 - Khan Academy - re-learning math to get back to university-level. 
 
 - TryHackMe Advent of Cyber
+
+- History courses - [OER Project](https://www.oerproject.com/)
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)

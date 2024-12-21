@@ -3,13 +3,13 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 17 DEC 2024
+last updated 20 DEC 2024
 
 ### Media
 **Currently reading**:
-- Springfield Confidential, Mike Reiss
-- The Passage, Justin Cronin
-- A Mind for Numbers, Barbara Oakley
+- In Search of Lost Time, Marcel Proust
+- Nuclear War, Annie Jacobsen
+- The Time Machine Did It, John Swartzwelder
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -22,7 +22,7 @@ last updated 17 DEC 2024
 
 **Currently watching**
 - One Hundred Years of Solitude (2024)
-- Frieren: Beyond Journey's End (2023) (ep 5)
+- Frieren: Beyond Journey's End (2023)
 - The Simpsons
 
 **To-watch** (max 10):
