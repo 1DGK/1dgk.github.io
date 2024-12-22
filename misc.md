@@ -8,7 +8,7 @@ last updated 20 DEC 2024
 ### Media
 **Currently reading**:
 - In Search of Lost Time, Marcel Proust
-- Nuclear War, Annie Jacobsen
+- Nuclear War: A Scenario, Annie Jacobsen
 - The Time Machine Did It, John Swartzwelder
 
 **To-read** (max 10):

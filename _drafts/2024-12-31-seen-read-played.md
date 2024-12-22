@@ -365,4 +365,4 @@ For TV series, the number of episodes I watched that day are in brackets, where 
 12/18 SEVERANCE, FRIEREN: BEYOND JOURNEY’S END, _A Mind for Numbers, Barbara Oakley_\
 12/19 SEVERANCE, _Springfield Confidential, Mike Reiss_\
 12/20 FRIEREN: BEYOND JOURNEY’S END, THE SIMPSONS\
-12/21 
+12/21 FRIEREN: BEYOND JOURNEY’S END, THE SIMPSONS

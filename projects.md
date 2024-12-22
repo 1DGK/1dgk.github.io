@@ -6,7 +6,7 @@ permalink: /projects/
 last updated 20 DEC 2024
 
 ## 2024 - Doing
-- Khan Academy - re-learning math to get back to university-level. 
+- Khan Academy - re-learn math to get back to university-level. 
 
 - TryHackMe Advent of Cyber
 
@@ -22,3 +22,5 @@ last updated 20 DEC 2024
 [My TryHackMe Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ87lrVxZ8GCfOyDqw?e=Sp9qc5)
 
 - [OSSU](https://github.com/ossu/computer-science)
+
+- 2025 Book Project
