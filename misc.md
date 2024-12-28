@@ -3,14 +3,15 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 20 DEC 2024
+last updated 28 DEC 2024
 
 ### Media
 **Currently reading**:
 - In Search of Lost Time, Marcel Proust
-- Nuclear War: A Scenario, Annie Jacobsen
 - The Time Machine Did It, John Swartzwelder
-- Bringing Up Bookmonsters,  Amber and Andy Ankowski 
+- Bringing Up Bookmonsters,  Amber Ankowski and Andy Ankowski 
+- Jane Austen's England, Lesley Adkins and Roy Adkins
+- Qualityland, Marc-Uwe Kling
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -20,6 +21,8 @@ last updated 20 DEC 2024
 - The Travels of Marco Polo
 - The Cosmic Perspective by Jeffrey Bennett
 - The Second World War, Beevor
+- A Psalm for the Wild-Built, Becky Chambers
+- Not the End of the World, Hannah Ritchie
 
 **Currently watching**
 - One Hundred Years of Solitude (2024)

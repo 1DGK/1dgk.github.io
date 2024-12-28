@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 20 DEC 2024
+last updated 28 DEC 2024
 
 ## 2024 - Doing
 - Khan Academy - re-learn math to get back to university-level. 
