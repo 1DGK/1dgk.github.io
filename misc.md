@@ -10,6 +10,7 @@ last updated 20 DEC 2024
 - In Search of Lost Time, Marcel Proust
 - Nuclear War: A Scenario, Annie Jacobsen
 - The Time Machine Did It, John Swartzwelder
+- Bringing Up Bookmonsters,  Amber and Andy Ankowski 
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -22,7 +23,6 @@ last updated 20 DEC 2024
 
 **Currently watching**
 - One Hundred Years of Solitude (2024)
-- Frieren: Beyond Journey's End (2023)
 - The Simpsons
 
 **To-watch** (max 10):
