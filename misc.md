@@ -7,7 +7,6 @@ last updated 28 DEC 2024
 
 ### Media
 **Currently reading**:
-- In Search of Lost Time, Marcel Proust
 - The Time Machine Did It, John Swartzwelder
 - Bringing Up Bookmonsters,  Amber Ankowski and Andy Ankowski 
 - Jane Austen's England, Lesley Adkins and Roy Adkins
