@@ -1,8 +1,12 @@
 ---
 layout: post
-title: Sean / Read / Played 2024
-tags: tv film books games
+title: Seen and Read 2024
+tags: tv film books
 ---
+Here is a recap of my 2024 viewing and reading habits. I didn't read as much as I should have, and if you add up all the time spent watching tv shows and movies, I could have solved most of the worlds problems.
+
+My favourites of the bunch: various adaptations of 1984 by George Orwell, the old BBC adaptation of The Lord of the Rings, and the new adaptation of One Hundred Years of Solitude. Honorable mention to King Leopold's Ghost, that was an awful eye-opener.
+
 I got this idea from a NYT Book Review  interview with Stephen Soderbergh. Here is a [link to his website](https://extension765.com/blogs/soderblog/seen-read-2023).
 
 All caps, bold: **MOVIE**
