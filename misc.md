@@ -3,14 +3,13 @@ layout: page
 title: Misc
 permalink: /misc/
 ---
-last updated 28 DEC 2024
+last updated 03 JAN 2025
 
 ### Media
 **Currently reading**:
 - The Time Machine Did It, John Swartzwelder
-- Bringing Up Bookmonsters,  Amber Ankowski and Andy Ankowski 
-- Jane Austen's England, Lesley Adkins and Roy Adkins
-- Qualityland, Marc-Uwe Kling
+- To Overthrow the World, Sean McMeekin
+- The Passage, Justin Cronin
 
 **To-read** (max 10):
 - The Untouchables by Eliot Ness
@@ -24,7 +23,6 @@ last updated 28 DEC 2024
 - Not the End of the World, Hannah Ritchie
 
 **Currently watching**
-- One Hundred Years of Solitude (2024)
 - The Simpsons
 
 **To-watch** (max 10):
@@ -32,7 +30,3 @@ last updated 28 DEC 2024
 - Beatles '64 (2024)
 - Andrei Rublev (1966)
 - The Brutalist (2024)
-
-**Holiday watchlist**
-- Hell or High Water (plex)
-- Rogue Heroes (2022)
