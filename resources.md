@@ -75,6 +75,7 @@ last updated 15 DEC 2024.
 - 📖 [CK-12](https://www.ck12.org/student/)
 - 📖 [My post](https://1dgk.github.io/2024/12/17/high-school-math.html) for high school math resources. Follows the Ontario math curriculum
 - 📖 [Real Not Complex](https://realnotcomplex.com/) - great math resources from the basics onwards
+- 📖 [Calculus Made Easy](https://calculusmadeeasy.org/) - a classic textbook, updated for use online
 
 ### AI
 - 🏫 [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
