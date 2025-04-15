@@ -3,7 +3,22 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 15 DEC 2024.
+last updated 14 APR 2025.
+
+### Platforms
+- [pwn.college](https://pwn.college/) (free)
+    - [CSE365 dojo](https://pwn.college/cse365-s2025/)
+- TryHackMe (free/paid)
+- HackTheBox (free/paid)
+- HackTheBox Academy
+- AttackIQ (free)
+
+### CTFs and Wargames
+- [zaratec](https://zaratec.io/ctf-practice/) CTF Practice links
+- [wargame-nexus](https://github.com/zardus/wargame-nexus)
+
+### Home Lab Guide
+- [Building Blue Team Home Lab by facyber](https://facyber.me/posts/blue-team-lab-guide-part-1/)
 
 ### Foundations
 
