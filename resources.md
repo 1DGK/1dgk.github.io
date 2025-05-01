@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 14 APR 2025.
+last updated 30 APR 2025.
 
 From OSSU computer science:
 ### How can I review the math prerequisites?
@@ -40,11 +40,7 @@ Practice what you have not mastered by:
 - [zaratec](https://zaratec.io/ctf-practice/) CTF Practice links
 - [wargame-nexus](https://github.com/zardus/wargame-nexus)
 
-### Home Lab Guide
-- [Building Blue Team Home Lab by facyber](https://facyber.me/posts/blue-team-lab-guide-part-1/)
-
 ### Foundations
-
 ***Networking***
 - 📖 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
 - 🏫 [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
@@ -83,22 +79,12 @@ Practice what you have not mastered by:
 - 🏫 [SQL Murder Mystery](https://mystery.knightlab.com/) - whodunnit?
 - 📖 [SQL Queries for Mere Mortals](https://www.oreilly.com/library/view/sql-queries-for/9780134858432/) by John Viescas
 
-### CTF
-- [TryHackMe](https://tryhackme.com/)
-    - [Free TryHackMe Training: The Ultimate Guide for Beginners](https://tryhackme.com/r/resources/blog/free_path)
-- [OverTheWire](https://overthewire.org/wargames/)
-- [picoCTF](https://picoctf.org/)
-- [pwn college](https://pwn.college/)
-
 ### Free courses
-- 🏫 [Mosse Institute- MICS - Introduction to Cyber Security](https://www.mosse-institute.com/certifications/mics-introduction-to-cyber-security.html)
+- 🏫 [Security Blue Team Junior Analyst Pathway](https://www.securityblue.team/courses/blue-team-junior-analyst-pathway-bundle)
 - 🏫 [Cyber Security Base - University of Helsinki](https://cybersecuritybase.mooc.fi/)
-- 🏫 [Roppers](https://www.roppers.org/)
 - 🏫 [Fortinet Training Institute](https://training.fortinet.com/) - Free Cybersecurity Training
 - 🏫 [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - 🏫 [Metasploit Unleashed](https://www.offsec.com/metasploit-unleashed/) by OffSec
-- 🏫 [Trailhead - Cybersecurity Career Path - Fortinet / Salesforce / WEF / World Cyber Alliance](https://trailhead.salesforce.com/en/career-path/cybersecurity/)
-- 🏫 [ISC2 - Certified in Cybersecurity](https://www.isc2.org/landing/1mcc)
 
 ### Other resources:
 - [TCM Security Academy](https://academy.tcm-sec.com/)
