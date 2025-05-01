@@ -49,12 +49,14 @@ Practice what you have not mastered by:
 - 🧰 [GN3S](https://www.gns3.com/software) - virtual networking software 
     
 ***Linux***
+- 🏫 [Linux Survival](https://linuxsurvival.com/)
+- 🏫 [Linux Journey](https://linuxjourney.com/)
+- 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
+- 🏫 [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code.
+- 📖 [Linux Command Line for You and Me](https://lym.readthedocs.io/en/latest/)
 - 📖 [UNIX and Linux System Administration Handbook](https://www.admin.com/)
 - 📖 [The Linux Command Line book](https://linuxcommand.org/tlcl.php)
 - 📖 [Linux Essentials - Linux Professional Institute](https://learning.lpi.org/en/learning-materials/010-160/)
-- 🏫 [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code.
-- 🏫 [Linux Journey](https://linuxjourney.com/)
-- 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
 - 📖 [Linux Command Library](https://linuxcommandlibrary.com/) - cheat sheet
 - 📖 [Linux Bash Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page)
 - 📖 [Linux Command Line for Beginners](https://prep.fullstackacademy.com/)
@@ -68,7 +70,7 @@ Practice what you have not mastered by:
 - 🏫 [Codecademy - Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - 🏫 [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) - visualize how the code works
 - 🏫 [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
-- 🏫 [Programming with Python](https://programming-24.mooc.fi/) - University of Helsinki
+- 🏫 [Programming with Python](https://programming-25.mooc.fi/) - University of Helsinki
 -  [Exercism](https://exercism.org/)
 
 ***SQL***
