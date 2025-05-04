@@ -102,6 +102,7 @@ Practice what you have not mastered by:
 - 📖 [My post](https://1dgk.github.io/2024/12/17/high-school-math.html) for high school math resources. Follows the Ontario math curriculum
 - 📖 [Real Not Complex](https://realnotcomplex.com/) - great math resources from the basics onwards
 - 📖 [Calculus Made Easy](https://calculusmadeeasy.org/) - a classic textbook, updated for use online
+- 📖 [JUST THE MATHS by A.J. Hobson](https://www.mathcentre.ac.uk/resources/uploaded/hobsonajjustthemaths20021296smcetp.pdf)
 
 ### AI
 - 🏫 [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
