@@ -97,6 +97,7 @@ Practice what you have not mastered by:
 - [NIST - NICE - Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
 ### Math
+- 📖 [Purplemath](https://www.purplemath.com/index.htm)
 - 📖 [Openstax](https://openstax.org/)
 - 📖 [CK-12](https://www.ck12.org/student/)
 - 📖 [My post](https://1dgk.github.io/2024/12/17/high-school-math.html) for high school math resources. Follows the Ontario math curriculum
