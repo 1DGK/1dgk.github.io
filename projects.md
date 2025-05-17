@@ -3,24 +3,19 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 28 DEC 2024
+last updated 17 MAY 2025
 
-## 2024 - Doing
-- Khan Academy - re-learn math to get back to university-level. 
+## 2025 - Doing
+- [My progress through OSSU Pre-College Math](https://github.com/1DGK/precollege-math)
 
-- TryHackMe Advent of Cyber
-
-- History courses - [OER Project](https://www.oerproject.com/)
+- [My progress through OSSU Computer Science](https://github.com/1DGK/computer-science)
+    - Currently on Intro CS course
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
     - [My notes](https://1dgk.github.io/2024/01/24/gcc-course-index.html)
 
-## 2025 - To Do
+## Other Initiatives
 - [My Cyber Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ89Nv5Wy5N_PZGGmg?e=egYYEJ) - Credit to [this post](https://www.blackhillsinfosec.com/from-high-school-to-cyber-ninja/) by Carrie Roberts.
 
 [My TryHackMe Training Plan](https://1drv.ms/x/s!Apounr3vgj6XhJ87lrVxZ8GCfOyDqw?e=Sp9qc5)
-
-- [OSSU](https://github.com/ossu/computer-science)
-
-- 2025 Book Project
