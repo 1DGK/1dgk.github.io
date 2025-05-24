@@ -27,7 +27,7 @@ last updated 17 MAY 2025.
     
 ***Linux***
 - 🏫 [Linux Survival](https://linuxsurvival.com/)
-- 🏫 [Linux Journey](https://linuxjourney.com/)
+- 🏫 [Linux Path](https://www.linux-path.com/en)
 - 🏫 [Terminal Tutor](https://www.terminaltutor.com/) - interactive command line tutorial
 - 🏫 [Linux From Scratch](https://www.linuxfromscratch.org/) - Build your own linux system from source code.
 - 📖 [Linux Command Line for You and Me](https://lym.readthedocs.io/en/latest/)
