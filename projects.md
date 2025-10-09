@@ -7,7 +7,10 @@ last updated 17 SEP 2025
 
 ## 2025 - Doing
 - Math refreshers through TVO ILC
+    - Current: MTH1W (Mathematics, Grade 9)
+    - Path: MPM2D (Principles of Mathematics, Grade 10, Academic) -> MCR3U (Functions, Grade 11, University Preparation) -> MHF4U (Advanced Functions, Grade 12, University Preparation) -> MCV4U (Calculus and Vectors, Grade 12, University Preparation) 
 - CS at TRU
+    - Current: COMP 1131 (Computer Programming 1) 
 
 ## 2024 - Done
 - [Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)
