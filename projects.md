@@ -16,6 +16,7 @@ last updated 12 OCT 2025
 ## TRU - Computer Science
 ### COMP 1131 (Computer Programming 1) 
 - Other resources to learn Java:
+    - [Introduction to Computer Science using Java](https://chortle.ccsu.edu/javaLessons/index.html) - by Bradley Kjell
     - [Java Programming](https://java-programming.mooc.fi/) - MOOC by the University of Helsinki 
     - [Bro Code Java Tutorial for Beginners (2025)](https://youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&si=9Do5ivTXo1kkGYmp) - YouTube playlist
     - [Java Quick Start](https://foojay.io/java-quick-start/) by Foojay, Friends of OpenJDK
