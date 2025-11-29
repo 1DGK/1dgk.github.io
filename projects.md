@@ -3,11 +3,11 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 12 OCT 2025
+last updated 28-11-2025
 
 # 2025 - Doing
 ## TVO ILC - High School Math Refresh 
-### MTH1W (Mathematics, Grade 9)
+### [MTH1W (Mathematics, Grade 9)](https://portal.ilc.tvo.org/PublicWelcome.aspx)
 - Next: 
     - MPM2D (Principles of Mathematics, Grade 10, Academic)
     - MCR3U (Functions, Grade 11, University Preparation)
@@ -20,6 +20,10 @@ last updated 12 OCT 2025
     - [Java Programming](https://java-programming.mooc.fi/) - MOOC by the University of Helsinki 
     - [Bro Code Java Tutorial for Beginners (2025)](https://youtube.com/playlist?list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&si=9Do5ivTXo1kkGYmp) - YouTube playlist
     - [Java Quick Start](https://foojay.io/java-quick-start/) by Foojay, Friends of OpenJDK
+## CISCO NETACAD - Network Technician Career Path
+### [Introduction to IoT and Digital Transformation](https://www.netacad.com/courses/introduction-iot)
+- Next: 
+    - Networking Basics
 
 ---
 
