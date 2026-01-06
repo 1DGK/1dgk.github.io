@@ -2,7 +2,7 @@
 layout: post
 title: My TRU Game Plan
 ---
-Go to https://mytru.tru.ca/, Current Registrations, then TRU Program Plan.
+Go to https://mytru.tru.ca/, Academic Record, Degree Works (TRU Program Plan)
 
 Try this [link](https://dw-prod.ec.tru.ca/responsiveDashboard/worksheets/WEB31).
 
