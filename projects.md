@@ -9,6 +9,10 @@ last updated 2026-01-06
 
 [TRU - Computer Science](https://www.tru.ca/distance/programs/bachelor-of-computing-science/)
 
+[TRU - Student Profile](https://studentssb-prod.ec.tru.ca/StudentSelfService/studentProfile/studentProfile)
+
+[TRU - Program Planning Tool](https://dw-prod.ec.tru.ca/responsiveDashboard/worksheets/WEB31)
+
 **COMP 1131 (Java Programming 1)** - [Moodle link](https://moodle.tru.ca/my/)
 
 - More Java resources:

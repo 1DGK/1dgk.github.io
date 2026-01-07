@@ -18,3 +18,7 @@ Currently on Kjell Part 4: Branches and Loops, chapters 16-25.
 [Here is the link.](https://chortle.ccsu.edu/javaLessons/chap16/ch16_01.html)
 
 Installed IntelliJ IDEA and uninstalled all the Java extensions in VSCode.
+
+Created a repo for textbook examples. Then I can practice them from anywhere. Just need to install IntelliJ and sync Github account. Then clone the [JavaTests repo](https://github.com/1DGK/JavaTests).
+
+Working on getting the Github Student Developer pack.
