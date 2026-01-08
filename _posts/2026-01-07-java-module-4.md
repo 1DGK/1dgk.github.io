@@ -20,7 +20,7 @@ Created a repo for textbook examples. Then I can practice them from anywhere. Ju
 
 Working on getting the Github Student Developer pack. It's an automated system that only takes photos taken from a camera, so it's a PITA.
 
-Got back on the Helsinki Java MOOC. Installed TMCBeans.
+Got back on the Helsinki Java MOOC. Installed TMCBeans. I'm on Part 1 -> Calculating with numbers -> **Simple calculator**
 
 Currently on Kjell Part 4: Branches and Loops, chapters 16-25.
 
