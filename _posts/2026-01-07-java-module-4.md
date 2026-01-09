@@ -27,3 +27,5 @@ Currently on Kjell Part 4: Branches and Loops, chapters 16-25.
 [Here is the link.](https://chortle.ccsu.edu/javaLessons/chap16/ch16_01.html)
 
 Now I'm using TMCBeans for the Helsinki Java MOOC, VSCode for my website, and Intellij IDEA for the TRU course.
+
+Currently working on Exercises for Chapter 16 of Kjell course. Pump the brakes on the MOOC.
