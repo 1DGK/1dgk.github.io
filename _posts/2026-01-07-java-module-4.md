@@ -32,3 +32,8 @@ Currently working on Exercises for Chapter 16 of Kjell course. Pump the brakes o
 
 08-01-2026 UPDATE\
 Finally got the Github Education application approved. I took a photo of the 'Application Summary' page, which is found at mytru.tru.ca under CHECK YOUR APPLICATION STATUS.  
+
+09-01-2025 UPDATE\
+I completed all the exercises in Kjell Chapter 16.
+
+Now I'm starting Chapter 17, The Single Branch if Statement
