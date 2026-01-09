@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-last updated 17 MAY 2025.
+last updated 09-01-2026.
 
 ### Platforms
 - [pwn.college](https://pwn.college/) (free)
@@ -21,7 +21,7 @@ last updated 17 MAY 2025.
 ***Networking***
 - 📖 [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
 - 🏫 [Cisco Skills for All / Networking Academy](https://www.netacad.com/)  
-    - [Network Technician Path](https://skillsforall.com/career-path/network-technician?courseLang=en-US)
+    - [Network Technician Path](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)
     - [Packet Tracer](https://www.netacad.com/courses/packet-tracer) - network simulation tool
 - 🧰 [GN3S](https://www.gns3.com/software) - virtual networking software 
     

@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-last updated 2026-01-06
+last updated 09-01-2026.
 
 # Doing
 
@@ -29,9 +29,6 @@ last updated 2026-01-06
     - MCR3U (Functions, Grade 11, University Preparation)
     - MHF4U (Advanced Functions, Grade 12, University Preparation)
     - MCV4U (Calculus and Vectors, Grade 12, University Preparation) 
-
-**Cisco Networking Academy** - [Network Technician](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)
-[Introduction to IoT and Digital Transformation](https://www.netacad.com/courses/introduction-iot)
 
 # Done
 **[Google Cybersecurity Certification](https://grow.google/certificates/cybersecurity/)**
