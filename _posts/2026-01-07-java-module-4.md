@@ -37,3 +37,10 @@ Finally got the Github Education application approved. I took a photo of the 'Ap
 I completed all the exercises in Kjell Chapter 16.
 
 Now I'm starting Chapter 17, The Single Branch if Statement
+
+10-01-2026 UPDATE\
+I started the first assignment program, the Over-Under number guessing game.
+
+I also uploaded a template for the second assignment program, an odd digit counter.
+
+For now I'll step back and work through all the examples in the Kjell chapter 16 because it feels like I'm relying too much on other resources.
