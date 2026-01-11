@@ -44,3 +44,8 @@ I started the first assignment program, the Over-Under number guessing game.
 I also uploaded a template for the second assignment program, an odd digit counter.
 
 For now I'll step back and work through all the examples in the Kjell chapter 16 because it feels like I'm relying too much on other resources.
+
+11-01-2026 UPDATE\
+Still working through Part 04 of Kjell. Solving the examples really helps my understanding.
+
+[Here is the link.](https://chortle.ccsu.edu/javaLessons/index.html#part04)
