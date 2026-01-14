@@ -49,3 +49,6 @@ For now I'll step back and work through all the examples in the Kjell chapter 16
 Still working through Part 04 of Kjell. Solving the examples really helps my understanding.
 
 [Here is the link.](https://chortle.ccsu.edu/javaLessons/index.html#part04)
+
+14-01-2026 UPDATE\
+Working on chapter 20 of Kjell Part 4: Branches and Loops - Counting Loops
