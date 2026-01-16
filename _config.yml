@@ -30,6 +30,9 @@ github_username:  1dgk
 # Chirpy theme settings
 timezone: America/New_York
 
+# Avatar - place your image in assets/img/
+avatar: /assets/img/avatar.png
+
 # Build settings
 theme: jekyll-theme-chirpy
 
