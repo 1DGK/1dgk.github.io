@@ -41,10 +41,28 @@ links:
   - title: "Misc"
     url: "/misc"
 
+# Chirpy theme settings
+timezone: America/New_York
+
 # Build settings
-theme: minima
+theme: jekyll-theme-chirpy
+
+# Chirpy-specific configuration
+social:
+  name: Dustin Kennedy
+  links:
+    - https://github.com/1dgk
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+
+# Pagination
+paginate: 10
+paginate_path: "/posts/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
