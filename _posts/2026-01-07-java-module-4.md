@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Java Module 4 - Conditionals and Loops
+date: 2026-01-07 10:00:00 -0500
+categories: java
 ---
 [Link to course Moodle](https://moodle.tru.ca/course/view.php?id=46967)
 
@@ -51,4 +53,9 @@ Still working through Part 04 of Kjell. Solving the examples really helps my und
 14-01-2026 UPDATE\
 Working on chapter 20 of Kjell Part 4: Branches and Loops - Counting Loops
 
-[Here is the link.](https://chortle.ccsu.edu/javaLessons/index.html#part04)
+17-01-2026 UPDATE\
+Finished chapter 20 exercises. Now on chapter 21 - Nesting Loops and Ifs.
+
+Chapter 21 Exercises: [link](https://chortle.ccsu.edu/javaLessons/chap21/progExercises21.html)
+
+Part 4: Branches and Loops: [link](https://chortle.ccsu.edu/javaLessons/index.html#part04)
