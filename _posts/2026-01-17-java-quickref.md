@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Java Quick Reference
+date: 2026-01-17 11:00:00 -0500
+categories: [java]
 ---
 last updated: January 17, 2026
 
