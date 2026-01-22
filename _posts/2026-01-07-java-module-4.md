@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Module 4 - Conditionals and Loops
-date: 2026-01-07 10:00:00 -0500
+# date: 2026-01-07 10:00:00 -0500
 categories: java
 ---
 [Link to course Moodle](https://moodle.tru.ca/course/view.php?id=46967)
