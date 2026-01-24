@@ -2,6 +2,7 @@
 layout: post
 title: "CNTP - Professor Messer Network+ Training Course"
 date: 2024-10-09
+pin: true
 ---
 This section of the Cyber Ninja Training Plan is a course that explains the material for the CompTIA Network+ certification exam.
 
