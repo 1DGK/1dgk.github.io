@@ -4,7 +4,7 @@
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1e">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
 
   {% seo %}
 
@@ -43,6 +43,8 @@
   <!-- Scripts -->
   <script src="{{ '/assets/js/dist/theme.min.js' | relative_url }}"></script>
 
+  {% include js-selector.html lang=lang %}
+
   {% if site.google_analytics.id != empty and site.google_analytics.id %}
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -52,4 +54,6 @@
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics.id }}"></script>
   {% endif %}
+
+  {% include metadata-hook.html %}
 </head>
