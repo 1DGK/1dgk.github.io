@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Code in Place from Stanford University
-pin: true
 ---
 [Student home](https://codeinplace.stanford.edu/cip4/studenthome) - main page for Stanford's Code in Place
 
