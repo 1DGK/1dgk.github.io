@@ -6,4 +6,4 @@ order: 4
 permalink: /about/
 ---
 
-This is Dustin's playground.
+This is my playground.

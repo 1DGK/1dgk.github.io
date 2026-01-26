@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: K's Notes
+title: Dust Diamond
 # email: 1dustinkennedy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learning Computer Science through an online degree — notes and projects
+  Learning Computer Science — notes and projects
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://1dgk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -38,7 +38,7 @@ theme: jekyll-theme-chirpy
 
 # Chirpy-specific configuration
 social:
-  name: Dustin Kennedy
+  name: Dust Diamond
   links:
     - https://github.com/1dgk
 
