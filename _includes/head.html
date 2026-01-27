@@ -31,6 +31,15 @@
   <!-- Theme style -->
   <link rel="stylesheet" href="{{ '/assets/css/jekyll-theme-chirpy.css' | relative_url }}">
 
+  <style>
+    /* Hide specific navigation links without deleting their pages */
+    #sidebar .nav-link[href="/about/"],
+    #sidebar .nav-link[href="/categories/"],
+    #sidebar .nav-link[href="/tags/"] {
+      display: none !important;
+    }
+  </style>
+
   <!-- Web Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Source+Sans+Pro:wght@400;600;700;900&display=swap">
 
