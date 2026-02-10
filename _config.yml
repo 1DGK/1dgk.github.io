@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dust Diamond
+title: K's Notes
 # email: 1dustinkennedy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learning Computer Science — notes and projects
@@ -38,7 +38,7 @@ theme: jekyll-theme-chirpy
 
 # Chirpy-specific configuration
 social:
-  name: Dust Diamond
+  name: K
   links:
     - https://github.com/1dgk
 
