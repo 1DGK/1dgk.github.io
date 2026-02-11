@@ -6,7 +6,7 @@ order: 0
 permalink: /journey/
 ---
 
-Welcome — this site documents my Computer Science journey through an online degree and hands-on projects. Start here for curated milestones, study plans, and links to detailed notes.
+Welcome — this site documents my journey through an online cs degree and includes many hands-on projects. Start here for curated milestones, study plans, and links to detailed notes.
 
 ## Degree Path
 - Program: [TRU - Bachelor of Computing Science (OL)](https://www.tru.ca/distance/programs/bachelor-of-computing-science/)
