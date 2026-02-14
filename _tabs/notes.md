@@ -7,7 +7,13 @@ permalink: /notes/
 ---
 
 <div id="notes-archive">
-  {% for note in site.notes reversed %}
+  {% assign daily_notes = site.notes | sort: "date" | reverse %}
+
+  {% if daily_notes.size == 0 %}
+    <p class="text-muted">No daily notes yet.</p>
+  {% endif %}
+
+  {% for note in daily_notes %}
     {% assign cur_month_year = note.date | date: '%B %Y' %}
     
     {% if cur_month_year != last_month_year %}
