@@ -5,6 +5,8 @@ date: 2026-02-14
 categories: [fitness]
 tags: [PLQ, training, rucking]
 ---
+AI GENERATED CONTENT
+
 - [Workouts](#workouts)
     - [Phase 1: The Foundation (Weeks 1–4)](#phase-1-the-foundation-weeks-14)
     - [Phase 2: The Build \& Load (Weeks 5–8)](#phase-2-the-build--load-weeks-58)
