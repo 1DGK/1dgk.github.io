@@ -5,6 +5,11 @@ date: 2026-02-09
 categories: [fitness]
 tags: [homegym]
 ---
+I'm planning to invest in a home gym. I need it for three things: squat, bench press, and deadlift. So I need a barbell, plates, a power rack, a bench, and flooring. I want to keep the costs as low as possible while still getting quality equipment that will last.
+
+I'm not so worried about all of this being the best of the best. I could always upgrade down the line. This is more of an initial test investment. Though I do plan to use it a few times a week for many years.
+
+Here's a breakdown of the equipment I'm considering:
 
 ### Barbell
 Minimum requirements: 7ft / 20kg / 2in sleeves
