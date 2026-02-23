@@ -5,6 +5,7 @@ date: 2026-02-22
 categories: [fitness]
 tags: [knee pain, training plan]
 ---
+
 I ran on a treadmill for 30 minutes yesterday. I had done all sorts of workouts in the previous month, so I assumed that my knee would be happy to go for a run. 
 
 I was mistaken. At the 20-minute mark it started to sting. I powered through because it wasn't excruciating, but I probably should've stopped. Because the pain carried through to the next day and threw off the 8km ruck I had planned. I struggled to walk up and down the stairs at my house and that settled my choice to axe the ruck. 
