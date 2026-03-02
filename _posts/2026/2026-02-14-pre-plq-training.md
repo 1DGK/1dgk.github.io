@@ -49,6 +49,12 @@ Here is a comprehensive 12-week program designed to bridge the gap between your 
 *   **Lunges:** 3 sets of 10 reps per leg.
 *   **Plank:** 3 sets holding for 45–60 seconds.
 
+**Monday (Strength) -> "The Ruck Circuit"**
+*   **Ruck Squats:** Wear the ruck (20-25lbs). 3 sets of 15 reps. (Slow and controlled).
+*   **Weighted Push-ups:** Ruck on back. 3 sets to failure.
+*   **Lunges:** Wearing the ruck. 3 sets of 12 per leg.
+*   **Plank:** Standard.
+
 **Tuesday: Ruck Introduction**
 *   **Activity:** 5 km Ruck March.
 *   **Weight:** 20 lbs (Blue weight).
@@ -63,6 +69,12 @@ Here is a comprehensive 12-week program designed to bridge the gap between your 
 *   **Overhead Press:** 3 sets of 8–10 reps (Builds shoulder width/aesthetics).
 *   **Pull-ups:** 3 sets to failure (or use bands). *If you can’t do one, do negative pull-ups.*
 *   **Step-ups:** 3 sets of 12 reps (Use a box or bench—mimics trench jumping).
+
+**Thursday (Strength) -> "Functional Bodyweight"**
+*   **Single-Leg Romanian Deadlift (RDL):** No weight needed initially, hold the ruck in your hands for a challenge. 3 sets of 10 per leg. *Crucial for ankle/knee stability.*
+*   **Pike Push-ups:** Hands and feet on the floor, hips high (like a Downward Dog yoga pose). Lower head to floor and push up. 3 sets of 10. *This builds shoulder strength without weights.*
+*   **Pull-ups:** Find a branch or bar. 3 sets to failure.
+*   **Step-ups:** Use a sturdy chair, stairs, or a park bench. Step up with the ruck on your back.
 
 **Friday: Cardio (Aerobic Base)**
 *   **Activity:** 30 min run at "conversational pace."
