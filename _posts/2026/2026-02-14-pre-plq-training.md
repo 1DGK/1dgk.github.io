@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Pre-PLQ Training Program
+pin: true
 date: 2026-02-14
 categories: [fitness]
 tags: [PLQ, training, rucking]
 ---
-AI GENERATED CONTENT
+Starting 23-03-2026 I'll start the [6-week Advanced BMT Training Plan](https://cfmws.ca/CFMWS/media/images/documents/4.0%20Sport%20Fitness%20and%20Rec/EN-FINAL-Pre-BMT-6-Week-Advanced-Fitness-Training-Program.pdf). It's designed for basic training, but it'll suit my needs for PLQ. A mix of strength, cardio, and rucking. I'll post updates here as I go through the program.
+
+---
+
+OLD AI GENERATED CONTENT THAT MIGHT BE USEFUL FOR FUTURE PLANS:
 
 - [Workouts](#workouts)
     - [Phase 1: The Foundation (Weeks 1–4)](#phase-1-the-foundation-weeks-14)
