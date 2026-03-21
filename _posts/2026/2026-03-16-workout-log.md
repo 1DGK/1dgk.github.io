@@ -39,15 +39,28 @@ Ruck March: 12km with 35kg dry (meaning the weight of the pack itself, not inclu
 
 Workout Log:
 
+21-03-2026:
+- Handgrip: N/A
+- Squats (160lb/42bpm): 
+- Pull-ups: 
+- Sit-ups: 
+- Push-ups: 20
+- 20m Shuttle Run: N/A
+- 1.5 Mile Run (2.4km): N/A
+- Ruck March (12km/35kg): N/A
+- Deadlift: N/A
+- Bench Press: N/A
+- Notes: N/A
+
 16-03-2026:
-- Handgrip: 0.95 (right), 0.92 (left)
-- Squats (b/w): 20, 20
+- Handgrip: N/A
+- Squats (160lb/42bpm): 20, 20 (b/w)
 - Pull-ups: 3, 2 
 - Sit-ups: 20
 - Push-ups: 20, 20
 - 20m Shuttle Run: N/A
-- 1.5 Mile Run: N/A
-- Ruck March: N/A
+- 1.5 Mile Run (2.4km): N/A
+- Ruck March (12km/35kg): N/A
 - Deadlift: N/A
 - Bench Press: N/A
 - Notes: N/A
